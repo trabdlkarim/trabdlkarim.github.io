@@ -1,4 +1,4 @@
-## Welcome to my Projects site
+## Welcome to my Personal Project Site
 
 You can use the [editor on GitHub](https://github.com/trabdlkarim/trabdlkarim.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
