@@ -22,7 +22,7 @@ GNU General Public License v3.0
 
 ## Support
 
-<p>If you want to show your appreciation, buy <a href='https://github.com/artemsheludko' target="_blank" >Artem Sheludko</a> <a href="https://www.buymeacoffee.com/artemsheludko" target="_blank">a coffee </a> !</p>
+<p>If you want to show your appreciation, buy <a href='https://github.com/artemsheludko' target="_blank" >Artem Sheludko</a> <a href="https://www.buymeacoffee.com/artemsheludko" target="_blank">a coffee </a>!</p>
 <p> Every five cups of coffee and a new theme for Jekyll is ready 😋</p>
 <p>Either way, your support is a way to thank him ❤️</p>
 <p align="center"><b>Thank you for your support!</b></p>
