@@ -4,16 +4,16 @@
 permalink:           pretty
 
 # Setup
-title:               Toure A.Karim
-tagline:             'A Jekyll theme'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:               Touré A.Karim
+tagline:             'Personal Github Pages'
+description:         'This is a personal project page that lists most important open source and personal projects made by <a href="https://github.com/trabdlkarim" target="_blank">@trabdlkarim</a>.'
 url:                 http://projects.trabdlkarim.com
 baseurl:             ''
 paginate:            5
 
 # About/contact
 author:
-  name:              Toure A.Karim
+  name:              Touré A.Karim
   url:               https://twitter.com/trabdlkarim
   email:             contact@trabdlkarim.com
 
