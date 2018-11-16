@@ -1,20 +1,20 @@
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
+permalink:           none
 
 # Setup
 title:               Touré A.Karim
 tagline:             '- Personal Github Pages'
 description:         'This is a personal project page that lists most important open source and personal projects made by <a href="https://github.com/trabdlkarim" target="_blank">@trabdlkarim</a>.'
-url:                 http://projects.trabdlkarim.com
+url:                 https://projects.trabdlkarim.com
 baseurl:             ''
 paginate:            5
 
 # About/contact
 author:
   name:              Touré A.Karim
-  url:               http://www.trabdlkarim.com
+  url:               https://www.trabdlkarim.com
   email:             contact@trabdlkarim.com
 
 # Custom vars
