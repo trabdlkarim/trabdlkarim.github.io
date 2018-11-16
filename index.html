@@ -14,7 +14,7 @@ title: Home
         </a>
       </h1>
       {% if post.tags.size > 0 %}
-      <span class="post-tags">
+      <span class="post-date">
         Tag{% if post.tags.size > 1 %}s{% endif %}: {{ post.tags | sort | join: ", " }}
       </span>  
       {% endif %}
