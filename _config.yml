@@ -10,7 +10,7 @@ description:         'This is a personal project page that lists most important 
 url:                 https://projects.trabdlkarim.com
 baseurl:             ''
 paginate:            5
-
+excerpt_separator: <!--more-->
 # About/contact
 author:
   name:              Touré A.Karim
