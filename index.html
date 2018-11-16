@@ -14,8 +14,8 @@ title: Home
         </a>
       </h1>
       <span class="post-date">{{ post.date | date_to_string }}</span>
-     {{ post.excerpt }} 
-     <a href="{{ site.url }}{{ post.url }}">Continue reading...</a>
+     {{ post.content }} 
+     <p>Find out more by <a href="{{ site.url }}{{ post.url }}">visiting the project page.</a></p>
     </div>
   </li>  
   {% endfor %}
