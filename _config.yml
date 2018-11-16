@@ -9,7 +9,7 @@ tagline:             '- Personal Github Pages'
 description:         'This is a personal project page that lists most important open source and personal projects made by <a href="https://github.com/trabdlkarim" target="_blank">@trabdlkarim</a>.'
 url:                 https://projects.trabdlkarim.com
 baseurl:             ''
-paginate:            5
+paginate:            10
 excerpt_separator: <!--more-->
 
 # About/contact
