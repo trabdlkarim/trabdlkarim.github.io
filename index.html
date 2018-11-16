@@ -13,6 +13,11 @@ title: Home
          {{ post.title }}
         </a>
       </h1>
+      {% if post.tags.size > 0 %}
+      <span class="post-tags">
+        Tag{% if post.tags.size > 1 %}s{% endif %}: {{ post.tags | sort | join: ", " }}
+      </span>  
+      {% endif %}
       <span class="post-date">{{ post.date | date_to_string }}</span>
      {{ post.content }}
     </div>
