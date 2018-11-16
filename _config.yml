@@ -10,7 +10,6 @@ description:         'This is a personal project page that lists most important 
 url:                 https://projects.trabdlkarim.com
 baseurl:             ''
 paginate:            5
-paginate_path:       '/page:num/'
 
 # About/contact
 author:
