@@ -4,12 +4,12 @@ title: Home
 ---
 
 <div class="posts">
-  <ol>
+  <ul>
   {% for post in paginator.posts %}
    <li>
     <div class="post">
       <h1 class="post-title">
-        <a href="{{ site.baseurl }}/{{ post.url }}">
+        <a href="{{ site.url }}/{{ post.url }}">
          {{ post.title }}
         </a>
       </h1>
@@ -18,7 +18,7 @@ title: Home
     </div>
   </li>  
   {% endfor %}
-   </ol>
+   </ul>
 </div>
 
 <div class="pagination">
