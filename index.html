@@ -4,7 +4,7 @@ title: Home
 ---
 
 <div class="posts">
-  <ul>
+  <ol>
   {% for post in paginator.posts %}
    <li>
     <div class="post">
@@ -16,11 +16,11 @@ title: Home
 
       <span class="post-date">{{ post.date | date_to_string }}</span>
 
-     {{ post.content }}
+     
     </div>
   </li>  
   {% endfor %}
-    </ul>
+    </ol>
 </div>
 
 <div class="pagination">
