@@ -13,12 +13,7 @@ title: Home
          {{ post.title }}
         </a>
       </h1>
-      {% if post.tags.size > 0 %}
-      <span class="post-date">
-        Tag{% if post.tags.size > 1 %}s{% endif %}: {{ post.tags | sort | join: ", " }}
-      </span>  
-      {% endif %}
-      <span class="post-date">{{ post.date | date_to_string }}</span>
+      <small>{{ post.date | date_to_string }}</small>
      {{ post.excerpt }} 
      <a href="{{ site.url }}{{ post.url }}">Continue reading...</a>
     </div>
