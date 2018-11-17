@@ -7,15 +7,15 @@ permalink:           /:title/
 title:               Touré A.Karim
 tagline:             '- Personal Github Pages'
 description:         'This is a personal project page that lists most important open source and personal projects made by <a href="https://github.com/trabdlkarim" target="_blank">@trabdlkarim</a>.'
-url:                 https://projects.trabdlkarim.com
+url:                 projects.trabdlkarim.com
 baseurl:             ''
-paginate:            10
+paginate:            6
 excerpt_separator: <!--more-->
 
 # About/contact
 author:
   name:              Touré A.Karim
-  url:               https://www.trabdlkarim.com
+  url:               www.trabdlkarim.com
   email:             contact@trabdlkarim.com
 
 # Custom vars
