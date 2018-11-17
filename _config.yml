@@ -7,7 +7,7 @@ permalink:           /:title/
 title:               Touré A.Karim
 tagline:             '- Personal Github Pages'
 description:         'This is a personal project page that lists most important open source and personal projects made by <a href="https://github.com/trabdlkarim" target="_blank">@trabdlkarim</a>.'
-url:                 projects.trabdlkarim.com
+url:                 https://projects.trabdlkarim.com
 baseurl:             ''
 paginate:            6
 excerpt_separator: <!--more-->
