@@ -18,7 +18,7 @@ Learn more and contribute on [my personal blog](https://www.trabdlkarim.com).
 
 ## Additional Information
 
-Have questions or suggestions ? Feel free to [contact me](contact@tradlkarim.com) using one the means below or [ask me on Twitter](https://twitter.com/trabdlkarim).
+Have questions or suggestions ? Feel free to contact me using one the means below or [ask me on Twitter](https://twitter.com/trabdlkarim).
 
 Some additional information for those who want to contact me directly:
 
