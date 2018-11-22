@@ -4,19 +4,19 @@ title: A Bit About Me
 ---
 
 <p class="message">
-  Hey there! I'm TOURE Abdoul Karim, a Computer Engineering Student &  Freelance Developer.This site is my personal project pages stack that lists some of my most important open source and personal projects. Feel free to browse the pages, and use the projects for your own use upon downloading. Carry on!
+  Hey there! I'm TOURE Abdoul Karim, a Computer Engineering Student &  Freelance Developer. This site is a personal project pages stack or simply an index of personal projects that lists some of my most important open source and personal projects. Feel free to browse the pages, and use the projects for your own use upon downloading. Carry on!
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+In this index of projects, many of the projects are generally coursework projects, and  you will find that every listed project in the index has its code sources in a related github repository. And also every project has a dedicated page or site which gives more information about the project. So in order to find out more about the project, you might visit its related page or if you want to get the code, visit the related github repository. 
 
-There are currently two themes built on Poole:
+There are currently more projects on my github than those listed in this index, so to see a full list of the projects visit these pages:
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+* [GitHub Repositories](https://github.com/trabdlkarim?tab=repositories)
+* [Docker Hub](https://hub.docker.com/trabdlkarim)
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+Learn more and contribute on [my blog](https://www.trabdlkarim.com).
 
-## Setup
+## Additional Information
 
 Some fun facts about the setup of this project include:
 
