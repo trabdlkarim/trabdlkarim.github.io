@@ -12,19 +12,18 @@ In this index of projects, many of the projects are generally coursework project
 There are currently more projects on my github than those listed in this index, so to see a full list of the projects visit these pages:
 
 * [GitHub Repositories](https://github.com/trabdlkarim?tab=repositories)
-* [Docker Hub](https://hub.docker.com/trabdlkarim)
+* [Docker Hub](https://hub.docker.com/u/trabdlkarim)
 
-Learn more and contribute on [my blog](https://www.trabdlkarim.com).
+Learn more and contribute on [my personal blog](https://www.trabdlkarim.com).
 
 ## Additional Information
 
-Some fun facts about the setup of this project include:
+Have questions or suggestions ? Feel free to [contact me](contact@tradlkarim.com) using one the means below or [ask me on Twitter](https://twitter.com/trabdlkarim).
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+Some additional information for those who want to contact me directly:
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+* Email address: <contact@trabdlkarim.com>
+* Contact Form : [Leave me a message](https://trabdlkarim.com/p/contact.html)
+* Linkedin: <https://www.linkedin.com/in/trabdlkarim/>
 
 Thanks for reading!
