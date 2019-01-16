@@ -169,7 +169,7 @@ h1, h2, h3, h4, h5, h6 {
 .sidebar-item {
   padding: 1rem;
 }
-.sidebar-item p{
+.sidebar-desc, .author-img {
   text-align:center!important;
 }
 .sidebar-item p:last-child {
