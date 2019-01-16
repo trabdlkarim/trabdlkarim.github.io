@@ -175,6 +175,7 @@ h1, h2, h3, h4, h5, h6 {
 .sidebar-desc author-img{
  height:90px;
  width:90px;
+ position: center !important;
 }
 .sidebar-item p:last-child {
   margin-bottom: 0; 
