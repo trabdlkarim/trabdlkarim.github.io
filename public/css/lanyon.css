@@ -19,7 +19,7 @@
  *
  * Global resets
  * Masthead
- * Sidebar
+ * 
  * Slide effect
  * Posts and pages
  * Pagination
@@ -169,8 +169,11 @@ h1, h2, h3, h4, h5, h6 {
 .sidebar-item {
   padding: 1rem;
 }
+.sidebar-item p{
+  text-align:center!important;
+}
 .sidebar-item p:last-child {
-  margin-bottom: 0;
+  margin-bottom: 0; 
 }
 
 /* Sidebar nav */
@@ -441,16 +444,16 @@ a.pagination-item:hover {
  * Based on colors from Base16: http://chriskempson.github.io/base16/#default.
  */
 
-/* Red */
+/* default: Red (#ac4142) , value: Brown (#bd5d38) */
 .theme-base-08 .sidebar,
 .theme-base-08 .sidebar-toggle:active,
 .theme-base-08 #sidebar-checkbox:checked ~ .sidebar-toggle {
-  background-color: #ac4142;
+  background-color: #bd5d38; /* default: #ac4142;*/
 }
 .theme-base-08 .container a,
 .theme-base-08 .sidebar-toggle,
 .theme-base-08 .related-posts li a:hover {
-  color: #ac4142;
+  color: #bd5d38; /* default: #ac4142;*/
 }
 
 /* Orange */
