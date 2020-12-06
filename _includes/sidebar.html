@@ -10,14 +10,14 @@
 
   <nav class="sidebar-nav">
     <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/"><i class="fas fa-home"></i> HOME</a>
-    <a class="sidebar-nav-item" target='_blank' href="https://www.trabdlkarim.com/">BLOG</a>
+    <a class="sidebar-nav-item" target='_blank' href="https://www.trabdlkarim.com/"><i class="fas fa-globe"></i> BLOG</a>
     {% comment %}
       The code below dynamically generates a sidebar nav of pages with
       `layout: page` in the front-matter. See readme for usage.
     {% endcomment %}
 
-    <a class="sidebar-nav-item" href="https://me.trabdlkarim.com/" target='_blank'>ABOUT</a>
-    <a class="sidebar-nav-item" href="https://github.com/trabdlkarim" target='_blank'>GITHUB</a>
+    <a class="sidebar-nav-item" href="https://me.trabdlkarim.com/" target='_blank'><i class="fas fa-home"></i>  ABOUT</a>
+    <a class="sidebar-nav-item" href="https://github.com/trabdlkarim" target='_blank'><i class="fas fa-github"></i>  GITHUB</a>
     <span class="sidebar-nav-item">{{ site.author.email }}</span>
   </nav>
 
