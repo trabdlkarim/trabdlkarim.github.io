@@ -7,7 +7,7 @@ permalink:           /:title/
 title:               TOURE A. KARIM
 tagline:             'A Personal Software Dev Lab'
 description:         'This is a simple hub for some of <a href="https://github.com/trabdlkarim" target="_blank">@trabdlkarim</a> most important personal software development projects.'
-url:                 https://gh.trabdlkarim.com/
+url:                 https://gh.trabdlkarim.com
 baseurl:             /
 paginate:            5
 excerpt_separator: <!--more-->
