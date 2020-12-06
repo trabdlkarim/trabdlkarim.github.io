@@ -5,8 +5,8 @@ permalink:           /:title/
 
 # Setup
 title:               TOURE A. KARIM
-tagline:             'Personal Dev Labs'
-description:         'This is a simple hub for some of <a href="https://github.com/trabdlkarim" target="_blank">@trabdlkarim's</a> most important open source and personal  software development projects.'
+tagline:             'A Personal Soft Dev Labs'
+description:         'This is a simple hub for some of <a href="https://github.com/trabdlkarim" target="_blank">@trabdlkarim's</a> most important personal software development projects.'
 url:                 https://trabdlkarim.github.io
 baseurl:             /
 paginate:            5
