@@ -4,8 +4,8 @@
 permalink:           /:title/
 
 # Setup
-title:               TOURE A. KARIM
-tagline:             'A Personal Software Dev Lab'
+title:               Software Dev Labs
+tagline:             'TOURE A. KARIM'
 description:         'This is a simple hub for some of <a href="https://github.com/trabdlkarim" target="_blank">@trabdlkarim</a> most important personal software development projects.'
 url:                 https://gh.trabdlkarim.com
 baseurl:             /
