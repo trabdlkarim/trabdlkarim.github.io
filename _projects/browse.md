@@ -2,6 +2,7 @@
 layout: default
 title: Browse all projects
 nav_order: 7
+permalink: /projects/browse
 ---
 
 # Search
