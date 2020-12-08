@@ -6,7 +6,7 @@ description: "Toure A. Karim's Project Index hosted on GitHub Pages."
 permalink: /
 ---
 
-# TAK Project Index: Toure Abdoul Karim Project Index
+# TAK Project Index, A Simple Personal Project Index
 {: .fs-9 }
 
 Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
