@@ -12,7 +12,7 @@ permalink: /
 This is just a simple hub for some of <a href="https://github.com/trabdlkarim" target="_blank">@trabdlkarim</a> most important software development projects.
 {: .fs-6 .fw-300 }
 
-[Trending projects](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [New releases](https://github.com/trabdlkarim){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Trending projects](#trending-projects){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [New releases](#new-releases){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
