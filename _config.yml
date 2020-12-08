@@ -86,19 +86,6 @@ aux_links_new_tab: false
 nav_sort: case_sensitive # Capital letters sorted before lowercase
 
 # Define Jekyll collections
-collections:
-  projects:
-    permalink: "/:collection/:path"
-    relative_directory: "_projects"
-    output: true
-  snippets:
-    permalink: "/:collection/:path"
-    relative_directory: "_snippets"
-    output: true
-  resources:
-    permalink: "/:collection/:path"
-    relative_directory: "_resources"
-    output: true
 
 # Footer content
 # appears at the bottom of every page's main content
