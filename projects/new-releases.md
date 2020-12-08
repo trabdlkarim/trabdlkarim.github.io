@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Configuration
+layout: page
+title: New Releases
 nav_order: 2
 ---
 
