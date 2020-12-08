@@ -2,6 +2,7 @@
 layout: page
 title: Projects
 nav_order: 2
+permalink: /projects/index
 has_children: true
 ---
 
