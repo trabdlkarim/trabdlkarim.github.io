@@ -89,15 +89,15 @@ nav_sort: case_sensitive # Capital letters sorted before lowercase
 collections:
   projects:
     permalink: "/:collection/:path"
-    relative_directory: "_projects"
     output: true
   snippets:
     permalink: "/:collection/:path"
-    relative_directory: "_snippets"
     output: true
   resources:
     permalink: "/:collection/:path"
-    relative_directory: "_resources"
+    output: true
+  support:
+    permalink: "/:collection/:path"
     output: true
 
 # Footer content
