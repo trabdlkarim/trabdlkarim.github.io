@@ -65,8 +65,12 @@ If you're hosting your site on GitHub Pages, [set up GitHub Pages and Jekyll loc
 - [See configuration options]({{ site.baseurl }}{% link docs/configuration.md %})
 
 ---
+## Trending Projects
+---
 
-## About the project
+## New releases
+---
+## About TAK Project Index
 
 Just the Docs is &copy; 2017-{{ "now" | date: "%Y" }} by [Patrick Marsceill](http://patrickmarsceill.com).
 
@@ -79,7 +83,7 @@ Just the Docs is distributed by an [MIT license](https://github.com/pmarsceill/j
 When contributing to this repository, please first discuss the change you wish to make via issue,
 email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/pmarsceill/just-the-docs#contributing).
 
-#### Thank you to the contributors of Just the Docs!
+#### Thank you to the contributors of TAK PI!
 
 <ul class="list-style-none">
 {% for contributor in site.github.contributors %}
