@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Search
+title: Browse all projects
 nav_order: 7
 ---
 
