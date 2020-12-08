@@ -64,7 +64,7 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-   "Blog":
+  "Blog":
     - "https://trabdlkarim.com" 
     
   "GitHub":
