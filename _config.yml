@@ -88,15 +88,15 @@ nav_sort: case_sensitive # Capital letters sorted before lowercase
 # Define Jekyll collections
 collections:
   projects:
-    permalink: "/:collection/:path/"
+    permalink: "/:collection/:path"
     relative_directory: "_projects"
     output: true
   snippets:
-    permalink: "/:collection/:path/"
+    permalink: "/:collection/:path"
     relative_directory: "_snippets"
     output: true
   resources:
-    permalink: "/:collection/:path/"
+    permalink: "/:collection/:path"
     relative_directory: "_resources"
     output: true
 
