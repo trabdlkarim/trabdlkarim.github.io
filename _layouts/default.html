@@ -66,8 +66,10 @@ layout: table_wrappers
       {% endif %}
     </nav>
     <footer class="site-footer">
-      <i class="fas fa-paper-plane" arial-hidden="true"></i> {{site.author.email}}
-      <hr/> 
+       {% if site.author.email %}
+           <i class="fas fa-paper-plane" arial-hidden="true"></i> {{site.author.email}}
+           <hr/>
+      {% endif %}
       This is a simple hub for some of <a href="https://github.com/trabdlkarim" target="_blank">@trabdlkarim</a> most important personal software development projects.
     </footer>
   </div>
