@@ -1,10 +1,11 @@
 ---
-layout: default
-title: Customization
-nav_order: 6
+layout: page
+title: Trending Projects
+parent: Projects
+nav_order: 1
 ---
 
-# Customization
+# Trending Projects
 {: .no_toc }
 
 ## Table of contents
