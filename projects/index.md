@@ -1,12 +1,11 @@
 ---
 layout: page
-title: Browse all projects
+title: Projects
 nav_order: 2
 has_children: true
-permalink: /projects/browse
 ---
 
-# Search
+# Project Index
 {: .no_toc }
 
 ## Table of contents
