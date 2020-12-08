@@ -2,11 +2,11 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Toure A. Karim's Project Index hosted on GitHub Pages."
+description: "Toure Abdoul Karim's Project Index hosted on GitHub Pages."
 permalink: /
 ---
 
-# TAK Project Index, A Simple Personal Project Index
+# TAK Project Index, A Simple Personal Software Development Lab
 {: .fs-9 }
 
 Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
