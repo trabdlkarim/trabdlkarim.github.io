@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Browse all projects
-nav_order: 7
+nav_order: 2
 has_children: true
 permalink: /projects/browse
 ---
