@@ -66,14 +66,16 @@ layout: table_wrappers
       {% endif %}
     </nav>
     <footer class="site-footer">
-      This is a simple hub for some of <a href="https://github.com/trabdlkarim" target="_blank">@trabdlkarim</a> most important personal software development projects.
+      <p>This is a simple hub for some of <a href="https://github.com/trabdlkarim" target="_blank">@trabdlkarim</a> most important personal software development projects.</p>
        <hr/>
+      <div class="social-icons">
       {% if site.author.email %}
          <span class="mx-2"> <a href="mailto:{{ site.author.email }}" target="_blank"><i class="fas fa-2x fa-envelope" arial-hidden="true"></i></a> </span>
       {% endif %}
       <span class="mx-2"> <a href="https://github.com/trabdlkarim" target="_blank"><i class="fa fa-2x fa-github" arial-hidden="true"></i></a> </span>
       <span class="mx-2"> <a href="https://twitter.com/trabdlkarim" target="_blank"><i class="fa fa-2x fa-twitter" arial-hidden="true"></i></a> </span>
       <span class="mx-2"> <a href="https://linkedin.com/in/trabdlkarim" target="_blank"><i class="fa fa-2x fa-linkedin" arial-hidden="true"></i></a> </span>
+      </div>
     </footer>
   </div>
   <div class="main" id="top">
@@ -164,7 +166,7 @@ layout: table_wrappers
           <hr>
           <footer>
             {% if site.back_to_top %}
-              <p class="mb-2"><a href="#top" id="back-to-top">{{ site.back_to_top_text }}</a></p>
+              <p><a href="#top" id="back-to-top">{{ site.back_to_top_text }}</a></p>
             {% endif %}
 
             {{ footer_custom }}
