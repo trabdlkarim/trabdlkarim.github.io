@@ -1,10 +1,11 @@
 ---
 layout: default
-title: Customization
-nav_order: 6
+title: Resources
+nav_order: 7
+has_children: true
 ---
 
-# Customization
+# Resources
 {: .no_toc }
 
 ## Table of contents
