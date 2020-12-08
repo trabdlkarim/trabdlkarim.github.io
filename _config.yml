@@ -18,7 +18,7 @@ description: A Simple Personal Software Development Lab
 baseurl: / # the subpath of your site, e.g. /blog
 url: "https://devlabs.trabdlkarim.com" # the base hostname & protocol for your site, e.g. http://example.com
 
-permalink: date
+permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE", "lib/", "bin/", "README.md", "Rakefile"
 , "docs/tests/"
 ]
