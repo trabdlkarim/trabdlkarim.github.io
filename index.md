@@ -66,9 +66,16 @@ If you're hosting your site on GitHub Pages, [set up GitHub Pages and Jekyll loc
 
 ---
 ## Trending Projects
----
 
+---
 ## New releases
+
+---
+## Code Snippets
+
+---
+## Useful Resources
+
 ---
 ## About TAK PI
 
