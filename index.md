@@ -79,7 +79,7 @@ If you're hosting your site on GitHub Pages, [set up GitHub Pages and Jekyll loc
 
 ---
 
-## New releases
+## New Releases
 
 ---
 
@@ -101,8 +101,6 @@ Find out about [TAK PI Snippets]({{ site.baseurl }}{% link snippets/index.md %})
 
 When contributing to this repository, please first discuss the change you wish to make via issue,
 email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/pmarsceill/just-the-docs#contributing).
-
-#### Thank you to the contributors of TAK PI!
 
 <ul class="list-style-none">
 {% for contributor in site.github.contributors %}
