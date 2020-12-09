@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contribute To A Project
+title: Contribute to a project
 parent: Projects
 ---
 
