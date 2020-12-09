@@ -4,6 +4,9 @@ title: Support
 nav_order: 99
 ---
 
+# Using TAK PI
+---
+
 <p class="message">
   Hey there! I'm TOURE Abdoul Karim, a Computer Engineering Student &  Freelance Developer. This site is a personal project pages stack or simply an index of personal projects that lists some of my most important open source and personal projects. Feel free to browse the pages, and use the projects for your own use upon downloading. Carry on!
 </p>
