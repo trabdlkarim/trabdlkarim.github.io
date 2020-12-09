@@ -7,17 +7,25 @@ permalink: /
 ---
 
 # TAK PI, A Simple Personal Project Index
-{: .fs-9 }
----
+{: .no_toc .fs-9 }
 
 TAK Project Index (TAK PI) is just a simple hub for some of <a href="https://github.com/trabdlkarim" target="_blank">@trabdlkarim</a> most important software development projects. You can think of it as a personal development lab  with open source projects that you could customize for your own use upon downloading.
 {: .fs-6 .fw-300 }
 
 [Trending projects](#trending-projects){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [New releases](#new-releases){: .btn .fs-5 .mb-4 .mb-md-0 }
 
+---
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 
 ## {{ "Get Started" | upcase }}
----
+
 
 ### Dependencies
 
@@ -65,25 +73,29 @@ If you're hosting your site on GitHub Pages, [set up GitHub Pages and Jekyll loc
 
 - [See configuration options]({{ site.baseurl }}{% link help.md %})
 
+---
 
 ## {{ "Trending Projects" | upcase }}
+
 ---
 
 ## {{ "New releases" | upcase }}
+
 ---
 
 ## {{ "Code Snippets" | upcase }}
----
 
 Snippet is a programming term for a small region of re-usable source code, machine code, or text. Ordinarily, these are formally defined operative units to incorporate into larger programming modules. That is why TAK PI doesn't only indexes some important projects, but also it is a pool of code snippets from GitHub gists. They allow you to avoid repetitive typing in the course of routine edit operations.
 
 Find out about [TAK PI Snippets]({{ site.baseurl }}{% link snippets/index.md %}) for more information.
 
+---
+
 ## {{ "Useful Resources" | upcase }}
+
 ---
 
 ## {{ "About TAK PI" | upcase }}
----
 
 ### Maintainers
 
