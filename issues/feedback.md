@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Send A Feedback
+title: Send a feedback
 parent: Feedback
 ---
 
-# Get in Touch
+# Send Us Your Feedback
