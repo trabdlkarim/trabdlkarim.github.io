@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Report A Bug
+title: Report a bug
 parent: Feedback
 ---
 
