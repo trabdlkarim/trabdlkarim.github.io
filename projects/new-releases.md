@@ -1,6 +1,6 @@
 ---
 layout: page
-title: New Realease
+title: New Releases
 parent: Projects
 nav_order: 2
 ---
