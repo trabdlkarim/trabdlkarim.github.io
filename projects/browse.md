@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Browse All Projects
+title: Browse all projects
 parent: Projects
 ---
 
