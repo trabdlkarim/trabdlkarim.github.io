@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Help
+nav_order: 99
 ---
 
 <p class="message">
