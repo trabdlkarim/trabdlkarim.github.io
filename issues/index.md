@@ -5,7 +5,7 @@ nav_order: 4
 has_children: true
 ---
 
-# Customization
+# Feedback & Bug Reports
 {: .no_toc }
 
 ## Table of contents
