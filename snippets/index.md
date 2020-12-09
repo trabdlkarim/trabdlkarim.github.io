@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Code Snippets
+layout: page
+title: Snippets
 nav_order: 3
 ---
 
