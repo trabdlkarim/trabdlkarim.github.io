@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Downloading Packages
+title: Downloading packages
 parent: Resources
 ---
 
