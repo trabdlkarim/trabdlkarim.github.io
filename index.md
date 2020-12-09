@@ -75,6 +75,10 @@ If you're hosting your site on GitHub Pages, [set up GitHub Pages and Jekyll loc
 ## {{ "Code Snippets" | upcase }}
 ---
 
+Snippet is a programming term for a small region of re-usable source code, machine code, or text. Ordinarily, these are formally defined operative units to incorporate into larger programming modules. That is why TAK PI doesn't only indexes some important projects, but also it is a pool of code snippets from GitHub gists. They allow you to avoid repetitive typing in the course of routine edit operations.
+
+Find out about [TAK PI Snippets]({{ site.baseurl }}{% link snippets/index.md %}) for more information.
+
 ## {{ "Useful Resources" | upcase }}
 ---
 
