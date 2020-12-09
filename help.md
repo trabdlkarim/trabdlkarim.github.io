@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Help
+title: Support
 nav_order: 99
 ---
 
