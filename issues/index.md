@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Support
-nav_order: 6
+title: Feedback
+nav_order: 4
 ---
 
 # Customization
