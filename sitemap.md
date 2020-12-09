@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sitemap
-nav_order: 99
+nav_order: 10
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
