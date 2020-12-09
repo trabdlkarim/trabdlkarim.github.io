@@ -4,7 +4,7 @@ title: Snippets
 nav_order: 3
 ---
 
-# Customization
+# Code Snippets
 {: .no_toc }
 
 ## Table of contents
