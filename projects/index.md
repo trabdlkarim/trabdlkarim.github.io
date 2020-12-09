@@ -138,7 +138,7 @@ jtd.addEvent(toggleDarkMode, 'click', function(){
 });
 </script>
 
-See [Customization]({{ site.baseurl }}{% link /sitemap.md %}) for more information.
+
 
 ## Google Analytics
 
