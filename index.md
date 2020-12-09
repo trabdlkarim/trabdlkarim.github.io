@@ -16,7 +16,7 @@ This is just a simple hub for some of <a href="https://github.com/trabdlkarim" t
 
 ---
 
-## {{ "Welcome to TAK Project Index" | upcase }}
+## {% "Welcome to TAK Project Index" | upcase %}
 
 ### Dependencies
 
