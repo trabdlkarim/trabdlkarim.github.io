@@ -8,15 +8,16 @@ permalink: /
 
 # TAK Project Index, A Simple Personal Software Development Lab
 {: .fs-9 }
+---
 
 This is just a simple hub for some of <a href="https://github.com/trabdlkarim" target="_blank">@trabdlkarim</a> most important software development projects.
 {: .fs-6 .fw-300 }
 
 [Trending projects](#trending-projects){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [New releases](#new-releases){: .btn .fs-5 .mb-4 .mb-md-0 }
 
----
 
-## {% "Welcome to TAK Project Index" | upcase %}
+## {{ "Get Started" | upcase }}
+---
 
 ### Dependencies
 
@@ -64,21 +65,21 @@ If you're hosting your site on GitHub Pages, [set up GitHub Pages and Jekyll loc
 
 - [See configuration options]({{ site.baseurl }}{% link help.md %})
 
----
-## Trending Projects
 
+## {{ "Trending Projects" | upcase }}
 ---
-## New releases
 
+## {{ "New releases" | upcase }}
 ---
-## Code Snippets
 
+## {{ "Code Snippets" | upcase }}
 ---
-## Useful Resources
 
+## {{ "Useful Resources" | upcase }}
 ---
-## About TAK PI
 
+## {{ "About TAK PI" | upcase }}
+---
 
 ### Maintainers
 
