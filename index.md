@@ -96,7 +96,7 @@ If you're hosting your site on GitHub Pages, [set up GitHub Pages and Jekyll loc
 
 Hot off the press: the newest project releases
 
-- <i class="fas fa-cube" arial-hidden="true"></i> [Release v1.4.7](#some-link)
+- [<i class="fas fa-cube" arial-hidden="true"></i> voce-browser v1.4.7](#some-link)
 - [Release v0.9.97](#some-link)
 - [Release v4.15.34](#some-link)
 - [Release v8.10.6](#some-link)
