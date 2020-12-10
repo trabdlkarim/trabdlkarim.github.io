@@ -92,15 +92,17 @@ Find out about [TAK PI Snippets]({{ site.baseurl }}{% link snippets/index.md %})
 
 ---
 
-## Useful Resources
+## Learn More
+
+Beyond the projects, this index has several other resources:
+
 
 ---
 
-## About TAK PI
 
-### Maintainers
+## Maintainers
 
-This index is mainly maintained on GitHub by the <a href="https://github.com/trabdlkarim" target="_blank">@trabdlkarim</a> and other contributors. We happily accept any contributions and feedback. 😊
+This index is mainly maintained on GitHub by the <a href="https://github.com/trabdlkarim" target="_blank">@trabdlkarim</a> and other contributors. We happily accept any [contributions and feedback]({{ site.baseurl }}{% link issues/feedback.md %}). 😊
 
 <ul class="list-style-none">
 {% for contributor in site.github.contributors %}
@@ -110,3 +112,4 @@ This index is mainly maintained on GitHub by the <a href="https://github.com/tra
 {% endfor %}
 </ul>
 
+See [About TAK PI]({{ site.baseurl }}{% link takpi.md %}) for more information about this project hub.
