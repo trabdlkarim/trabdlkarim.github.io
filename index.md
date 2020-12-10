@@ -16,6 +16,8 @@ TAK Project Index (TAK PI) is just a simple hub for some of <a href="https://git
 
 ---
 
+This overview provides a general-purpose decision tree for reasoning about Python’s plethora of packaging options. Read on to choose the best technology for your next project.
+
 ## Contents
 {: .no_toc .text-delta }
 
@@ -86,6 +88,11 @@ If you ever wonder how these platforms and frameworks work under the hood, you c
 ## Recent Projects
 {: .fs-7}
 
+As a general-purpose programming language, Python is designed to be used in many ways. You can build web sites or industrial robots or a game for your friends to play, and much more, all using the same core technology.
+
+Python’s flexibility is why the first step in every Python project must be to think about the project’s audience and the corresponding environment where the project will run. It might seem strange to think about packaging before writing code, but this process does wonders for avoiding future headaches.
+
+
 1. [<i class="fas fa-file-archive" arial-hidden="true"></i> Project One](#some-link)
 1. [<i class="fas fa-file-archive" arial-hidden="true"></i> Project Two](#some-link)
 1. [<i class="fas fa-file-archive" arial-hidden="true"></i> Project Three](#some-link)
@@ -102,6 +109,10 @@ If you ever wonder how these platforms and frameworks work under the hood, you c
 
 ## New Releases
 {: .fs-7}
+
+The Python Packaging Authority (PyPA) is a working group that maintains a core set of software projects used in Python packaging.
+
+The software developed through the PyPA is used to package, share, and install Python software and to interact with indexes of downloadable Python software such as PyPI, the Python Package Index. Click the logo below to download pip, the most prominent software used to interact with PyPI.
 
 Hot off the press: the newest project releases
 
