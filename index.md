@@ -80,15 +80,15 @@ If you're hosting your site on GitHub Pages, [set up GitHub Pages and Jekyll loc
 ## Recent Projects
 
 1. [Project One](#some-link)
-2. [Project Two](#some-link)
-3. [Project Three](#some-link)
-4. [Project Four](#some-link)
-5. [Project Five](#some-link)
-6. [Project Six](#some-link)
-7. [Project Seven](#some-link)
-8. [Project Eight](#some-link)
-9. [Project Nine](#some-link)
-10. [Project Ten](#some-link)
+1. [Project Two](#some-link)
+1. [Project Three](#some-link)
+1. [Project Four](#some-link)
+1. [Project Five](#some-link)
+1. [Project Six](#some-link)
+1. [Project Seven](#some-link)
+1. [Project Eight](#some-link)
+1. [Project Nine](#some-link)
+1. [Project Ten](#some-link)
 
 ---
 
@@ -96,11 +96,11 @@ If you're hosting your site on GitHub Pages, [set up GitHub Pages and Jekyll loc
 
 Hot off the press: the newest project releases
 
-1. [Release v1.4.7](#some-link)
-2. [Release v0.9.97](#some-link)
-3. [Release v4.15.34](#some-link)
-4. [Release v8.10.6](#some-link)
-5. [Release v15.70](#some-link)
+- <i class="fas fa-cube" arial-hidden="true"></i> [Release v1.4.7](#some-link)
+- [Release v0.9.97](#some-link)
+- [Release v4.15.34](#some-link)
+- [Release v8.10.6](#some-link)
+- [Release v15.70](#some-link)
 
 ---
 
