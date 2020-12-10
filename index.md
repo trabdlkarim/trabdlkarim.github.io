@@ -40,7 +40,7 @@ remote_theme: pmarsceill/just-the-docs
 ```
 <small>You must have GitHub Pages enabled on your repo, one or more Markdown files, and a `_config.yml` file. [See an example repository](https://github.com/pmarsceill/jtd-remote)</small>
 
-### Download a project
+### Source Distributions
 
 ```bash
 $ gem install just-the-docs
@@ -69,7 +69,7 @@ $ bundle exec jekyll serve
 
 If you're hosting your site on GitHub Pages, [set up GitHub Pages and Jekyll locally](https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll) so that you can more easily work in your development environment.
 
-### Configuration
+### Binary Distributions
 
 - [See configuration options]({{ site.baseurl }}{% link help.md %})
 
