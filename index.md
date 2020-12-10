@@ -86,16 +86,17 @@ If you ever wonder how these platforms and frameworks work under the hood, you c
 ## Recent Projects
 {: .fs-7}
 
-1. [Project One](#some-link)
-1. [Project Two](#some-link)
-1. [Project Three](#some-link)
-1. [Project Four](#some-link)
-1. [Project Five](#some-link)
-1. [Project Six](#some-link)
-1. [Project Seven](#some-link)
-1. [Project Eight](#some-link)
-1. [Project Nine](#some-link)
-1. [Project Ten](#some-link)
+1. [<i class="fas fa-file-archive" arial-hidden="true"></i> Project One](#some-link)
+1. [<i class="fas fa-file-archive" arial-hidden="true"></i> Project Two](#some-link)
+1. [<i class="fas fa-file-archive" arial-hidden="true"></i> Project Three](#some-link)
+1. [<i class="fas fa-file-archive" arial-hidden="true"></i> Project Four](#some-link)
+1. [<i class="fas fa-file-archive" arial-hidden="true"></i> Project Five](#some-link)
+1. [<i class="fas fa-file-archive" arial-hidden="true"></i> Project Six](#some-link)
+1. [<i class="fas fa-file-archive" arial-hidden="true"></i> Project Seven](#some-link)
+1. [<i class="fas fa-file-archive" arial-hidden="true"></i> Project Eight](#some-link)
+1. [<i class="fas fa-file-archive" arial-hidden="true"></i> Project Nine](#some-link)
+1. [<i class="fas fa-file-archive" arial-hidden="true"></i> Project Ten](#some-link)
+{: .fs-6}
 
 ---
 
