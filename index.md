@@ -94,6 +94,14 @@ If you're hosting your site on GitHub Pages, [set up GitHub Pages and Jekyll loc
 
 ## New Releases
 
+Hot off the press: the newest project releases
+
+1. [Release v1.4.7](#some-link)
+2. [Release v0.9.97](#some-link)
+3. [Release v4.15.34](#some-link)
+4. [Release v8.10.6](#some-link)
+5. [Release v15.70](#some-link)
+
 ---
 
 ## Code Snippets
