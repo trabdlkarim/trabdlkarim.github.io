@@ -24,13 +24,15 @@ TAK Project Index (TAK PI) is just a simple hub for some of <a href="https://git
 
 ---
 
-## Welcome
+## Welcome 
+{: .fs-7}
 
 Welcome to the TAK PI, a collection of projects and references to help you download and share software packages. TAK Project Index is a core set of various types of personal software projects.
 
 ---
 
 ## TAK PI Projects
+{: .fs-7}
 
 Just the Docs is built for [Jekyll](https://jekyllrb.com), a static site generator. View the [quick start guide](https://jekyllrb.com/docs/) for more information. Just the Docs requires no special plugins and can run on GitHub Pages' standard Jekyll compiler. The [Jekyll SEO Tag plugin](https://github.com/jekyll/jekyll-seo-tag) is included by default (no need to run any special installation) to inject SEO and open graph metadata on docs pages. For information on how to configure SEO and open graph metadata visit the [Jekyll SEO Tag usage guide](https://jekyll.github.io/jekyll-seo-tag/usage/).
 
@@ -78,6 +80,7 @@ If you're hosting your site on GitHub Pages, [set up GitHub Pages and Jekyll loc
 ---
 
 ## Recent Projects
+{: .fs-7}
 
 1. [Project One](#some-link)
 1. [Project Two](#some-link)
@@ -93,6 +96,7 @@ If you're hosting your site on GitHub Pages, [set up GitHub Pages and Jekyll loc
 ---
 
 ## New Releases
+{: .fs-7}
 
 Hot off the press: the newest project releases
 
@@ -105,6 +109,7 @@ Hot off the press: the newest project releases
 ---
 
 ## Code Snippets
+{: .fs-7}
 
 Snippet is a programming term for a small region of re-usable source code, machine code, or text. Ordinarily, these are formally defined operative units to incorporate into larger programming modules. That is why TAK PI doesn't only indexes some important projects, but also it is a pool of code snippets from GitHub gists. They allow you to avoid repetitive typing in the course of routine edit operations.
 
@@ -113,6 +118,7 @@ Find out about [TAK PI Snippets]({{ site.baseurl }}{% link snippets/index.md %})
 ---
 
 ## Learn More
+{: .fs-7}
 
 Beyond the projects, this index has several other resources:
 
@@ -121,6 +127,7 @@ Beyond the projects, this index has several other resources:
 
 
 ## Maintainers
+{: .fs-7}
 
 This index is mainly maintained on GitHub by the <a href="https://github.com/trabdlkarim" target="_blank">@trabdlkarim</a> and other contributors. We happily accept any [contributions and feedback]({{ site.baseurl }}{% link issues/feedback.md %}). 😊
 
