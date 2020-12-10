@@ -38,6 +38,7 @@ Just the Docs is built for [Jekyll](https://jekyllrb.com), a static site generat
 
 ### Deployment
 
+
 Packages exist to be installed (or deployed), so before you package anything, you’ll want to have some answers to the deployment questions below:
 
 - Who are your software’s users? Will your software be installed by other developers doing software development, operations people in a datacenter, or a less software-savvy group?
@@ -49,6 +50,7 @@ Packages exist to be installed (or deployed), so before you package anything, yo
 Packaging is all about target environment and deployment experience. There are many answers to the questions above and each combination of circumstances has its own solutions. With this information, the following overview will guide you to the packaging technologies best suited to your project.
 
 ### Source Code
+
 
 TAK PI projects source code consists of multiple files, it’s usually organized into a directory structure. 
 
@@ -62,6 +64,7 @@ If you rely on any non-Python code, or non-Python packages (such as libxml2 in t
 
 ### Binaries
 
+
 So much of Python’s practical power comes from its ability to integrate with the software ecosystem, in particular libraries written in C, C++, Fortran, Rust, and other languages.
 
 Not all developers have the right tools or experiences to build these components written in these compiled languages, so Python created the Wheel, a package format designed to ship libraries with compiled artifacts. In fact, Python’s package installer, pip, always prefers wheels because installation is always faster, so even pure-Python packages work better with wheels.
@@ -69,6 +72,14 @@ Not all developers have the right tools or experiences to build these components
 Binary distributions are best when they come with source distributions to match. Even if you don’t upload wheels of your code for every operating system, by uploading the sdist, you’re enabling users of other platforms to still build it for themselves. Default to publishing both sdist and wheel archives together, unless you’re creating artifacts for a very specific use case where you know the recipient only needs one or the other.
 
 Python and PyPI make it easy to upload both wheels and sdists together. Just follow the Packaging Python Projects tutorial.
+
+### Dependencies
+
+Some types of Python applications, like web site backends and other network services, are common enough that they have frameworks to enable their development and packaging. Other types of applications, like dynamic web frontends and mobile clients, are complex enough to target that a framework becomes more than a convenience.
+
+In all these cases, it makes sense to work backwards, from the framework’s packaging and deployment story. Some frameworks include a deployment system which wraps the technologies outlined in the rest of the guide. In these cases, you’ll want to defer to your framework’s packaging guide for the easiest and most reliable production experience.
+
+If you ever wonder how these platforms and frameworks work under the hood, you can always read the sections beyond.
 
 ---
 
@@ -116,9 +127,11 @@ Find out about [TAK PI Snippets]({{ site.baseurl }}{% link snippets/index.md %})
 
 Beyond the projects, this index has several other resources:
 
+- [<i class="fas fa-link" arial-hidden="true"></i> Some link one](#some-link)
+- [<i class="fas fa-link" arial-hidden="true"></i> Some link two](#some-link)
+- [<i class="fas fa-link" arial-hidden="true"></i> Some link three](#some-link)
 
 ---
-
 
 ## Maintainers
 {: .fs-7}
