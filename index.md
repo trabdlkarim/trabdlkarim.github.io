@@ -16,8 +16,6 @@ TAK Project Index (TAK PI) is just a simple hub for some of <a href="https://git
 
 ---
 
-This overview provides a general-purpose decision tree for reasoning about Python’s plethora of packaging options. Read on to choose the best technology for your next project.
-
 ## Contents
 {: .no_toc .text-delta }
 
@@ -36,11 +34,6 @@ Welcome to the TAK PI, a collection of projects and references to help you downl
 ## TAK PI Projects
 {: .fs-7}
 
-Just the Docs is built for [Jekyll](https://jekyllrb.com), a static site generator. View the [quick start guide](https://jekyllrb.com/docs/) for more information. Just the Docs requires no special plugins and can run on GitHub Pages' standard Jekyll compiler. The [Jekyll SEO Tag plugin](https://github.com/jekyll/jekyll-seo-tag) is included by default (no need to run any special installation) to inject SEO and open graph metadata on docs pages. For information on how to configure SEO and open graph metadata visit the [Jekyll SEO Tag usage guide](https://jekyll.github.io/jekyll-seo-tag/usage/).
-
-### Deployment
-
-
 Packages exist to be installed (or deployed), so before you package anything, you’ll want to have some answers to the deployment questions below:
 
 - Who are your software’s users? Will your software be installed by other developers doing software development, operations people in a datacenter, or a less software-savvy group?
@@ -51,31 +44,6 @@ Packages exist to be installed (or deployed), so before you package anything, yo
 
 Packaging is all about target environment and deployment experience. There are many answers to the questions above and each combination of circumstances has its own solutions. With this information, the following overview will guide you to the packaging technologies best suited to your project.
 
-### Source Code
-
-
-TAK PI projects source code consists of multiple files, it’s usually organized into a directory structure. 
-
-Because packages consist of multiple files, they are harder to distribute. Most protocols support transferring only one file at a time (when was the last time you clicked a link and it downloaded multiple files?). It’s easier to get incomplete transfers, and harder to guarantee code integrity at the destination.
-
-So long as your code contains nothing but pure Python code, and you know your deployment environment supports your version of Python, then you can use Python’s native packaging tools to create a source Distribution Package, or sdist for short.
-
-Python’s sdists are compressed archives (.tar.gz files) containing one or more packages or modules. If your code is pure-Python, and you only depend on other Python packages, you can go here to learn more.
-
-If you rely on any non-Python code, or non-Python packages (such as libxml2 in the case of lxml, or BLAS libraries in the case of numpy), you will need to use the format detailed in the next section, which also has many advantages for pure-Python libraries.
-
-### Binaries
-
-
-So much of Python’s practical power comes from its ability to integrate with the software ecosystem, in particular libraries written in C, C++, Fortran, Rust, and other languages.
-
-Not all developers have the right tools or experiences to build these components written in these compiled languages, so Python created the Wheel, a package format designed to ship libraries with compiled artifacts. In fact, Python’s package installer, pip, always prefers wheels because installation is always faster, so even pure-Python packages work better with wheels.
-
-Binary distributions are best when they come with source distributions to match. Even if you don’t upload wheels of your code for every operating system, by uploading the sdist, you’re enabling users of other platforms to still build it for themselves. Default to publishing both sdist and wheel archives together, unless you’re creating artifacts for a very specific use case where you know the recipient only needs one or the other.
-
-Python and PyPI make it easy to upload both wheels and sdists together. Just follow the Packaging Python Projects tutorial.
-
-### Dependencies
 
 Some types of Python applications, like web site backends and other network services, are common enough that they have frameworks to enable their development and packaging. Other types of applications, like dynamic web frontends and mobile clients, are complex enough to target that a framework becomes more than a convenience.
 
