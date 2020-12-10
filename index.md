@@ -12,7 +12,7 @@ permalink: /
 TAK Project Index (TAK PI) is just a simple hub for some of <a href="https://github.com/trabdlkarim" target="_blank">@trabdlkarim</a> most important software development projects. You can think of it as a personal development lab  with various projects that you could customize for your own use upon downloading.
 {: .fs-6 .fw-300 }
 
-[Trending projects](#trending-projects){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [New releases](#new-releases){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Trending projects]({{ site.baseurl }}{% link projects/trending-projects.md %}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [New releases]({{ site.baseurl }}{% link projects/new-releases.md %}){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
@@ -77,7 +77,18 @@ If you're hosting your site on GitHub Pages, [set up GitHub Pages and Jekyll loc
 
 ---
 
-## Trending Projects
+## Recent Projects
+
+1. [Project One](#some-link)
+2. [Project Two](#some-link)
+3. [Project Three](#some-link)
+4. [Project Four](#some-link)
+5. [Project Five](#some-link)
+6. [Project Six](#some-link)
+7. [Project Seven](#some-link)
+8. [Project Eight](#some-link)
+9. [Project Nine](#some-link)
+10. [Project Ten](#some-link)
 
 ---
 
