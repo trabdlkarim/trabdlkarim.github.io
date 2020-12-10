@@ -7,5 +7,5 @@ has_children: true
 
 # Projects
 
-Just the Docs has some specific configuration parameters that can be defined in your Jekyll site's _config.yml file.
+Find, download and share interesting software development projects that are excellent for honing your programming and development skills
 {: .fs-6 .fw-300 }
