@@ -16,14 +16,6 @@ TAK Project Index (TAK PI) is just a simple hub for some of <a href="https://git
 
 ---
 
-## Contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
-
 ## Welcome 
 {: .fs-7}
 
@@ -43,13 +35,6 @@ Packages exist to be installed (or deployed), so before you package anything, yo
 - Is your software installed individually, or in large deployment batches?
 
 Packaging is all about target environment and deployment experience. There are many answers to the questions above and each combination of circumstances has its own solutions. With this information, the following overview will guide you to the packaging technologies best suited to your project.
-
-
-Some types of Python applications, like web site backends and other network services, are common enough that they have frameworks to enable their development and packaging. Other types of applications, like dynamic web frontends and mobile clients, are complex enough to target that a framework becomes more than a convenience.
-
-In all these cases, it makes sense to work backwards, from the framework’s packaging and deployment story. Some frameworks include a deployment system which wraps the technologies outlined in the rest of the guide. In these cases, you’ll want to defer to your framework’s packaging guide for the easiest and most reliable production experience.
-
-If you ever wonder how these platforms and frameworks work under the hood, you can always read the sections beyond.
 
 ---
 
@@ -79,9 +64,6 @@ Python’s flexibility is why the first step in every Python project must be to 
 {: .fs-7}
 
 The Python Packaging Authority (PyPA) is a working group that maintains a core set of software projects used in Python packaging.
-
-The software developed through the PyPA is used to package, share, and install Python software and to interact with indexes of downloadable Python software such as PyPI, the Python Package Index. Click the logo below to download pip, the most prominent software used to interact with PyPI.
-
 Hot off the press: the newest project releases
 
 - [<i class="fas fa-cube" arial-hidden="true"></i> voce-browser v1.4.7](#some-link)
@@ -91,14 +73,7 @@ Hot off the press: the newest project releases
 - [<i class="fas fa-cube" arial-hidden="true"></i> hashashin v15.70](#some-link) 
 {: .fs-6}
 
----
-
-## Code Snippets
-{: .fs-7}
-
-Snippet is a programming term for a small region of re-usable source code, machine code, or text. Ordinarily, these are formally defined operative units to incorporate into larger programming modules. That is why TAK PI doesn't only indexes some important projects, but also it is a pool of code snippets from GitHub gists. They allow you to avoid repetitive typing in the course of routine edit operations.
-
-Find out about [TAK PI Snippets]({{ site.baseurl }}{% link snippets/index.md %}) for more information.
+See [Newest Project Releases]({{ site.baseurl }}{% link projects/new-releases.md %}) for more information.
 
 ---
 
@@ -107,9 +82,11 @@ Find out about [TAK PI Snippets]({{ site.baseurl }}{% link snippets/index.md %})
 
 Beyond the projects, this index has several other resources:
 
-- [<i class="fas fa-link" arial-hidden="true"></i> Some link one](#some-link)
-- [<i class="fas fa-link" arial-hidden="true"></i> Some link two](#some-link)
-- [<i class="fas fa-link" arial-hidden="true"></i> Some link three](#some-link)
+- [<i class="fas fa-link" arial-hidden="true"></i> Source Distributions](#some-link)
+- [<i class="fas fa-link" arial-hidden="true"></i> Binary Distributions](#some-link)
+- [<i class="fas fa-link" arial-hidden="true"></i> Deploying packages](#some-link)
+- [<i class="fas fa-link" arial-hidden="true"></i> Downloading packages](#some-link)
+{: .fs-6}
 
 ---
 
