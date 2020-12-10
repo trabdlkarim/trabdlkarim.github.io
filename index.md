@@ -79,35 +79,6 @@ If you're hosting your site on GitHub Pages, [set up GitHub Pages and Jekyll loc
 
 ---
 
-## Recent Projects
-{: .fs-7}
-
-1. [Project One](#some-link)
-1. [Project Two](#some-link)
-1. [Project Three](#some-link)
-1. [Project Four](#some-link)
-1. [Project Five](#some-link)
-1. [Project Six](#some-link)
-1. [Project Seven](#some-link)
-1. [Project Eight](#some-link)
-1. [Project Nine](#some-link)
-1. [Project Ten](#some-link)
-
----
-
-## New Releases
-{: .fs-7}
-
-Hot off the press: the newest project releases
-
-
-- [<i class="fas fa-cube" arial-hidden="true"></i> voce-browser v1.4.7](#some-link)
-- [<i class="fas fa-cube" arial-hidden="true"></i> onyx v0.9.97](#some-link)
-- [<i class="fas fa-cube" arial-hidden="true"></i> firestone v4.15.34](#some-link) 
-- [<i class="fas fa-cube" arial-hidden="true"></i> arsh v8.10.6](#some-link) 
-- [<i class="fas fa-cube" arial-hidden="true"></i> hashashin v15.70](#some-link) 
-{: .fs-6}
----
 
 ## Code Snippets
 {: .fs-7}
