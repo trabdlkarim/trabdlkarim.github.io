@@ -9,7 +9,7 @@ permalink: /
 # Toure A. Karim Project Index
 {: .no_toc .fs-9 }
 
-TAK Project Index (TAK PI) is just a simple hub for some of <a href="https://github.com/trabdlkarim" target="_blank">@trabdlkarim</a> most important software development projects. You can think of it as a personal development lab  with open source projects that you could customize for your own use upon downloading.
+TAK Project Index (TAK PI) is just a simple hub for some of <a href="https://github.com/trabdlkarim" target="_blank">@trabdlkarim</a> most important software development projects. You can think of it as a personal development lab  with various projects that you could customize for your own use upon downloading.
 {: .fs-6 .fw-300 }
 
 [Trending projects](#trending-projects){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [New releases](#new-releases){: .btn .fs-5 .mb-4 .mb-md-0 }
@@ -26,6 +26,7 @@ TAK Project Index (TAK PI) is just a simple hub for some of <a href="https://git
 
 ## Welcome
 
+Welcome to the TAK PI, a collection of projects and references to help you download and share software packages.
 
 ### Dependencies
 
@@ -99,8 +100,7 @@ Find out about [TAK PI Snippets]({{ site.baseurl }}{% link snippets/index.md %})
 
 ### Maintainers
 
-When contributing to this repository, please first discuss the change you wish to make via issue,
-email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/pmarsceill/just-the-docs#contributing).
+This index is mainly maintained on GitHub by the <a href="https://github.com/trabdlkarim" target="_blank">@trabdlkarim</a> and other contributors. We happily accept any contributions and feedback. 😊
 
 <ul class="list-style-none">
 {% for contributor in site.github.contributors %}
