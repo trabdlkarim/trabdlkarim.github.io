@@ -6,7 +6,7 @@ description: "Toure Abdoul Karim's Project Index hosted on GitHub Pages."
 permalink: /
 ---
 
-# TAK PI, A Simple Personal Project Index
+# Toure A. Karim Project Index
 {: .no_toc .fs-9 }
 
 TAK Project Index (TAK PI) is just a simple hub for some of <a href="https://github.com/trabdlkarim" target="_blank">@trabdlkarim</a> most important software development projects. You can think of it as a personal development lab  with open source projects that you could customize for your own use upon downloading.
@@ -16,7 +16,7 @@ TAK Project Index (TAK PI) is just a simple hub for some of <a href="https://git
 
 ---
 
-## Table of contents
+## Contents
 {: .no_toc .text-delta }
 
 1. TOC
@@ -24,7 +24,7 @@ TAK Project Index (TAK PI) is just a simple hub for some of <a href="https://git
 
 ---
 
-## Get Started
+## Welcome
 
 
 ### Dependencies
