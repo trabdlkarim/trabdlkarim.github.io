@@ -57,8 +57,6 @@ As a general-purpose programming language, Python is designed to be used in many
 1. [<i class="fas fa-file-archive" arial-hidden="true"></i> Project Five](#some-link)
 {: .fs-6}
 
-Python’s flexibility is why the first step in every Python project must be to think about the project’s audience and the corresponding environment where the project will run. It might seem strange to think about packaging before writing code, but this process does wonders for avoiding future headaches.
-
 For finding TAK PI projects, see [Browse all projects]({{ site.baseurl }}{% link projects/new-releases.md %}) for more information.
 
 ---
@@ -90,6 +88,8 @@ Beyond the projects, this index has several other resources:
 - [<i class="fas fa-link" arial-hidden="true"></i> Deploying packages](#some-link)
 - [<i class="fas fa-link" arial-hidden="true"></i> Downloading packages](#some-link)
 {: .fs-6}
+
+Find out more about all avaible [other resources]({{ site.baseurl }}{% link resources/index.md %})
 
 ---
 
