@@ -55,14 +55,11 @@ As a general-purpose programming language, Python is designed to be used in many
 1. [<i class="fas fa-file-archive" arial-hidden="true"></i> Project Three](#some-link)
 1. [<i class="fas fa-file-archive" arial-hidden="true"></i> Project Four](#some-link)
 1. [<i class="fas fa-file-archive" arial-hidden="true"></i> Project Five](#some-link)
-1. [<i class="fas fa-file-archive" arial-hidden="true"></i> Project Six](#some-link)
-1. [<i class="fas fa-file-archive" arial-hidden="true"></i> Project Seven](#some-link)
-1. [<i class="fas fa-file-archive" arial-hidden="true"></i> Project Eight](#some-link)
-1. [<i class="fas fa-file-archive" arial-hidden="true"></i> Project Nine](#some-link)
-1. [<i class="fas fa-file-archive" arial-hidden="true"></i> Project Ten](#some-link)
 {: .fs-6}
 
 Python’s flexibility is why the first step in every Python project must be to think about the project’s audience and the corresponding environment where the project will run. It might seem strange to think about packaging before writing code, but this process does wonders for avoiding future headaches.
+
+For finding TAK PI projects, see [Browse all projects]({{ site.baseurl }}{% link projects/new-releases.md %}) for more information.
 
 ---
 
