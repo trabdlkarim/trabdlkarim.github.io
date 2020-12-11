@@ -20,6 +20,7 @@ url: "https://devlabs.trabdlkarim.com" # the base hostname & protocol for your s
 
 paginate: 5
 excerpt_separator: <!--more-->
+paginate_path: "projects/page/:num/"
 
 permalink: date
 
