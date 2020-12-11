@@ -45,7 +45,7 @@ Packaging is all about target environment and deployment experience. There are m
 ---
 
 ## Recent Projects
-{: .fs-7 .d-inline}
+{: .fs-7 .d-inline-block}
 NEW PROJECTS 
 {: .label .label-red}
 
