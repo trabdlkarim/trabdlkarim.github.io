@@ -44,11 +44,10 @@ Packaging is all about target environment and deployment experience. There are m
 
 ---
 
+## Recent Projects
+{: .fs-7 .d-inline}
 NEW PROJECTS 
 {: .label .label-red}
-## Recent Projects
-{: .fs-7}
-
 
 As a general-purpose programming language, Python is designed to be used in many ways. You can build web sites or industrial robots or a game for your friends to play, and much more, all using the same core technology.
 
