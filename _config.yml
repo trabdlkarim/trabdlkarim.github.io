@@ -134,6 +134,25 @@ aux_links:
   "ABOUT":
     - "https://me.trabdlkarim.com"
  
+# Aux links for the social media
+social:
+  - icon: fa-facebook
+      link: "https://www.facebook.com/trabdlkarim/"
+  - icon: fa-twitter
+      link: "https://twitter.com/trabdlkarim"
+  - icon: fa-linkedin
+      link: "https://www.linkedin.com/in/trabdlkarim/"
+  - icon: fa-stack-exchange
+      link: "https://stackexchange.com/"
+  - icon: fa-github
+      link: "https://github.com/trabdlkarim"
+  - icon: fa-dev
+      link: "https://dev.to/trabdlkarim"
+  - icon: fa-quora
+      link: "https://www.quora.com/profile/Habdool-Khareem"    
+  - icon: fa-envelope
+      link: "mailto:contact@trabdlkarim.com"
+     
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
 
