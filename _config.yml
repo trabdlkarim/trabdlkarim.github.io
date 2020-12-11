@@ -17,11 +17,14 @@ title: TAK Project Index
 description: A Simple Personal Software Development Lab
 baseurl: / # the subpath of your site, e.g. /blog
 url: "https://devlabs.trabdlkarim.com" # the base hostname & protocol for your site, e.g. http://example.com
-paginate:            5
+
+paginate: 5
 excerpt_separator: <!--more-->
+
 permalink: date
+
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE", "lib/", "bin/", "README.md", "Rakefile"
-, "docs/tests/"
+,"tests/"
 ]
 # About/contact
 author:
