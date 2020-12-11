@@ -21,6 +21,12 @@ TAK Project Index (TAK PI) is just a simple hub for some of <a href="https://git
 
 Welcome to the TAK PI, a collection of projects and references to help you download and share software packages. TAK Project Index is a core set of various types of personal software projects.
 
+### TAK PI Stats
+
+| Projects | Releases  | Files     |
+|:---------|:----------|:----------|
+| 277,052  | 2,249,691 | 3,612,047 |
+
 ---
 
 ## TAK PI Projects
