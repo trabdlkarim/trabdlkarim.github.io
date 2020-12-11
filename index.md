@@ -106,4 +106,11 @@ This index is mainly maintained on GitHub by the <a href="https://github.com/tra
 {% endfor %}
 </ul>
 
+<!-- Prepare a container for your calendar. -->
+<div class="calendar"></div>
+<script>
+    // or enable responsive functionality:
+    GitHubCalendar(".calendar", "trabdlkarim", { responsive: true });
+</script>
+
 See [About TAK PI]({{ site.baseurl }}{% link takpi.md %}) for more information about this project hub.
