@@ -71,9 +71,9 @@ layout: table_wrappers
           {% if site.author.email %}
              <span class="mx-2"> <a href="mailto:{{ site.author.email }}" target="_blank"><i class="fas fa-2x fa-envelope" arial-hidden="true"></i></a> </span>
           {% endif %}
-          <span class="mx-2"> <a href="https://github.com/trabdlkarim" target="_blank"><i class="fa fa-2x fa-github" arial-hidden="true"></i></a> </span>
-          <span class="mx-2"> <a href="https://twitter.com/trabdlkarim" target="_blank"><i class="fa fa-2x fa-twitter" arial-hidden="true"></i></a> </span>
-          <span class="mx-2"> <a href="https://linkedin.com/in/trabdlkarim" target="_blank"><i class="fa fa-2x fa-linkedin" arial-hidden="true"></i></a> </span>
+          {% for link in site.social %}
+          <span class="mx-2"><a href="{{ link.link }}" target="_blank"><i class="fa fa-2x {{ link.icon }}"></i></a></span>
+          {% endfor %}
       </div>
     </footer>
   </div>
