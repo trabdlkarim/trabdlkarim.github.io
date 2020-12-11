@@ -14,6 +14,7 @@
   @include fs-2;
   border-radius: 12px;
 }
+
 .label-blue {
   background-color: $blue-100;
 }
@@ -25,6 +26,7 @@
 .label-purple {
   background-color: $purple-100;
 }
+
 .label-primary {
   background-color: $purple-300;
 }
@@ -34,12 +36,12 @@
 }
 
 .label-danger {
-  background-color: $red-300;
   text-transform: uppercase;
   vertical-align: top;
+  background-color: $red-300;
 }
 
-label-red {
+.label-red {
   background-color: $red-200;
 }
 
