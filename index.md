@@ -63,12 +63,15 @@ For finding TAK PI projects, see [Browse all projects]({{ site.baseurl }}{% link
 
 ## New Releases
 {: .fs-7}
-Stable
+
+stable
 {: .label .label-green }
 
-New release
+new release
 {: .label .label-purple }
 
+build passing
+{: .label .label-purple }
 
 The Python Packaging Authority (PyPA) is a working group that maintains a core set of software projects used in Python packaging.
 Hot off the press: the newest project releases
