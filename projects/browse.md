@@ -13,7 +13,7 @@ pagination:
 ---
 
 <div class="posts">
-  {% for post in site.posts %}
+  {% for post in paginator.posts %}
     <div class="post">
       <h1 class="post-title">
         <a href="{{ site.url }}{{ post.url }}">
@@ -44,21 +44,6 @@ pagination:
     <span class="pagination-item newer">Next</span>
   {% endif %}
 </div>
-
-{% if paginator.total_pages > 1 %}
-<ul>
-  {% if paginator.previous_page %}
-  <li>
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer</a>
-  </li>
-  {% endif %}
-  {% if paginator.next_page %}
-  <li>
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
-  </li>
-  {% endif %}
-</ul>
-{% endif %}
 
 {% if paginator.page_trail %}
   {% for trail in paginator.page_trail %}
