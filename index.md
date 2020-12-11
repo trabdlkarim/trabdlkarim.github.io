@@ -29,7 +29,7 @@ Welcome to the TAK PI, a collection of projects and references to help you downl
 
 ---
 
-## TAK PI Projects
+## <i class="fas fa-archive" arial-hidden="true"></i> TAK PI Projects
 {: .fs-7}
 
 Packages exist to be installed (or deployed), so before you package anything, you’ll want to have some answers to the deployment questions below:
@@ -44,7 +44,7 @@ Packaging is all about target environment and deployment experience. There are m
 
 ---
 
-## Recent Projects
+## <i class="fas fa-file-archive" arial-hidden="true"></i> Recent Projects
 {: .fs-7 .d-inline-block .mt-1}
 
 New Projects 
@@ -64,7 +64,7 @@ For finding TAK PI projects, see [Browse all projects]({{ site.baseurl }}{% link
 
 ---
 
-## New Releases
+## <i class="fas fa-cube" arial-hidden="true"></i> New Releases
 {: .fs-7}
 
 stable
@@ -91,7 +91,7 @@ See [Newest Project Releases]({{ site.baseurl }}{% link projects/new-releases.md
 
 ---
 
-## Learn More
+## <i class="fas fa-info-circle" arial-hidden="true"></i> Learn More
 {: .fs-7}
 
 Beyond the projects, this index has several other resources:
