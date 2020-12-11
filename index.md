@@ -55,7 +55,7 @@ As a general-purpose programming language, Python is designed to be used in many
 1. [<i class="fas fa-file-archive" arial-hidden="true"></i> Project Three](#some-link)
 1. [<i class="fas fa-file-archive" arial-hidden="true"></i> Project Four](#some-link)
 1. [<i class="fas fa-file-archive" arial-hidden="true"></i> Project Five](#some-link)
-{: .fs-6}
+{: .fs-5}
 
 For finding TAK PI projects, see [Browse all projects]({{ site.baseurl }}{% link projects/new-releases.md %}) for more information.
 
@@ -72,7 +72,7 @@ Hot off the press: the newest project releases
 - [<i class="fas fa-cube" arial-hidden="true"></i> firestone v4.15.34](#some-link) 
 - [<i class="fas fa-cube" arial-hidden="true"></i> arsh v8.10.6](#some-link) 
 - [<i class="fas fa-cube" arial-hidden="true"></i> hashashin v15.70](#some-link) 
-{: .fs-6}
+{: .fs-5}
 
 See [Newest Project Releases]({{ site.baseurl }}{% link projects/new-releases.md %}) for more information.
 
@@ -87,9 +87,9 @@ Beyond the projects, this index has several other resources:
 - [<i class="fas fa-link" arial-hidden="true"></i> Binary Distributions](#some-link)
 - [<i class="fas fa-link" arial-hidden="true"></i> Deploying packages](#some-link)
 - [<i class="fas fa-link" arial-hidden="true"></i> Downloading packages](#some-link)
-{: .fs-6}
+{: .fs-5}
 
-Find out more about all avaible [other resources]({{ site.baseurl }}{% link resources/index.md %})
+Find out more about all available [other resources]({{ site.baseurl }}{% link resources/index.md %}).
 
 ---
 
