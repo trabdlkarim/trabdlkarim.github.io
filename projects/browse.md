@@ -2,6 +2,8 @@
 layout: page
 title: Browse all projects
 parent: Projects
+pagination:
+  enabled: true
 ---
 
 # Find, download and share packages with the TAK Project Index
