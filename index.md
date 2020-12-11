@@ -64,13 +64,13 @@ For finding TAK PI projects, see [Browse all projects]({{ site.baseurl }}{% link
 ## New Releases
 {: .fs-7}
 
-Stable
+stable
 {: .label .label-green }
 
-New release
+new-release
 {: .label .label-purple }
 
-Build passing
+build-passing
 {: .label .label-green }
 
 
