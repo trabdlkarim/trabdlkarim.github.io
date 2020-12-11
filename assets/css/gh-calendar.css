@@ -34,8 +34,13 @@
     margin: 0 10px;
     position: relative;
     bottom: -1px;
-    padding: 0;
+    padding: 0 !important;
+    
 }
+.contrib-legend .legend li:before {
+  display: none !important;
+ }
+
 
 .contrib-legend .legend li {
     display: inline-block;
