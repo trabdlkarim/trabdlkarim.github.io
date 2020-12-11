@@ -136,15 +136,15 @@ aux_links:
  
 # Aux links for the social media
 social:
-  - icon: fa-twitter
+  - icon: "fa fa-twitter"
     link: "https://twitter.com/trabdlkarim"
-  - icon: fa-linkedin
+  - icon: "fa fa-linkedin"
     link: "https://www.linkedin.com/in/trabdlkarim/"
-  - icon: fa-stack-exchange
+  - icon: "fa fa-stack-exchange"
     link: "https://stackexchange.com/"
-  - icon: fa-github
+  - icon: "fa fa-github"
     link: "https://github.com/trabdlkarim"
-  - icon: fa-dev
+  - icon: "fab fa-dev"
     link: "https://dev.to/trabdlkarim" 
 
 # Makes Aux links open in a new tab. Default is false
