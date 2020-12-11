@@ -6,10 +6,10 @@ grand_parent: Snippets
 ---
 
 # Project Euler Problems Solutions
-{: .no-toc}
+{: .no_toc}
 
 ## Contents
-{: .no-toc .text-delta}
+{: .no_toc .text-delta}
 
 1. TOC
 {:toc}
@@ -20,4 +20,4 @@ grand_parent: Snippets
 
 ## Euler Problem Solution #2
 
-{% gist c08ee0f2726fd0e3909d %}
+{% gist 8657ff38efb6372b12fca216824c9c16 %}
