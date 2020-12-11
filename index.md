@@ -106,7 +106,7 @@ Find out more about all available [other resources]({{ site.baseurl }}{% link re
 
 ---
 
-## Maintainers
+## <i class="fas fa-users" arial-hidden="true"></i> Maintainers
 {: .fs-7}
 
 This index is mainly maintained on GitHub by the <a href="https://github.com/trabdlkarim" target="_blank">@trabdlkarim</a> and other contributors. We happily accept any [contributions and feedback]({{ site.baseurl }}{% link issues/feedback.md %}). 😊
