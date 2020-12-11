@@ -9,7 +9,7 @@ parent: Projects
 ---
 
 <div class="posts">
-  {% for post in site.posts %}
+  {% for post in paginator.posts %}
     <div class="post">
       <h1 class="post-title">
         <a href="{{ site.url }}{{ post.url }}">
@@ -18,7 +18,7 @@ parent: Projects
       </h1>
       <span class="post-date">{{ post.date | date_to_string }}</span>
      {{ post.content }} 
-     <p><i class="fas fa-hand-point-right"></i> Find out more by visiting <a href="{{ site.url }}{{ post.url }}" class="btn btn-primary text-uppercase">the project GitHub page</a>.</p>
+     <p><i class="fas fa-hand-point-right"></i> <a href="{{ site.url }}{{ post.url }}" class="btn btn-primary text-uppercase"> Visit Project GitHub Page</a>.</p>
     </div>
    <hr/>
   {% endfor %}
