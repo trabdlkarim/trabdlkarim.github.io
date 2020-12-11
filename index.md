@@ -16,7 +16,7 @@ TAK Project Index (TAK PI) is just a simple hub for some of <a href="https://git
 
 ---
 
-## Welcome 
+## <i class="fas fa-hand-holding-heart" arial-hidden="true"></i> Welcome 
 {: .fs-7}
 
 Welcome to the TAK PI, a collection of projects and references to help you download and share software packages. TAK Project Index is a core set of various types of personal software projects.
