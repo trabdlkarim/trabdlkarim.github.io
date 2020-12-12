@@ -81,7 +81,7 @@ build-passing
 
 The Python Packaging Authority (PyPA) is a working group that maintains a core set of software projects used in Python packaging.
 Hot off the press: the newest project releases
-<ol class=".fs-5">
+<ul class=".fs-5">
   {% for tag in site.tags %}
       {% if tag[0] == "new-release" %}
           {% for post in tag[1] limit:5 %}
@@ -94,8 +94,8 @@ Hot off the press: the newest project releases
           {% break %}
       {% endif %}
   {% endfor %}
-  </ol>
-See [Newest Project Releases]({{ site.baseurl }}{% link projects/new-releases.md %}) for more information.
+  </ul>
+See all [Newest Project Releases]({{ site.baseurl }}{% link projects/new-releases.md %}) for more information.
 
 ---
 
