@@ -36,6 +36,8 @@ Problem Description: [https://projecteuler.net/problem=2](https://projecteuler.n
 
 {% gist b5e011d2a65c10f11706ff1023716211 %}
 
+---
+
 ## Euler Problem Solution #3
 
 ### Largest prime factor
