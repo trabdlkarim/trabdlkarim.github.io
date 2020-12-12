@@ -37,6 +37,8 @@ One of the most important ways to develop your skills and improve your employabi
 It is not always so easy to start a new good software development project. Sometimes, we want to work on side projects but struggle to come up with a good idea.
 That is where TAK PI projects come in play. The projects of this index can help you fight **“side project paralysis”** by offering diverse project that an intermediate software developer can start in one weekend. The emphasis here is not on projects that are going to change the world. Instead, these are important and fun projects to give you something to add to your portfolio and make you a better developer.
 
+The TAK PI projects are suited for all levels engineers trying to beef up their software engineering fundamentals. They’ll help you learn more about specific aspects of computing, like file transfer and operating systems design. These projects can be particularly useful for self-taught developers who’ve focused more on practical skills than computer science  fundamentals. They projects will also help you achieve a practical goal, while also improving your software engineering skills.
+
 ---
 
 ## <i class="fas fa-archive" arial-hidden="true"></i> Recent Projects
