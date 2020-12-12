@@ -147,17 +147,18 @@ body .main .gist .pl-iu {
 }
 
 body .main .gist .gist-meta {
-  display: none !important
+    display: none !important
 }
 
 body .main .gist th,
 body .main .gist td,
 body .main .gist tr {
- border: none !important
+   border: none !important
 }
 
 body .main .gist .blob-num,
 body .main .gist .js-line-num{
-  color: #ffffff !important
+    color: #ffffff !important;
+    background-color: #666666 !important; 
 }
 
