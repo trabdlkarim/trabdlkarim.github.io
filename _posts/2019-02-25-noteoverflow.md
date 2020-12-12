@@ -1,6 +1,6 @@
 ---
 layout: page
-title: NoteOverflow - A Lecture Notes Sharing and Searching System
+title: noteoverflow 1.2.34
 category: projects
 tags: new-release build-passing stable
 ---
