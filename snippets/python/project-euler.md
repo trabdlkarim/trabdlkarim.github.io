@@ -16,8 +16,12 @@ grand_parent: Snippets
 
 ## Euler Problem Solution #1
 
-{% gist c08ee0f2726fd0e3909d %}
+{% gist b5e011d2a65c10f11706ff1023716211 %}
 
 ## Euler Problem Solution #2
 
-{% gist 8657ff38efb6372b12fca216824c9c16 %}
+{% gist b5e011d2a65c10f11706ff1023716211 %}
+
+## Euler Problem Solution #3
+
+{% gist b5e011d2a65c10f11706ff1023716211 %}
