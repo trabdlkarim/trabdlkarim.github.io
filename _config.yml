@@ -22,7 +22,7 @@ paginate:  5
 excerpt_separator: <!--more-->
 paginate_path: "/projects/browse/page/:num/"
 
-permalink: pretty
+permalink: /:categories/:title/
 
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE", "lib/", "bin/", "README.md", "Rakefile"
 ,"tests/"
