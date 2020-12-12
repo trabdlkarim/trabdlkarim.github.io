@@ -50,7 +50,7 @@ Packaging is all about target environment and deployment experience. There are m
 New Projects 
 {: .label .label-danger}
 
-As a general-purpose programming language, Python is designed to be used in many ways. You can build web sites or industrial robots or a game for your friends to play, and much more, all using the same core technology.
+You can check out here the most recent projects that have been added to TAK PI. Python is designed to be used in many ways. You can build web sites or industrial robots or a game for your friends to play, and much more, all using the same core technology.
 
   <ol class=".fs-5">
   {% for post in site.posts limit:5 %}
@@ -62,7 +62,7 @@ As a general-purpose programming language, Python is designed to be used in many
   {% endfor %}
   </ol>
 
-For finding TAK PI projects, see [Browse all projects]({{ site.baseurl }}{% link projects/new-releases.md %}) for more information.
+ See all the details in [Browse all projects]({{ site.baseurl }}{% link projects/browse/index.html %}) for more information.
 
 ---
 
@@ -99,18 +99,19 @@ See all [Newest Project Releases]({{ site.baseurl }}{% link projects/new-release
 
 ---
 
-## <i class="fas fa-info-circle" arial-hidden="true"></i> Learn More
+## <i class="fas fa-info-circle" arial-hidden="true"></i> Useful Resources
 {: .fs-7}
 
-Beyond the projects, this index has several other resources:
+TAK PI produces a wide variety of projects, code snippets, plugins and other resources that can be useful or helpful. Below is a collection of links to some of the most popular TAK PI resources.
 
 - [<i class="fas fa-link" arial-hidden="true"></i> Source Distributions](#some-link)
 - [<i class="fas fa-link" arial-hidden="true"></i> Binary Distributions](#some-link)
 - [<i class="fas fa-link" arial-hidden="true"></i> Deploying packages](#some-link)
 - [<i class="fas fa-link" arial-hidden="true"></i> Downloading packages](#some-link)
+- [<i class="fas fa-link" arial-hidden="true"></i> Code Snippets]({{ site.baseurl }}{% link resources/index.md %})
 {: .fs-5}
 
-Find out more about all available [other resources]({{ site.baseurl }}{% link resources/index.md %}).
+<i class="fas fa-hand-point-right" arial-hidden="true"></i> Find out more about all available [other resources]({{ site.baseurl }}{% link resources/index.md %}).
 
 ---
 
@@ -131,4 +132,4 @@ This index is mainly maintained on GitHub by the <a href="https://github.com/tra
 <div class="calendar"></div>
 <script>GitHubCalendar(".calendar", "trabdlkarim", { responsive: true, global_stats: false });</script>
 
-See [About TAK PI]({{ site.baseurl }}{% link takpi.md %}) for more information about this project hub.
+<i class="fas fa-hand-point-right" arial-hidden="true"></i> See [About TAK PI]({{ site.baseurl }}{% link takpi.md %}) for more information about this project hub.
