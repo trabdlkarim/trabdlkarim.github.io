@@ -52,7 +52,6 @@ New Projects
 
 As a general-purpose programming language, Python is designed to be used in many ways. You can build web sites or industrial robots or a game for your friends to play, and much more, all using the same core technology.
 
-<div class="posts">
   <ol class=".fs-5">
   {% for post in site.posts limit:5 %}
     <li >
@@ -62,7 +61,7 @@ As a general-purpose programming language, Python is designed to be used in many
    </li> 
   {% endfor %}
   </ol>
-</div>
+
 For finding TAK PI projects, see [Browse all projects]({{ site.baseurl }}{% link projects/new-releases.md %}) for more information.
 
 ---
@@ -82,14 +81,20 @@ build-passing
 
 The Python Packaging Authority (PyPA) is a working group that maintains a core set of software projects used in Python packaging.
 Hot off the press: the newest project releases
-
-- [<i class="fas fa-cube" arial-hidden="true"></i> voce-browser v1.4.7](#some-link)
-- [<i class="fas fa-cube" arial-hidden="true"></i> onyx v0.9.97](#some-link)
-- [<i class="fas fa-cube" arial-hidden="true"></i> firestone v4.15.34](#some-link) 
-- [<i class="fas fa-cube" arial-hidden="true"></i> arsh v8.10.6](#some-link) 
-- [<i class="fas fa-cube" arial-hidden="true"></i> hashashin v15.70](#some-link) 
-{: .fs-5}
-
+<ol class=".fs-5">
+  {% for tag in site.tags %}
+      {% if tag[0] == "new-release" %}
+          {% for post in tag[1] limit:5 %}
+            <li >
+                <a href="{{ site.url }}{{ post.url }}">
+                 <i class="fas fa-cube" arial-hidden="true"></i> {{ post.title }}
+                </a>
+           </li> 
+          {% endfor %}
+          {% break %}
+      {% endif %}
+  {% endfor %}
+  </ol>
 See [Newest Project Releases]({{ site.baseurl }}{% link projects/new-releases.md %}) for more information.
 
 ---
