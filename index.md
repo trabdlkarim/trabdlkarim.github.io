@@ -53,19 +53,15 @@ New Projects
 As a general-purpose programming language, Python is designed to be used in many ways. You can build web sites or industrial robots or a game for your friends to play, and much more, all using the same core technology.
 
 
-<div class="posts">
-  <ol>
-  {% for post in site.posts %}
+  <ol class=".fs-5">
+  {% for post in site.posts limit:5 %}
     <li >
-      <h4 class="post-title .fs-4">
         <a href="{{ site.url }}{{ post.url }}">
          <i class="fas fa-file-archive" arial-hidden="true"></i> {{ post.title }}
         </a>
-      </h4>
    </li> 
   {% endfor %}
   </ol>
-</div>
 
 For finding TAK PI projects, see [Browse all projects]({{ site.baseurl }}{% link projects/new-releases.md %}) for more information.
 
