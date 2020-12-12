@@ -50,7 +50,7 @@ Packaging is all about target environment and deployment experience. There are m
 New Projects 
 {: .label .label-danger}
 
-You can check out here the most recent projects that have been added to TAK PI. Python is designed to be used in many ways. You can build web sites or industrial robots or a game for your friends to play, and much more, all using the same core technology.
+You can check out here the most recent projects that have been added to TAK PI. This section is designed to present you the five newest projects in this index. You will find here different new projects for you to play with, and much more.
 
   <ol class=".fs-5">
   {% for post in site.posts limit:5 %}
@@ -79,8 +79,10 @@ build-passing
 {: .label .label-green }
 
 
-The Python Packaging Authority (PyPA) is a working group that maintains a core set of software projects used in Python packaging.
+You may choose to upgrade to the newest project releases with more features or bug fixes.
+
 Hot off the press: the newest project releases
+
 <ul class=".fs-5">
   {% for tag in site.tags %}
       {% if tag[0] == "new-release" %}
@@ -95,6 +97,7 @@ Hot off the press: the newest project releases
       {% endif %}
   {% endfor %}
   </ul>
+  
 See all [Newest Project Releases]({{ site.baseurl }}{% link projects/new-releases.md %}) for more information.
 
 ---
@@ -102,13 +105,14 @@ See all [Newest Project Releases]({{ site.baseurl }}{% link projects/new-release
 ## <i class="fas fa-info-circle" arial-hidden="true"></i> Useful Resources
 {: .fs-7}
 
+
 TAK PI produces a wide variety of projects, code snippets, plugins and other resources that can be useful or helpful. Below is a collection of links to some of the most popular TAK PI resources.
 
-- [<i class="fas fa-link" arial-hidden="true"></i> Source Distributions](#some-link)
-- [<i class="fas fa-link" arial-hidden="true"></i> Binary Distributions](#some-link)
-- [<i class="fas fa-link" arial-hidden="true"></i> Deploying packages](#some-link)
-- [<i class="fas fa-link" arial-hidden="true"></i> Downloading packages](#some-link)
-- [<i class="fas fa-link" arial-hidden="true"></i> Code Snippets]({{ site.baseurl }}{% link resources/index.md %})
+- [<i class="fas fa-link" arial-hidden="true"></i> Source Distributions]({{ site.baseurl }}{% link resources/index.md %})
+- [<i class="fas fa-link" arial-hidden="true"></i> Binary Distributions]({{ site.baseurl }}{% link resources/index.md %})
+- [<i class="fas fa-link" arial-hidden="true"></i> Deploying packages]({{ site.baseurl }}{% link resources/index.md %})
+- [<i class="fas fa-link" arial-hidden="true"></i> Downloading packages]({{ site.baseurl }}{% link resources/index.md %})
+- [<i class="fas fa-link" arial-hidden="true"></i> Code Snippets]({{ site.baseurl }}{% link snippets/index.md %})
 {: .fs-5}
 
 <i class="fas fa-hand-point-right" arial-hidden="true"></i> Find out more about all available [other resources]({{ site.baseurl }}{% link resources/index.md %}).
@@ -132,4 +136,4 @@ This index is mainly maintained on GitHub by the <a href="https://github.com/tra
 <div class="calendar"></div>
 <script>GitHubCalendar(".calendar", "trabdlkarim", { responsive: true, global_stats: false });</script>
 
-<i class="fas fa-hand-point-right" arial-hidden="true"></i> See [About TAK PI]({{ site.baseurl }}{% link takpi.md %}) for more information about this project hub.
+<i class="fas fa-hand-point-right" arial-hidden="true"></i> See [About TAK PI]({{ site.baseurl }}{% link takpi.md %}) for more information.
