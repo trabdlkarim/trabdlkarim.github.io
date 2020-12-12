@@ -40,7 +40,7 @@ Problem Description: [https://projecteuler.net/problem=1](https://projecteuler.n
 
 Problem Description: [https://projecteuler.net/problem=2](https://projecteuler.net/problem=2){:target="_blank"}
 
-{% gist b5e011d2a65c10f11706ff1023716211 %}
+{% gist a8ca31b3f73e7d29ff7267b629fc2a47 %}
 
 ---
 
@@ -51,4 +51,4 @@ Problem Description: [https://projecteuler.net/problem=2](https://projecteuler.n
 
 Problem description: [https://projecteuler.net/problem=3](https://projecteuler.net/problem=3){:target="_blank"}
 
-{% gist b5e011d2a65c10f11706ff1023716211 %}
+{% gist fb198bf25db001ad6e0b126ead5d9960 %}
