@@ -56,13 +56,12 @@ As a general-purpose programming language, Python is designed to be used in many
 <div class="posts">
   <ol>
   {% for post in site.posts %}
-    <li class=".fs-5">
-      <h1 class="post-title">
+    <li >
+      <h4 class="post-title .fs-4">
         <a href="{{ site.url }}{{ post.url }}">
          <i class="fas fa-file-archive" arial-hidden="true"></i> {{ post.title }}
         </a>
-      </h1>
-      <span class="post-date">{{ post.date | date_to_string }}</span>
+      </h4>
    </li> 
   {% endfor %}
   </ol>
