@@ -1,7 +1,7 @@
 ---
 layout: page
 title: NoteOverflow - A Lecture Notes Sharing and Searching System
-cartegory: projects
+category: projects
 tags: new-release build-passing stable
 ---
 
