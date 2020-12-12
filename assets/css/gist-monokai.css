@@ -1,27 +1,27 @@
-body .gist .highlight {
+body .main .gist .highlight {
     background: #272822;
 }
-body .gist .blob-num,
-body .gist .blob-code-inner,
-body .gist .pl-s2,
-body .gist .pl-stj {
+body .main.gist .blob-num,
+body .main .gist .blob-code-inner,
+body .main .gist .pl-s2,
+body .main .gist .pl-stj {
     color: #f8f8f2;
 }
-body .gist .pl-c1 {
+body .main .gist .pl-c1 {
     color: #ae81ff;
 }
-body .gist .pl-enti {
+body .main .gist .pl-enti {
     color: #a6e22e;
     font-weight: 700;
 }
-body .gist .pl-st {
+body .main .gist .pl-st {
     color: #66d9ef;
 }
-body .gist .pl-mdr {
+body .main .gist .pl-mdr {
     color: #66d9ef;
     font-weight: 400;
 }
-body .gist .pl-ms1 {
+body .main .gist .pl-ms1 {
     background: #fd971f;
 }
 body .main .gist .pl-c,
