@@ -21,26 +21,21 @@ TAK Project Index (TAK PI) is just a simple hub for some of <a href="https://git
 
 Welcome to the TAK PI, a collection of projects and references to help you download and share software packages. TAK Project Index is a core set of various types of personal software projects.
 
-### TAK PI Stats
+### Stats
 
 | Projects | Releases  | Files     |
 |:---------|:----------|:----------|
-| 277,052  | 2,249,691 | 3,612,047 |
+| 77       | 691       | 3,047     |
 
 ---
 
 ## <i class="fas fa-th-list" arial-hidden="true"></i> TAK PI Projects
 {: .fs-7}
 
-Packages exist to be installed (or deployed), so before you package anything, you’ll want to have some answers to the deployment questions below:
+One of the most important ways to develop your skills and improve your employability as a software engineer is to work on side projects, for instance open source projects, helpful tools and scripts.
 
-- Who are your software’s users? Will your software be installed by other developers doing software development, operations people in a datacenter, or a less software-savvy group?
-
-- Is your software intended to run on servers, desktops, mobile clients (phones, tablets, etc.), or embedded in dedicated devices?
-
-- Is your software installed individually, or in large deployment batches?
-
-Packaging is all about target environment and deployment experience. There are many answers to the questions above and each combination of circumstances has its own solutions. With this information, the following overview will guide you to the packaging technologies best suited to your project.
+It is not always so easy to start a new good software development project. Sometimes, we want to work on side projects but struggle to come up with a good idea.
+That is where TAK PI projects come in play. The projects of this index can help you fight **“side project paralysis”** by offering diverse project that an intermediate software developer can start in one weekend. The emphasis here is not on projects that are going to change the world. Instead, these are important and fun projects to give you something to add to your portfolio and make you a better developer.
 
 ---
 
@@ -104,7 +99,6 @@ See all [Newest Project Releases]({{ site.baseurl }}{% link projects/new-release
 
 ## <i class="fas fa-info-circle" arial-hidden="true"></i> Useful Resources
 {: .fs-7}
-
 
 TAK PI produces a wide variety of projects, code snippets, plugins and other resources that can be useful or helpful. Below is a collection of links to some of the most popular TAK PI resources.
 
