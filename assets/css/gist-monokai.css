@@ -1,3 +1,5 @@
+body .main .gist .gist-file,
+body .main .gist .gist-data,
 body .main .gist .highlight {
     background: #272822;
 }
