@@ -16,7 +16,7 @@ TAK Project Index (TAK PI) is just a simple hub for some of <a href="https://git
 
 ---
 
-## <i class="fas fa-hand-holding-heart" arial-hidden="true"></i> Welcome 
+## <i class="fas fa-hand-holding-heart" ></i> Welcome 
 {: .fs-7}
 
 Welcome to the TAK PI, a collection of projects and references to help you download and share software packages. TAK Project Index is a core set of various types of personal software projects.
@@ -29,7 +29,7 @@ Welcome to the TAK PI, a collection of projects and references to help you downl
 
 ---
 
-## <i class="fas fa-th-list" arial-hidden="true"></i> TAK PI Projects
+## <i class="fas fa-th-list" ></i> TAK PI Projects
 {: .fs-7}
 
 One of the most important ways to develop your skills and improve your employability as a software engineer is to work on side projects, for instance open source projects, helpful tools and scripts.
@@ -41,7 +41,7 @@ The TAK PI projects are suited for all levels engineers trying to beef up their 
 
 ---
 
-## <i class="fas fa-archive" arial-hidden="true"></i> Recent Projects
+## <i class="fas fa-archive" ></i> Recent Projects
 {: .fs-7 .d-inline-block .mt-1}
 
 New Projects 
@@ -49,7 +49,7 @@ New Projects
 
 You can check out here the most recent projects that have been added to TAK PI. This section is designed to present you the five newest projects in this index. You will find here different new projects for you to play with, and much more.
 
-  <ol class=".fs-5">
+  <ol class="fs-5">
   {% for post in site.posts limit:5 %}
     <li >
         <a href="{{ site.url }}{{ post.url }}">
@@ -63,7 +63,7 @@ You can check out here the most recent projects that have been added to TAK PI. 
 
 ---
 
-## <i class="fas fa-cubes" arial-hidden="true"></i> New Releases
+## <i class="fas fa-cubes"></i> New Releases
 {: .fs-7}
 
 stable
@@ -80,7 +80,7 @@ You may choose to upgrade to the newest project releases with more features or b
 
 Hot off the press: the newest project releases
 
-<ul class=".fs-5">
+<ul class="fs-5">
   {% for tag in site.tags %}
       {% if tag[0] == "new-release" %}
           {% for post in tag[1] limit:5 %}
@@ -99,7 +99,7 @@ See all [Newest Project Releases]({{ site.baseurl }}{% link projects/new-release
 
 ---
 
-## <i class="fas fa-info-circle" arial-hidden="true"></i> Useful Resources
+## <i class="fas fa-info-circle"></i> Useful Resources
 {: .fs-7}
 
 TAK PI produces a wide variety of projects, code snippets, plugins and other resources that can be useful or helpful. Below is a collection of links to some of the most popular TAK PI resources.
@@ -111,11 +111,11 @@ TAK PI produces a wide variety of projects, code snippets, plugins and other res
 - [<i class="fas fa-link" arial-hidden="true"></i> Code Snippets]({{ site.baseurl }}{% link snippets/index.md %})
 {: .fs-5}
 
-<i class="fas fa-hand-point-right" arial-hidden="true"></i> Find out more about all available [other resources]({{ site.baseurl }}{% link resources/index.md %}).
+<i class="fas fa-hand-point-right"></i> Find out more about all available [other resources]({{ site.baseurl }}{% link resources/index.md %}).
 
 ---
 
-## <i class="fas fa-users" arial-hidden="true"></i> Maintainers
+## <i class="fas fa-users"></i> Maintainers
 {: .fs-7}
 
 This index is mainly maintained on GitHub by the <a href="https://github.com/trabdlkarim" target="_blank">@trabdlkarim</a> and other contributors. We happily accept any [contributions and feedback]({{ site.baseurl }}{% link issues/feedback.md %}). 😊
@@ -132,4 +132,4 @@ This index is mainly maintained on GitHub by the <a href="https://github.com/tra
 <div class="calendar"></div>
 <script>GitHubCalendar(".calendar", "trabdlkarim", { responsive: true, global_stats: false });</script>
 
-<i class="fas fa-hand-point-right" arial-hidden="true"></i> See [About TAK PI]({{ site.baseurl }}{% link takpi.md %}) for more information.
+<i class="fas fa-hand-point-right"></i> See [About TAK PI]({{ site.baseurl }}{% link takpi.md %}) for more information.
