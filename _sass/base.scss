@@ -65,7 +65,9 @@ a {
 
 a:not([class]) {
   text-decoration: none;
-  /*background-image: linear-gradient($border-color 0%, $border-color 100%);*/
+  
+  // background-image: linear-gradient($border-color 0%, $border-color 100%);
+  
   background-repeat: repeat-x;
   background-position: 0 100%;
   background-size: 1px 1px;
