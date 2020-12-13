@@ -4,19 +4,23 @@ title: Browse projects
 nav_exclude: true
 ---
 
-<div class="posts">
-  {% for post in paginator.posts %}
-    <div class="post">
-      <h1 class="post-title">
-        <a href="{{ site.url }}{{ post.url }}">
-         {{ post.title }}
-        </a>
-      </h1>
-      <span class="post-date">{{ post.date | date_to_string }}</span>
-     {{ post.content }} 
-    </div>
-   <hr/>
-  {% endfor %}
+<div class="projects">
+  <ul class="unstyle-list">
+      {% for post in paginator.posts %}
+        <li>
+            <div class="project">
+              <h1 class="project-title">
+                <a href="{{ site.url }}{{ post.url }}">
+                 {{ post.title }}
+                </a>
+              </h1>
+              <span class="project-date">{{ post.date | date_to_string }}</span>
+             {{ post.content }} 
+            </div>
+        </li>
+       <hr/>
+      {% endfor %}
+  </ul>
 </div>
 
 <!-- Pagination links -->
