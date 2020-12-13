@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Send a feedback
+title: Send feedback
 parent: Feedback
 ---
 
