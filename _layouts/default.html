@@ -101,6 +101,22 @@ layout: table_wrappers
                  <i class="fas fa-archive"></i> Browse projects
                </a>
             </li>
+            <li class="aux-nav-list-item">
+               <a href="https://www.trabdlkarim.com/" class="site-button" target="_blank">
+                 <i class="fas fa-archive mx-1"></i> Blog
+               </a>
+            </li>
+            <li class="aux-nav-list-item">
+               <a href="https://github.com/trabdlkarim" class="site-button" target="_blank">
+                 <i class="fas fa-github mx-1"></i> GitHub
+               </a>
+            </li>
+            <li class="aux-nav-list-item">
+               <a href="https://www.trabdlkarim.com/" class="site-button" target="_blank">
+                 <i class="fas fa-graduation-cap mx-1"></i> About me
+               </a>
+            </li>
+            {% comment %}
             {% for link in site.aux_links %}
               <li class="aux-nav-list-item">
                 <a href="{{ link.last }}" class="site-button"
@@ -112,6 +128,7 @@ layout: table_wrappers
                 </a>
               </li>
             {% endfor %}
+            {% endcomment %}
           </ul>
         </nav>
       {% endif %}
