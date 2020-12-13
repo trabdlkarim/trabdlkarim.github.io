@@ -18,7 +18,7 @@ description: A Simple Personal Software Development Lab
 baseurl: / # the subpath of your site, e.g. /blog
 url: "https://devlabs.trabdlkarim.com" # the base hostname & protocol for your site, e.g. http://example.com
 
-paginate:  2
+paginate:  5
 excerpt_separator: <!--more-->
 paginate_path: "/projects/browse/page/:num/"
 
@@ -74,14 +74,15 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "BLOG":
+  "Blog":
     - "https://trabdlkarim.com" 
     
-  "GITHUB":
+  "GitHub":
     - "https://github.com/trabdlkarim"
    
-  "ABOUT":
+  "About":
     - "https://me.trabdlkarim.com"
+  
  
 # Aux links for the social media
 social:
@@ -95,7 +96,7 @@ social:
     link: "https://github.com/trabdlkarim"
   - icon: "fab fa-dev"
     link: "https://dev.to/trabdlkarim" 
-
+special_aux_nav: Browse
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
 
