@@ -12,9 +12,11 @@ Trending projects as downloaded by the community
 ---
 
 <div class="projects">
-  <ul class="unstyled-list">
+  {% assign trending_found = false %}
    {% for tag in site.tags %}
      {% if tag[0] == "trending" %}
+      {% assign trending_found = true %}
+      <ul class="unstyled-list">
       {% for post in tag[1] %}
         <li>
           <a class="project-snippet" href="{{ site.url }}{{ post.url }}">
@@ -23,8 +25,11 @@ Trending projects as downloaded by the community
           </a> 
         </li>
       {% endfor %}
+      </ul>
       {% break %}
     {% endif %}
   {% endfor %}
-  </ul>
+{% if trending_found  != true %}
+  No trending project found.
+{% endif %}
 </div>
