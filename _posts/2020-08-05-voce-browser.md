@@ -3,14 +3,14 @@ layout: post
 title: voce-browser 0.15.56
 category: projects
 tags: stable build passing new-release
-excerpt: A simple voice control browser
+excerpt: A simple voice controlled browser
 license: MIT
 ---
 
-# {{page.title}}
+#  <i class="fa fa-cube"></i> {{page.title}}
 {: .no_toc}
 
-Some description goes here
+A simple voice controlled web browser
 
 ---
 
@@ -23,6 +23,8 @@ Some description goes here
 ---
 
 ## <i class="fa fa-file-alt"></i> Project Description
+
+Voce Browser is PyQWebEngine chromium based voice controlled web brwoser.
 
 ---
 
@@ -45,7 +47,7 @@ Some description goes here
 ## <i class="fa fa-info-circle"></i> Meta
 
 <dl>
-  <dt>Licence</dt>
+  <dt>License</dt>
   <dd>{{page.license}}</dd>
   <dt>Author</dt>
   <dd>{{site.author.name}}</dd>
