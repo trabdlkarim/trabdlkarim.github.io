@@ -18,6 +18,9 @@ trending
 build-passing
 {: .label .label-green }
 
+release
+{: .label .label-red }
+
 ---
 
 <div class="projects">
