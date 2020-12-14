@@ -36,4 +36,4 @@ You can even use the built-in bug report template of the concerned project repos
 
 ## Suggest a feature
 
-The feature suggestion works just like the bug reporting. The only difference is that you need to [send us a feedback]({{link issues/feedback.md}}) directly describing the feature you want us to add.
+The feature suggestion works just like the bug reporting. The only difference is that you need to [send us a feedback]({% link issues/feedback.md %}) directly describing the feature you want us to add or if you are developer [contribute]({% link projects/contributing.md %})  to the concerned project by forking, then adding a new branch for your feature and submit a pull request.
