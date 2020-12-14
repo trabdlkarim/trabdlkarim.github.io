@@ -4,7 +4,7 @@ title: Report a bug
 parent: Feedback
 ---
 
-# Report an issue with a Project ?
+# Want to report an issue with a Project ?
 {: .no_toc}
 
 Your feedback is essential to helping us make TAK PI projects great.
@@ -19,3 +19,13 @@ Your feedback is essential to helping us make TAK PI projects great.
 {:toc}
 
 ---
+
+## Reporting bugs in GitHub
+
+---
+
+## Bug report template
+
+---
+
+## Suggest a feature
