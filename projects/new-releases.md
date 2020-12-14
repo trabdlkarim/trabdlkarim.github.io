@@ -30,7 +30,7 @@ build-passing
         <li>
           <a class="project-snippet" href="{{ site.url }}{{ post.url }}">
             <h3 class="project-title">{{ post.title }}</h3>
-            <p class="project-desc"> {{ post.content }} </p>
+            <p class="project-desc"> {{ post.excerpt }} </p>
           </a> 
         </li>
       {% endfor %}
