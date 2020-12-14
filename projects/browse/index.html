@@ -9,11 +9,12 @@ nav_exclude: true
       {% for post in paginator.posts %}
         <li>
             <div class="project">
-              <h1 class="project-title">
+              <h5 class="project-title">
+                <i class="fa fa-2x fa-cube mr-1"></i>
                 <a href="{{ site.url }}{{ post.url }}">
                  {{ post.title }}
                 </a>
-              </h1>
+              </h5>
               <span class="project-date">{{ post.date | date_to_string }}</span>
              {{ post.content }} 
             </div>
