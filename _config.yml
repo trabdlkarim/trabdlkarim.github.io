@@ -30,6 +30,7 @@ exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "pac
 # About/contact
 author:
   name:  Touré A.Karim
+  gh-username: trabdlkarim
   url:   www.trabdlkarim.com
   email: contact@trabdlkarim.com
   
