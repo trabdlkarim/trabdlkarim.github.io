@@ -4,6 +4,7 @@ title: project name
 category: projects
 tags: stable build passing new-release
 excerpt: A simple project description
+license: MIT
 ---
 
 # {{page.title}}
@@ -13,38 +14,46 @@ Some description goes here
 
 ---
 
-# Table of content
+# Table of contents
 {: .no_toc .text-delta }
 
-1. TOC {:toc}
+1. TOC 
+{:toc}
 
 ---
 
-## Project Description
+## <i class="fa fa-file-alt"></i> Project Description
 
 ---
 
-## Release History
+## <i class="fa fa-stream"></i> Release History
 
 ---
 
-## Download Files
+## <i class="fa fa-download"></i> Download Files
 
 ---
 
-## Documentation
+## <i class="fa fa-book"></i> Documentation
 
 ---
 
-## Statistics
+## <i class="fa fa-chart-pie"></i> Statistics
 
 ---
 
-## Meta
+## <i class="fa fa-info-circle"></i> Meta
+
+<dl>
+  <dt>License</dt>
+  <dd>{{page.license}}</dd>
+  <dt>Author</dt>
+  <dd>{{site.author.name}}</dd>
+</dl>
 
 ---
 
-## Maintainers
+## <i class="fa fa-users"></i> Maintainers
 
 This index is mainly maintained on GitHub by the <a href="https://github.com/trabdlkarim" target="_blank">@trabdlkarim</a> and other contributors. We happily accept any [contributions and feedback]({{ site.baseurl }}{% link issues/feedback.md %}). 😊
 
