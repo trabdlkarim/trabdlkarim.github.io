@@ -13,10 +13,10 @@ Hot off the press: the newest project releases
 
 <div class="projects">
   {% assign new_release_found = false %}
-  <ul class="unstyled-list">
    {% for tag in site.tags %}
      {% if tag[0] == "new-release" %}
       {% assign new_release_found = true %}
+      <ul class="unstyled-list">
       {% for post in tag[1] %}
         <li>
           <a class="project-snippet" href="{{ site.url }}{{ post.url }}">
@@ -25,10 +25,10 @@ Hot off the press: the newest project releases
           </a> 
         </li>
       {% endfor %}
+      </ul>
       {% break %}
     {% endif %}
   {% endfor %}
-  </ul>
 {% if new_release_found  != true %}
   No new project release found.
 {% endif %}
