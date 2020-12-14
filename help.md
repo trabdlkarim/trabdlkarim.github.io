@@ -4,30 +4,65 @@ title: Support
 nav_order: 99
 ---
 
-# Using TAK PI
+# Common questions
+{: .no_toc}
+
+Hey there! I'm TOURE Abdoul Karim, a Computer Engineering Student &  Freelance Developer. This site is a personal project pages stack or simply an index of personal projects that lists some of my most important open source and personal projects. Feel free to browse the pages, and use the projects for your own use upon downloading. Carry on!
+
 ---
 
-<p class="message">
-  Hey there! I'm TOURE Abdoul Karim, a Computer Engineering Student &  Freelance Developer. This site is a personal project pages stack or simply an index of personal projects that lists some of my most important open source and personal projects. Feel free to browse the pages, and use the projects for your own use upon downloading. Carry on!
-</p>
+# Table of contents
+{: .no_toc .text-delta}
 
-In this index of projects, many of the projects are generally coursework projects, and  you will find that every listed project in the index has its code sources in a related github repository. And also every project has a dedicated page or site which gives more information about the project. So in order to find out more about the project, you might visit its related page or if you want to get the code, visit the related github repository. 
+1. TOC
+{:toc}
 
-There are currently more projects on github than in this index, so to see a full list of the projects visit these pages:
+---
 
-* [GitHub Repositories](https://github.com/trabdlkarim?tab=repositories)
-* [Docker Hub](https://hub.docker.com/u/trabdlkarim)
+# Basics
 
-Learn more and contribute on [my personal blog](https://www.trabdlkarim.com).
+## What's package, release, or project?
 
-## Additional Information
+We use a number of terms to describe software available on PyPI, like "project", "release", "file", and "package". Sometimes those terms are confusing because they're used to describe different things in other contexts. Here's how we use them on PyPI:
 
-Have questions or suggestions ? Feel free to contact me using one the means below or [ask me on Twitter](https://twitter.com/trabdlkarim).
+A "project" on PyPI is the name of a collection of releases and files, and information about them. Projects on PyPI are made and shared by other members of the Python community so that you can use them.
 
-Some additional information for those who want to contact me directly:
+A "release" on PyPI is a specific version of a project. For example, the requests project has many releases, like "requests 2.10" and "requests 1.2.1". A release consists of one or more "files".
 
-* Email address: <contact@trabdlkarim.com>
-* Contact Form : [Leave me a message](https://trabdlkarim.com/p/contact.html)
-* Linkedin: <https://www.linkedin.com/in/trabdlkarim/>
+A "file", also known as a "package", on PyPI is something that you can download and install. Because of different hardware, operating systems, and file formats, a release may have several files (packages), like an archive containing source code or a binary wheel.
 
-Thanks for reading!
+## How do I install a file (package) from TAK PI?
+
+---
+
+# Integration
+
+## How do I get notified when a new version of a project is released?
+
+## Where can I see statistics about PyPI, downloads, and project/package usage?
+
+---
+
+# Administration of projects on TAK PI
+
+--
+
+# Troubleshooting
+
+---
+
+# About
+
+## Who maintains TAK PI?
+
+## What powers TAK PI?
+
+## Can I depend on TAK PI being available?
+
+## How can I contribute to TAK PI?
+
+## How do I keep up with upcoming changes to TAK PI?
+
+## What does the "beta feature" badge mean? What are ppindex's current beta features?
+
+## How do I pronounce "TAK PI"?
