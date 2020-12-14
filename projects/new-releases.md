@@ -5,7 +5,11 @@ parent: Projects
 nav_order: 2
 ---
 
-# Hot off the press: the newest project releases
+# Newest Project Releases
+
+Hot off the press: the newest project releases
+
+---
 
 <div class="projects">
   <ul class="unstyled-list">
