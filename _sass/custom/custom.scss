@@ -31,7 +31,15 @@ ol.gradient-list {
     @extend %boxshadow;
     margin-top: 1rem;
     padding: 1rem 1rem 1rem 3rem;
-
+    
+    &::before {
+      content: ""; 
+    }
+    
+    &::hover{
+      cursor: pointer;
+      background-color: #cccfff;
+    }
     + li {
       margin-top: 2rem;
     }
