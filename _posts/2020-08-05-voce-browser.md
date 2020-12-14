@@ -42,15 +42,13 @@ Some description goes here
 
 ---
 
-## Meta
-
-Project meta data
+## Project Meta
 
 <dl>
-  <dt>Licence:</dt>
-  <dd>page.license</dd>
-  <dt>Author:</dt>
-  <dd>site.author.name</dd>
+  <dt>Licence</dt>
+  <dd>{{page.license}}</dd>
+  <dt>Author</dt>
+  <dd>{{site.author.name}}</dd>
 </dl>
 
 ---
