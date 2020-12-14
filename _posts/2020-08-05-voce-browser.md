@@ -22,27 +22,27 @@ Some description goes here
 
 ---
 
-## Project Description
+## <i class="fa fa-file-alt"></i> Project Description
 
 ---
 
-## Release History
+## <i class="fa fa-stream"></i> Release History
 
 ---
 
-## Download Files
+## <i class="fa fa-download"></i> Download Files
 
 ---
 
-## Documentation
+## <i class="fa fa-book"></i> Documentation
 
 ---
 
-## Statistics
+## <i class="fa fa-chart-pie"></i> Statistics
 
 ---
 
-## Project Meta
+## <i class="fa fa-info-circle"></i> Meta
 
 <dl>
   <dt>Licence</dt>
@@ -53,7 +53,7 @@ Some description goes here
 
 ---
 
-## Maintainers
+## <i class="fa fa-users"></i> Maintainers
 
 This index is mainly maintained on GitHub by the <a href="https://github.com/trabdlkarim" target="_blank">@trabdlkarim</a> and other contributors. We happily accept any [contributions and feedback]({{ site.baseurl }}{% link issues/feedback.md %}). 😊
 
