@@ -35,3 +35,5 @@ You can even use the built-in bug report template of the concerned project repos
 ---
 
 ## Suggest a feature
+
+The feature suggestion works just like the bug reporting. The only difference is that you need to [send us a feedback]({{link issues/feedback.md}}) directly describing the feature you want us to add.
