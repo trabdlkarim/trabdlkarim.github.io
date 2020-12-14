@@ -8,6 +8,14 @@ nav_order: 2
 # Newest Project Releases
 
 Hot off the press: the newest project releases
+stable
+{: .label .label-green }
+
+new-release
+{: .label .label-purple }
+
+build-passing
+{: .label .label-green }
 
 ---
 
