@@ -4,6 +4,7 @@ title: voce-browser 0.15.56
 category: projects
 tags: stable build passing new-release
 excerpt: A simple voice control browser
+license: MIT
 ---
 
 # {{page.title}}
@@ -13,7 +14,7 @@ Some description goes here
 
 ---
 
-# Table of content
+# Table of contents
 {: .no_toc .text-delta }
 
 1. TOC 
@@ -42,6 +43,15 @@ Some description goes here
 ---
 
 ## Meta
+
+Project meta data
+
+<dl>
+  <dt>Licence:</dt>
+  <dd>page.license</dd>
+  <dt>Author:</dt>
+  <dd>site.author.name</dd>
+</dl>
 
 ---
 
