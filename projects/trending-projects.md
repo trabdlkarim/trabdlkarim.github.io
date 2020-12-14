@@ -31,5 +31,6 @@ Trending projects as downloaded by the community
   {% endfor %}
 {% if trending_found  != true %}
   No trending project found.
+  {: .text-small .grey-dk-100 }
 {% endif %}
 </div>
