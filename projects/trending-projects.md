@@ -30,6 +30,6 @@ Trending projects as downloaded by the community
     {% endif %}
   {% endfor %}
 {% if trending_found  != true %}
-  <p class=".text-small .grey-dk-100">No trending project found</p>
+  <p class="text-small .grey-dk-000">No trending project found</p>
 {% endif %}
 </div>
