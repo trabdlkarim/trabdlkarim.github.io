@@ -30,6 +30,6 @@ Hot off the press: the newest project releases
     {% endif %}
   {% endfor %}
 {% if new_release_found  != true %}
-  <p class=".text-small .grey-dk-100">No new project release found</p>
+  <p class="text-small text-grey-dk-000">No new project release found</p>
 {% endif %}
 </div>
