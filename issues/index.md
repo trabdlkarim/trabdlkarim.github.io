@@ -6,3 +6,6 @@ has_children: true
 ---
 
 # Feedback & Bug Reports
+
+Your feedback is essential to helping us make TAK PI projects great.
+{: fs-5 fw-300}
