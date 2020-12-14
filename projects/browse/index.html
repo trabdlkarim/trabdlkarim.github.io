@@ -8,19 +8,10 @@ nav_exclude: true
   <ul class="unstyled-list">
       {% for post in paginator.posts %}
         <li>
-            <div class="project">
-              <div class="project-icon float-left">
-                 <i class="fa fa-2x fa-cube mr-1"></i>
-              </div>
-              <div class="project-content">
-              <h1 class="fs-5">
-                <a href="{{ site.url }}{{ post.url }}">
-                 {{ post.title }}
-                </a>
-              </h1>
-             {{ post.content }} 
-            </div>
-            </div>
+          <a class="project-snippet" href="{{ site.url }}{{ post.url }}">
+            <h3 class="project-title">{{ post.title }}</h3>
+            <p class="project-desc"> {{ post.content }} </p>
+          </a> 
         </li>
       {% endfor %}
   </ul>
