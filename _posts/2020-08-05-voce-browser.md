@@ -16,7 +16,8 @@ Some description goes here
 # Table of content
 {: .no_toc .text-delta }
 
-1. TOC {:toc}
+1. TOC 
+{:toc}
 
 ---
 
