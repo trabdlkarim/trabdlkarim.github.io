@@ -9,6 +9,15 @@ nav_order: 1
 
 Trending projects as downloaded by the community
 
+stable
+{: .label .label-green }
+
+trending
+{: .label .label-purple }
+
+build-passing
+{: .label .label-green }
+
 ---
 
 <div class="projects">
