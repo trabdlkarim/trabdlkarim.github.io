@@ -5,4 +5,8 @@ category: projects
 tags: stable build passing new-release
 ---
 
-Opencv-Python Bindings Tutorial
+# {{page.title}}
+
+A simple voice control browser
+
+<!--more-->
