@@ -30,7 +30,6 @@ ol.unstyled-list {
     padding: 1rem 1rem 1rem 3rem;
     direction: ltr;
     text-align: left;
-   
     
     &::before {
       content: ""; 
@@ -47,6 +46,12 @@ ol.unstyled-list {
     }
     + li {
       margin-top: 2rem;
+    }
+    a.project-snippet{
+      text-align: left;
+      display: block;
+      padding: 15px 20px 15px 75px;
+      margin: 0 0 20px;
     }
   }
 }
