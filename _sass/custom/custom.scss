@@ -51,7 +51,7 @@ ol.gradient-list {
     &::after {
       background: linear-gradient(135deg, $blue 0%,$green 100%);
       border-radius: 1rem 1rem 0 1rem;
-      content: '';
+      content: 'New';
       height: 3rem;
       left: -1rem;
       overflow: hidden;
