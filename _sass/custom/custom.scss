@@ -28,14 +28,22 @@ ol.unstyled-list {
     @extend %boxshadow;
     margin-top: 1rem;
     padding: 1rem 1rem 1rem 3rem;
+    direction: ltr;
+    text-align: left;
+   
     
     &::before {
       content: ""; 
     }
-    
+    &,
     &:hover{
       cursor: pointer;
       background-color: #f5f6fa;
+      // Use png fallback
+      background: #f5f6fa url("../../images/white-cube.png") no-repeat 0 50%;
+      // Or svg if the browser supports it
+      background-image: url("../images/white-cube.svg"), linear-gradient(transparent, transparent);
+      background-position: 20px;
     }
     + li {
       margin-top: 2rem;
