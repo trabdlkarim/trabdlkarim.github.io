@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Support
+title: Using TAK PI
 nav_order: 99
 ---
 
@@ -39,13 +39,13 @@ A "file", also known as a "package", on PyPI is something that you can download 
 
 ## How do I get notified when a new version of a project is released?
 
-## Where can I see statistics about PyPI, downloads, and project/package usage?
+## Where can I see statistics about TAKPI, downloads, and project or package usage?
 
 ---
 
 # Administration of projects on TAK PI
 
---
+---
 
 # Troubleshooting
 
