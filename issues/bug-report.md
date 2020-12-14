@@ -28,6 +28,10 @@ TAK PI projects are generally hosted in GitHub. The original goal of GitHub was 
 
 ## Bug report template
 
+As you can imagine, filling out a bug report can take a while. Fortunately, you can speed up that process dramatically by using bug report template for GitHub.  All the important technical information (e.g. browser version, operating system, etc.) should be included in your GitHub issue - without you having to do any extra work.
+
+You can even use the built-in bug report template of the concerned project repository before creating your issue and fill out the steps to reproduce the bug, as well as the expected and actual results.
+
 ---
 
 ## Suggest a feature
