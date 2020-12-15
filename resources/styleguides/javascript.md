@@ -18,3 +18,16 @@ TAK PI projects currently have very little JavaScript inside which is why the gu
 1. TOC
 {:toc}
 ---
+
+## Indentation
+
+Two spaces
+
+## Naming
+
+methods and functions: ```camelCase```
+classes: ```PascalCase```
+
+## Strings
+
+Try to use single quote strings for everything if you can.
