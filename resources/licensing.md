@@ -4,7 +4,7 @@ title: Licenses & Copyright
 parent: Resources
 ---
 
-# Licensing and Copyright
+# Licensing and Copyrighting
 {: .no_toc}
 
 Nobody wants to deal with the legalities of software development, but they are a fact of life.
