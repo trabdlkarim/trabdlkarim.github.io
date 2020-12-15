@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Python Sytle Guide
+title: Python Style Guide
 parent: Source Code Style Guides
 grand_parent: Resources
 ---
@@ -117,9 +117,9 @@ The module header consists of an utf-8 encoding declaration (if non ASCII letter
  
  ---
  
- # Comments
+# Comments
  
- Rules for comments are similar to docstrings. Both are formatted with reStructuredText. If a comment is used to document an attribute, put a colon after the opening pound sign (`#`). If a comment is on the same line as code, use two spaces before the `#`.
+Rules for comments are similar to docstrings. Both are formatted with reStructuredText. If a comment is used to document an attribute, put a colon after the opening pound sign (`#`). If a comment is on the same line as code, use two spaces before the `#`.
 
 ```python
 class User(object):
