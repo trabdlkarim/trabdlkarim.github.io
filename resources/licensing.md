@@ -7,8 +7,10 @@ parent: Resources
 # Licensing and Copyright
 {: .no_toc}
 
-Nobody wants to deal with the legalities of software development, but they are a fact of life. Without licenses and a clear understanding of copyrights using an Open Source project would be impossible for individuals and companies alike. To ensure that everybody can use projects and code from the TAK PI here are the rules with regards to how we handle licenses and individual code contributions.
+Nobody wants to deal with the legalities of software development, but they are a fact of life.
 {: .fs-6 .fw-300 }
+
+Without licenses and a clear understanding of copyrights using an Open Source project would be impossible for individuals and companies alike. To ensure that everybody can use projects and code from the TAK PI here are the rules with regards to how we handle licenses and individual code contributions.
 
 ---
 
