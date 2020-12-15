@@ -68,6 +68,7 @@ Top level functions and classes are separated by two lines, everything else by o
 def hello(name):
     print('Hello %s!' % name)
 
+
 def goodbye(name):
     print('See you %s.' % name)
 ```
@@ -89,7 +90,7 @@ class MyClass(object):
 
 These are some specific rules about how to deal with formatting of expressions and statements.
 
-### General whıtespace rules
+### General whitespace rules
 
 - No whitespace for unary operators that are not words (e.g.: `-`, `~` etc.) as well on the inner side of parentheses.
 - Whitespace is placed between binary operators.
@@ -164,7 +165,7 @@ Function and method arguments:
  
 ## Docstrings
  
-All docstrings are formatted with reStructuredText as understood by Sphinx. Depending on the number of lines in the docstring, they are laid out differently. If it's just one line, the closing triple quote is on the same line as the opening, otherwise the text is on the same line as the opening quote and the triple quote that closes the string on its own line.
+All docstrings are formatted with [reStructuredText as understood by Sphinx](http://www.sphinx-doc.org/en/stable/rest.html). Depending on the number of lines in the docstring, they are laid out differently. If it's just one line, the closing triple quote is on the same line as the opening, otherwise the text is on the same line as the opening quote and the triple quote that closes the string on its own line.
 
 ```python
 def foo():
