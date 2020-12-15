@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About TAK PI
-nav_order: 102
+nav_order: 100
 ---
 
 # About TAK Project Index
