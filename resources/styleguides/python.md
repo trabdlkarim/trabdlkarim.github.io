@@ -68,7 +68,6 @@ Top level functions and classes are separated by two lines, everything else by o
 def hello(name):
     print('Hello %s!' % name)
 
-
 def goodbye(name):
     print('See you %s.' % name)
 ```
