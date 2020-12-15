@@ -4,4 +4,4 @@ title: Licenses & Copyright
 parent: Resources
 ---
 
-# Licensing and Copyriht?
+# Licensing and Copyright?
