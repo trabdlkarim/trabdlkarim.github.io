@@ -25,8 +25,8 @@ Two spaces
 
 ## Naming
 
-methods and functions: ```camelCase```
-classes: ```PascalCase```
+   - methods and functions: ```camelCase```
+   - classes: ```PascalCase```
 
 ## Strings
 
