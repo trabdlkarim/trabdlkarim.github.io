@@ -165,7 +165,7 @@ Function and method arguments:
  
 ## Docstrings
  
-All docstrings are formatted with [reStructuredText as understood by Sphinx](http://www.sphinx-doc.org/en/stable/rest.html). Depending on the number of lines in the docstring, they are laid out differently. If it's just one line, the closing triple quote is on the same line as the opening, otherwise the text is on the same line as the opening quote and the triple quote that closes the string on its own line.
+All docstrings are formatted with [reStructuredText as understood by Sphinx](http://www.sphinx-doc.org/en/stable/rest.html){:target="_blank"}. Depending on the number of lines in the docstring, they are laid out differently. If it's just one line, the closing triple quote is on the same line as the opening, otherwise the text is on the same line as the opening quote and the triple quote that closes the string on its own line.
 
 ```python
 def foo():
