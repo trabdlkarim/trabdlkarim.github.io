@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Source Code Styleguides
+title: Source Code Style Guides
 parent: Resources
 has_children: true
 ---
 
-# Source Code Styleguides
+# Source Code Style Guides
 {: .no_toc}
 
 To achieve consistency between TAK PI projects there are unified styleguide and rules for the projects.
