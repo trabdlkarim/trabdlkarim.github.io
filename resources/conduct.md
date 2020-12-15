@@ -5,6 +5,15 @@ parent: Resources
 ---
 
 # Contributor Covenant Code of Conduct
+{: .no_toc}
+
+---
+# Contents
+{: .no_toc .text_delta}
+
+1. TOC
+{:toc}
+---
 
 ## Our Pledge
 
