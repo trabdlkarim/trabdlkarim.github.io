@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contributing
-parent: Projects
+parent: Resources
 ---
 
 # Contribute on GitHub
