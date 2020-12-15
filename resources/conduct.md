@@ -1,5 +1,5 @@
 ---
-layout: defaut
+layout: default
 title: Code of Conduct
 parent: Resources
 ---
