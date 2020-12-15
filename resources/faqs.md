@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Using TAK PI
+title: Common Questions 
 parent: Resources
 ---
 
-# Common Questions
+# Frequently Asked Questions 
 {: .no_toc}
 
 Hey there! I'm TOURE Abdoul Karim, a Computer Engineering Student &  Freelance Developer. This site is a personal project pages stack or simply an index of personal projects that lists some of my most important open source and personal projects. Feel free to browse the pages, and use the projects for your own use upon downloading. Carry on!
