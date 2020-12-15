@@ -4,4 +4,4 @@ title: Contributing
 parent: Resources
 ---
 
-# Contribute on GitHub
+# Contribution Guidelines
