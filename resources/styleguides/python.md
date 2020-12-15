@@ -78,7 +78,60 @@ class MyClass(object):
  ---
  
 ## Expressions and Statements
- 
+
+These are some specific rules about how to deal with formatting of expressions and statements.
+
+### General whıtespace rules
+
+- No whitespace for unary operators that are not words (e.g.: `-`, `~` etc.) as well on the inner side of parentheses.
+- Whitespace is placed between binary operators.
+
+Good:
+
+```python
+exp = -1.05
+value = (item_value / item_count) * offset / exp
+value = my_list[index]
+value = my_dict['key']
+```
+
+Bad:
+
+```
+exp = - 1.05
+value = ( item_value / item_count ) * offset / exp
+value = (item_value/item_count)*offset/exp
+value=( item_value/item_count ) * offset/exp
+value = my_list[ index ]
+value = my_dict ['key']
+```
+
+Yoda statements are a no-go. Never compare constant with variable, always variable with constant:
+
+Good:
+
+```
+if method == 'md5':
+    pass
+```
+
+Bad:
+
+```
+if 'md5' == method:
+    pass
+
+```
+Comparisons:
+
+  - against arbitrary types: `==` and `!=`
+  - against singletons with `is` and `is not` (eg: `foo is not None`)
+  - never compare something with `True` or `False` (for example never do `foo == False`, do `not foo` instead)
+
+Use negated containment checks: for instance `foo not in bar` instead of `not foo in bar`
+
+For instance checks use `isinstance(a, C)` instead of `type(a) is C`, but try to avoid instance checks in general. Check for features.
+
 ---
  
 ## Naming Conventions
