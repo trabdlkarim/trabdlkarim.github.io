@@ -5,7 +5,7 @@ parent: Source Code Style Guides
 grand_parent: Resources
 ---
 
-# Python Sytle Guide
+# Python Style Guide
 {: .no_toc}
 
 The TAK PI styleguide applies to all TAK Projects. This styleguide is a requirement for patches to the projects and a recommendation for other code in the ecosystem.
@@ -75,4 +75,31 @@ class MyClass(object):
         return self.name.upper() + '!!!!111'
  ```
  
+ ---
  
+ # Expressions and Statements
+ 
+ ---
+ 
+ # Naming Conventions
+ 
+ ---
+ 
+ # Docstrings
+ 
+ ---
+ 
+ # Comments
+ 
+ Rules for comments are similar to docstrings. Both are formatted with reStructuredText. If a comment is used to document an attribute, put a colon after the opening pound sign (`#`). If a comment is on the same line as code, use two spaces before the `#`.
+
+```python
+class User(object):
+    #: the name of the user as unicode string
+    name = Column(String)
+    #: the sha1 hash of the password + inline salt
+    pw_hash = Column(String)
+
+    _groups = None  # cache groups after loading
+
+```
