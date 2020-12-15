@@ -77,15 +77,43 @@ class MyClass(object):
  
  ---
  
- # Expressions and Statements
+# Expressions and Statements
  
- ---
+---
  
- # Naming Conventions
+# Naming Conventions
  
- ---
+---
  
- # Docstrings
+# Docstrings
+ 
+All docstrings are formatted with reStructuredText as understood by Sphinx. Depending on the number of lines in the docstring, they are laid out differently. If it's just one line, the closing triple quote is on the same line as the opening, otherwise the text is on the same line as the opening quote and the triple quote that closes the string on its own line.
+
+```python
+def foo():
+    """This is a simple docstring"""
+
+
+def bar():
+    """This is a longer docstring with so much information in
+    there that it spans three lines.  In this case the closing
+    triple quote is on its own line.
+    """
+```
+The module header consists of an utf-8 encoding declaration (if non ASCII letters are used, but it is recommended all the time) and a standard docstring:
+
+```python
+# -*- coding: utf-8 -*-
+"""
+    package.module
+    ~~~~~~~~~~~~~~
+
+    A brief description goes here.
+
+    :copyright: (c) YEAR by AUTHOR.
+    :license: LICENSE_NAME, see LICENSE_FILE for more details.
+"""
+```
  
  ---
  
