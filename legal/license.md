@@ -5,6 +5,7 @@ nav_exclude: true
 ---
 
 # License
+{: .text-alpha}
 
 Copyright (c) 2020 by Toure A. Karim and contributors.
 
