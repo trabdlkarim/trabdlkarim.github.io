@@ -4,4 +4,4 @@ title: Contributing
 parent: Projects
 ---
 
-# Contributing
+# Contribute on GitHub
