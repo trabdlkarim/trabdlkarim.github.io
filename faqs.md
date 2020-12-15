@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Using TAK PI
-nav_order: 99
+parent: Resources
 ---
 
 # Common questions
