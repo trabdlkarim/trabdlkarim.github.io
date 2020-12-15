@@ -9,7 +9,7 @@ parent: Resources
 
 ---
 ## Contents
-{: .no_toc .text_delta}
+{: .no_toc .text-delta}
 
 1. TOC
 {:toc}
