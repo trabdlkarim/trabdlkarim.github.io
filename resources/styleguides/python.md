@@ -97,7 +97,7 @@ value = my_dict['key']
 
 Bad:
 
-```
+```python
 exp = - 1.05
 value = ( item_value / item_count ) * offset / exp
 value = (item_value/item_count)*offset/exp
@@ -110,14 +110,14 @@ Yoda statements are a no-go. Never compare constant with variable, always variab
 
 Good:
 
-```
+```python
 if method == 'md5':
     pass
 ```
 
 Bad:
 
-```
+```python
 if 'md5' == method:
     pass
 
