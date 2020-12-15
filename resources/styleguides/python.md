@@ -11,6 +11,7 @@ grand_parent: Resources
 The TAK PI styleguide applies to all TAK Projects. This styleguide is a requirement for patches to the projects and a recommendation for other code in the ecosystem.
 In general the styleguide closely follows [PEP 8](https://www.python.org/dev/peps/pep-0008/){:target="_blank"} with some small differences and extensions.
 {: .fs-6 .fw-300}
+
 ---
 ## Contents
 {: .no_toc .text-delta}
