@@ -70,6 +70,9 @@ def hello(name):
 
 def goodbye(name):
     print('See you %s.' % name)
+```
+
+```python
 class MyClass(object):
     """This is a simple docstring"""
 
