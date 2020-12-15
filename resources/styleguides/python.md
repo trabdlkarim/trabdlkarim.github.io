@@ -43,12 +43,17 @@ this_is_a_very_long(function_call, 'with many parameters') \
 MyModel.query.filter(MyModel.scalar > 120) \
              .order_by(MyModel.name.desc()) \
              .limit(10)
+```
 When breaking in a statement with parentheses or braces, align to the braces.
 
+```python
 this_is_a_very_long(function_call, 'with many parameters',
                     23, 42, 'and even more')
+```
+
 For lists or tuples with many items, break immediately after the opening brace.
 
+```python
 items = [
     'this is the first', 'set of items', 'with more items',
     'to come in this line', 'like this'
