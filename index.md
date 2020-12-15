@@ -118,7 +118,7 @@ TAK PI produces a wide variety of projects, code snippets, plugins and other res
 ## <i class="fas fa-users"></i> Maintainers
 {: .fs-7}
 
-This index is mainly maintained on GitHub by <a href="https://github.com/trabdlkarim" target="_blank">@trabdlkarim</a> and other contributors. We happily accept any [contributions and feedback]({{ site.baseurl }}{% link issues/feedback.md %}). 😊
+This index is mainly maintained on GitHub by <a href="https://github.com/trabdlkarim" target="_blank">@trabdlkarim</a> and other contributors. We happily accept any [contributions]({{ site.baseurl }}{% link resources/contributing.md %}) and [feedback]({{ site.baseurl }}{% link issues/feedback.md %}). 😊
 
 <ul class="list-style-none">
 {% for contributor in site.github.contributors %}
@@ -132,4 +132,4 @@ This index is mainly maintained on GitHub by <a href="https://github.com/trabdlk
 <div class="calendar"></div>
 <script>GitHubCalendar(".calendar", "trabdlkarim", { responsive: true, global_stats: false });</script>
 
-<i class="fas fa-hand-point-right"></i> See [About TAK PI]({{ site.baseurl }}{% link takpi.md %}) for more information.
+<i class="fas fa-hand-point-right"></i> See [About TAK PI]({{ site.baseurl }}{% link about/index.md %}) for more information.
