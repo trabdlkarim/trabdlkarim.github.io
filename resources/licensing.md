@@ -24,7 +24,7 @@ Without licenses and a clear understanding of copyrights using an Open Source pr
 
 ## License
 
-All TAK PI projects are licensed under the same three clause BSD license. This license was chosen a long time ago and for consistency we want to continue using this license going forward.
+All TAK PI projects are licensed under the same [three clause BSD license]({{ site.baseurl }}{% link legal/license.md %}). This license was chosen a long time ago and for consistency we want to continue using this license going forward.
 
 ## Copyrights
 
