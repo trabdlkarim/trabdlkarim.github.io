@@ -77,15 +77,31 @@ class MyClass(object):
  
  ---
  
-# Expressions and Statements
+## Expressions and Statements
  
 ---
  
-# Naming Conventions
- 
+## Naming Conventions
+
+- class names: `CamelCase`, with acronyms kept uppercase (`HTTPWriter` and not `HttpWriter`)
+- variable names: `lowercase_with_underscores`
+- method and function names: `lowercase_with_underscores`
+- constants: `UPPERCASE_WITH_UNDERSCORES`
+- precompiled regular expressions: `name_re`
+
+Protected members are prefixed with a single underscore. Double underscores are reserved for mixin classes.
+
+If a name clashes with a keyword, append a trailing underscore. Clashes with builtins are allowed and **must not** be resolved by appending an underline to the variable name. If the function needs to access a shadowed builtin, rebind the builtin to a different name instead.
+
+Function and method arguments:
+
+- class methods: `cls` as first parameter
+- instance methods: `self` as first parameter
+- lambdas for properties might have the first parameter replaced with `x` like in `display_name = property(lambda x: x.real_name or x.username)`
+
 ---
  
-# Docstrings
+## Docstrings
  
 All docstrings are formatted with reStructuredText as understood by Sphinx. Depending on the number of lines in the docstring, they are laid out differently. If it's just one line, the closing triple quote is on the same line as the opening, otherwise the text is on the same line as the opening quote and the triple quote that closes the string on its own line.
 
@@ -117,7 +133,7 @@ The module header consists of an utf-8 encoding declaration (if non ASCII letter
  
  ---
  
-# Comments
+## Comments
  
 Rules for comments are similar to docstrings. Both are formatted with reStructuredText. If a comment is used to document an attribute, put a colon after the opening pound sign (`#`). If a comment is on the same line as code, use two spaces before the `#`.
 
