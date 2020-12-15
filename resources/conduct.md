@@ -1,3 +1,9 @@
+---
+layout: defaut
+title: Code of Conduct
+parent: Resources
+---
+
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge
