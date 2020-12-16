@@ -29,7 +29,7 @@ Welcome to the TAK PI, a collection of projects and references to help you downl
 
 ---
 
-## <i class="fas fa-th-list" ></i> TAK PI Projects
+## <i class="fas fa-th-list" ></i> TAK Projects
 {: .fs-7}
 
 One of the most important ways to develop your skills and improve your employability as a software engineer is to work on side projects, for instance open source projects, helpful tools and scripts.
