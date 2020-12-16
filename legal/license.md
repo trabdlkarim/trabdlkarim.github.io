@@ -5,10 +5,10 @@ nav_exclude: true
 ---
 
 # BSD 3-clause Revised License
-{: .fs-10 .mb-1 }
+{: .fs-8 .mb-1 .fw-500}
 
 # (BSD License 2.0)
-{: .fs-10 .mt-1}
+{: .fs-8 .mt-1 .fw-500}
 
 ---
 
