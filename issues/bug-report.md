@@ -7,6 +7,9 @@ parent: Feedback
 # Want to report an issue with a Project ?
 {: .no_toc}
 
+`Warning: This page is under construction, some of its sections might not be complete.`
+
+
 Your feedback is essential to helping us make TAK PI projects great.
 {: .fs-6 .fw-300}
 
