@@ -1,10 +1,11 @@
 ---
 layout: page
-title: TAK PI Projects License
+title: TAK Projects License
 nav_exclude: true
 ---
 
-# License terms
+# BSD 3-clause Revised License (BSD License 2.0)
+{: .fs-10 }
 
 ---
 
