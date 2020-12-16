@@ -4,9 +4,11 @@ title: TAK Projects License
 nav_exclude: true
 ---
 
-# BSD 3-clause Revised License 
+# BSD 3-clause Revised License
+{: .fs-10 .mb-1 }
+
 # (BSD License 2.0)
-{: .fs-10 }
+{: .fs-10 .mt-1}
 
 ---
 
