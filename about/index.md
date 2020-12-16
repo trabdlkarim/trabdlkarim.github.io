@@ -13,7 +13,7 @@ TAK Project Index (TAK PI) is just a simple hub for some of [@trabdlkarim](https
 
 ---
 
-# Table of Contents
+# Contents
 {: .no_toc .text-delta}
 
 1. TOC
@@ -21,4 +21,4 @@ TAK Project Index (TAK PI) is just a simple hub for some of [@trabdlkarim](https
 
 ---
 
-
+TODO
