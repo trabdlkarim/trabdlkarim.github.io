@@ -7,7 +7,7 @@ parent: Resources
 # Frequently Asked Questions 
 {: .no_toc}
 
-Hey there! I'm TOURE Abdoul Karim, a Computer Engineering Student &  Freelance Developer. This site is a personal project pages stack or simply an index of personal projects that lists some of my most important open source and personal projects. Feel free to browse the pages, and use the projects for your own use upon downloading. Carry on!
+This page is under construction, some of its sections might not be complete.
 
 ---
 
@@ -31,7 +31,7 @@ A "release" on PyPI is a specific version of a project. For example, the request
 
 A "file", also known as a "package", on PyPI is something that you can download and install. Because of different hardware, operating systems, and file formats, a release may have several files (packages), like an archive containing source code or a binary wheel.
 
-## How do I install a file (package) from TAK PI?
+## How do I install a package from TAK PI?
 
 ---
 
@@ -39,7 +39,11 @@ A "file", also known as a "package", on PyPI is something that you can download 
 
 ## How do I get notified when a new version of a project is released?
 
-## Where can I see statistics about TAKPI, downloads, and project or package usage?
+TODO
+ 
+## Where can I see statistics about TAK PI, downloads, and project or package usage?
+
+TODO
 
 ---
 
@@ -49,20 +53,36 @@ A "file", also known as a "package", on PyPI is something that you can download 
 
 # Troubleshooting
 
+TODO
+
 ---
 
 # About
 
 ## Who maintains TAK PI?
 
+TODO
+
 ## What powers TAK PI?
+
+TODO 
 
 ## Can I depend on TAK PI being available?
 
-## How can I contribute to TAK PI?
+TODO
 
-## How do I keep up with upcoming changes to TAK PI?
+## How can I contribute to a TAK PI Project?
+
+TODO
+
+## How do I keep up with upcoming changes to TAK PI Projects?
+
+TODO
 
 ## What does the "beta feature" badge mean? What are ppindex's current beta features?
 
+TODO
+
 ## How do I pronounce "TAK PI"?
+
+TODO
