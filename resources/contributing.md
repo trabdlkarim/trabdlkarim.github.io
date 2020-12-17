@@ -44,23 +44,24 @@ We have an official message board with a detailed FAQ and where the community ch
 
 ### Reporting Bugs
 
-#### Before Submitting A Bug Report
-
-#### How Do I Submit A (Good) Bug Report?
+For reporting a bug about a project refer to [Report A Bug]({% link issues/bug-report.md %}#reporting-bugs-in-github) for more details.
 
 ### Suggesting Enhancements
 
-#### Before Submitting An Enhancement Suggestion
+For suggesting a feature about a project refer to [Suggest An Enhancement]({% link issues/bug-report.md %}#suggesting-enhancements) for more details.
 
-#### How Do I Submit A (Good) Enhancement Suggestion?
 
 ### Your First Code Contribution
 
-#### Local development
+TODO
+
+### Local development
+
+TODO
 
 ### Pull Requests
-
-## Styleguides
+ 
+ TODO
 
 ### Git Commit Messages
 
@@ -89,6 +90,8 @@ We have an official message board with a detailed FAQ and where the community ch
 ---
 
 ## Additional Notes
+
+TODO
 
 ### Issue and Pull Request Labels
 
