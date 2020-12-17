@@ -6,11 +6,8 @@ parent: Feedback
 
 # Do you have any question in mind?
 
-`Warning: This page is under construction, some of its sections might not be complete.`
-
-
 Your feedback is essential to helping us make TAK PI projects great.
-{: .fs-6 .fw-300}
+{: .fs-6 .fw-500}
 
 ---
 
