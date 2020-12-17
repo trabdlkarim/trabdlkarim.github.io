@@ -29,10 +29,18 @@ TAK PI projects are generally hosted in GitHub. GitHub has an issue tracker buil
 
 This section guides you through submitting a bug report for TAK Projects. Following these guidelines helps maintainers and the community understand your report, reproduce the behavior, and find related reports.
 
-Before creating bug reports, please check [this list](#before-sumitting-a-bug) as you might find out that you don't need to create one. When you are creating a bug report, please [include as many details as possible](#). Fill out [the required template](#), the information it asks for helps us resolve issues faster.
+Before creating bug reports, please check [this list](#before-submitting-a-bug) as you might find out that you don't need to create one. When you are creating a bug report, please [include as many details as possible](#). Fill out [the required template](#), the information it asks for helps us resolve issues faster.
 
 
 ### Before Submitting A Bug
+
+> - Check the debugging guide of the project. You might be able to find the cause of the problem and fix things yourself. 
+
+> - Check the [FAQs]({% link resources/faqs.md %}) on the list of common questions and problems.
+
+> -  Determine which repository the problem should be reported in.
+
+> - Perform a search to see if the problem has already been reported. If it has and the issue is still open, add a comment to the existing issue instead of opening a new one.
 
 ---
 
