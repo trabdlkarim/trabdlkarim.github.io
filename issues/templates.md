@@ -68,15 +68,11 @@ Do you want to ask a question? Are you looking for support? The Atom message boa
 ---
 ## Feature Suggestion Template
 
----
-name: Feature request
-about: 
----
-
 If you're convinced that none of a project options are appropriate for the feature you want, please explain why that's the case by completely filling out the issue template below.
 
 Also note that the TAK projects team has finite resources so it's unlikely that we'll work on feature requests. If we're interested in a particular feature however, we'll follow up and ask you to submit an RFC to talk about it in more detail.
 
+```markdown
 ## Name
 
 Feature Request
@@ -91,12 +87,16 @@ Feature Request
 
 ## Motivation
 
-<!-- Why are we doing this? What use cases does it support? What is the expected outcome? -->
+<!-- Why are we doing this? What use cases does it support? 
+What is the expected outcome? -->
 
 ## Describe alternatives you've considered
 
-<!-- A clear and concise description of the alternative solutions you've considered. Be sure to explain why Atom's existing customizability isn't suitable for this feature. -->
+<!-- A clear and concise description of the alternative solutions you've considered. 
+Be sure to explain why Atom's existing customizability isn't suitable for this feature. 
+-->
 
 ## Additional context
 
 <!-- Add any other context or screenshots about the feature request here. -->
+```
