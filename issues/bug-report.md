@@ -25,7 +25,14 @@ Your feedback is essential to helping us make TAK PI projects great.
 
 ## Reporting bugs in GitHub
 
-TAK PI projects are generally hosted in GitHub. The original goal of GitHub was to help developers collaborate on code, but as the services grew, they added more features and become a project management tool for building software. GitHub has an issue tracker built in, which makes it easy for developers to keep track of bugs. We also use it to keep track of bugs. So if you would like to report a bug with a project just find its GitHub repository and open an issue there. We will then as soon as possible try to address the bug being reported.
+TAK PI projects are generally hosted in GitHub. GitHub has an issue tracker built in, which makes it easy for developers to keep track of bugs. We use it to keep track of bugs. So if you would like to report a bug with a project just find its GitHub repository and open an issue there.
+
+This section guides you through submitting a bug report for TAK Projects. Following these guidelines helps maintainers and the community understand your report, reproduce the behavior, and find related reports.
+
+Before creating bug reports, please check [this list](#before-sumitting-a-bug) as you might find out that you don't need to create one. When you are creating a bug report, please [include as many details as possible](#). Fill out [the required template](#), the information it asks for helps us resolve issues faster.
+
+
+### Before Submitting A Bug
 
 ---
 
