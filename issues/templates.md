@@ -42,17 +42,18 @@ Do you want to ask a question? Are you looking for support? The Atom message boa
 
 1. Step 1 goes here <!-- First Step -->
 1. Step 2 goes here <!-- Second Step -->
-1. Step 3 goes here <!-- and so on… -->
-1. Step ... 
-**Expected behavior:**
+1. Step 3 goes here <!-- Third Step -->
+1. Step ... goes here <!-- and so on… -->
+
+### Expected behavior
 
 <!-- What you expect to happen -->
 
-**Actual behavior:**
+### Actual behavior
 
 <!-- What actually happens -->
 
-**Reproduces how often:**
+### Reproduces how often
 
 <!-- What percentage of the time does it reproduce? -->
 
