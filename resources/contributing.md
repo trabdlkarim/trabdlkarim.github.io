@@ -40,16 +40,6 @@ We have an official message board with a detailed FAQ and where the community ch
 
 ---
 
-## Before you get started, What should I know.
-
-### TAK PI and Packages
-
-#### Package Conventions
-
-### Design Decisions
-
----
-
 ## How Can I Contribute?
 
 ### Reporting Bugs
@@ -100,3 +90,8 @@ We have an official message board with a detailed FAQ and where the community ch
 
 ## Additional Notes
 
+### Issue and Pull Request Labels
+
+This section lists the labels we use to help us track and manage issues and pull requests. Most labels are used across all repositories.
+
+TODO
