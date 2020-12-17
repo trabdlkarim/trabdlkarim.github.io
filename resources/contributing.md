@@ -26,7 +26,7 @@ The following is a set of guidelines for contributing to TAK projects and its pa
 
 ## Code of Conduct
 
-The projects and everyone participating in it is governed by the [TAK PI Code of Conduct]({% link resources/conduct.md %}). By participating, you are expected to uphold this code. Please report unacceptable behavior to [contact@trabdlkarim.com](mailto:contact@trabdlkarim.com).
+The TAK projects and everyone participating in them are governed by the [TAK PI Code of Conduct]({% link resources/conduct.md %}). By participating, you are expected to uphold this code. Please report unacceptable behavior to [contact@trabdlkarim.com](mailto:contact@trabdlkarim.com).
 
 ---
 
@@ -64,6 +64,39 @@ We have an official message board with a detailed FAQ and where the community ch
 
 #### How Do I Submit A (Good) Enhancement Suggestion?
 
+### Your First Code Contribution
+
+#### Local development
+
+### Pull Requests
+
+## Styleguides
+
+### Git Commit Messages
+
+* Use the present tense ("Add feature" not "Added feature")
+* Use the imperative mood ("Move cursor to..." not "Moves cursor to...")
+* Limit the first line to 72 characters or less
+* Reference issues and pull requests liberally after the first line
+* When only changing documentation, include `[ci skip]` in the commit title
+* Consider starting the commit message with an applicable emoji:
+    * :art: `:art:` when improving the format/structure of the code
+    * :racehorse: `:racehorse:` when improving performance
+    * :non-potable_water: `:non-potable_water:` when plugging memory leaks
+    * :memo: `:memo:` when writing docs
+    * :penguin: `:penguin:` when fixing something on Linux
+    * :apple: `:apple:` when fixing something on macOS
+    * :checkered_flag: `:checkered_flag:` when fixing something on Windows
+    * :bug: `:bug:` when fixing a bug
+    * :fire: `:fire:` when removing code or files
+    * :green_heart: `:green_heart:` when fixing the CI build
+    * :white_check_mark: `:white_check_mark:` when adding tests
+    * :lock: `:lock:` when dealing with security
+    * :arrow_up: `:arrow_up:` when upgrading dependencies
+    * :arrow_down: `:arrow_down:` when downgrading dependencies
+    * :shirt: `:shirt:` when removing linter warnings
+
 ---
 
-### Your First Code Contribution
+## Additional Notes
+
