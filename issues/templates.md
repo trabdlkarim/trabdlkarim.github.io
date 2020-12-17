@@ -18,10 +18,19 @@ parent: Feedback
 ## Bug Report Template
 
 ```markdown
+
+### Name
+
+Bug Report
+
+### Subject
+
+Create a report to help us improve
+
 ### Prerequisites
 
 * [] Put an X between the brackets on this line if you have done all of the following:
-    * Reproduced the problem in Safe Mode: <https://flight-manual.atom.io/hacking-atom/sections/debugging/#using-safe-mode>
+    * Reproduced the problem in Safe Mode.
     * Followed all applicable steps in the debugging guide.
     * Checked the FAQs on the message board for common solutions.
     * Checked that your issue isn't already filed.
@@ -52,11 +61,13 @@ parent: Feedback
 
 ### Versions
 
-<!-- You can get this information wıth `--version` option. Also, please include the OS and what version of the OS you're running. -->
+<!-- You can get this information wıth `--version` option. 
+Also, please include the OS and what version of the OS you're running. -->
 
 ### Additional Information
 
-<!-- Any additional information, configuration or data that might be necessary to reproduce the issue. -->
+<!-- Any additional information, configuration or data that might be 
+necessary to reproduce the issue. -->
 ```
 
 ---
