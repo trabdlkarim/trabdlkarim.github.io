@@ -40,10 +40,10 @@ Do you want to ask a question? Are you looking for support? The Atom message boa
 
 ### Steps to Reproduce
 
-1. <!-- First Step -->
-2. <!-- Second Step -->
-3. <!-- and so on… -->
-
+1. Step 1 goes here <!-- First Step -->
+1. Step 2 goes here <!-- Second Step -->
+1. Step 3 goes here <!-- and so on… -->
+1. Step ... 
 **Expected behavior:**
 
 <!-- What you expect to happen -->
