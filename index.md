@@ -107,7 +107,7 @@ TAK PI produces a wide variety of projects, code snippets, plugins and other res
 - [<i class="fas fa-link" arial-hidden="true"></i> Frequently Asked Questions]({{ site.baseurl }}{% link resources/faqs.md %})
 - [<i class="fas fa-link" arial-hidden="true"></i> How to contribute to a project?]({{ site.baseurl }}{% link resources/contributing.md %})
 - [<i class="fas fa-link" arial-hidden="true"></i> Community Code of Conduct]({{ site.baseurl }}{% link resources/conduct.md %})
-- [<i class="fas fa-link" arial-hidden="true"></i> What about TAK projects licenses?]({{ site.baseurl }}{% link resources/lincesing.md %})
+- [<i class="fas fa-link" arial-hidden="true"></i> What about TAK projects licenses?]({{ site.baseurl }}{% link resources/licensing.md %})
 - [<i class="fas fa-link" arial-hidden="true"></i> Tools and Code Snippets]({{ site.baseurl }}{% link snippets/index.md %})
 {: .fs-5}
 
