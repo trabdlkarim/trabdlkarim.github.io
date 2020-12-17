@@ -28,8 +28,42 @@ The following is a set of guidelines for contributing to TAK projects and its pa
 
 The projects and everyone participating in it is governed by the [TAK PI Code of Conduct]({% link resources/conduct.md %}). By participating, you are expected to uphold this code. Please report unacceptable behavior to [contact@trabdlkarim.com](mailto:contact@trabdlkarim.com).
 
+---
+
 ## I don't want to read this whole thing I just have a question!!!
 
-> **Note:** [Please don't file an issue to ask a question.](https://blog.atom.io/2016/04/19/managing-the-deluge-of-atom-issues.html) You'll get faster results by using the resources below.
+> **Note:** [Please **DO NOT** file an issue to ask a question. You'll get faster results by using the resources below.
 
-TODO 
+We have an official message board with a detailed FAQ and where the community chimes in with helpful advice if you have questions.
+* [Common Questions & Answers]({% link resources/faqs.md %})
+* [Send feedback]({% link issues/feedback.md %})
+
+---
+
+## Before you get started, What should I know.
+
+### TAK PI and Packages
+
+#### Package Conventions
+
+### Design Decisions
+
+---
+
+## How Can I Contribute?
+
+### Reporting Bugs
+
+#### Before Submitting A Bug Report
+
+#### How Do I Submit A (Good) Bug Report?
+
+### Suggesting Enhancements
+
+#### Before Submitting An Enhancement Suggestion
+
+#### How Do I Submit A (Good) Enhancement Suggestion?
+
+---
+
+### Your First Code Contribution
