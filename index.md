@@ -99,7 +99,7 @@ See all [Newest Project Releases]({{ site.baseurl }}{% link projects/new-release
 
 ---
 
-## <i class="fas fa-info-circle"></i> Useful Resources
+## <i class="fas fa-info-circle"></i> Developer Resources
 {: .fs-7}
 
 TAK PI produces a wide variety of projects, code snippets, plugins and other resources that can be useful or helpful. Below is a collection of links to some of the most popular TAK PI resources.
