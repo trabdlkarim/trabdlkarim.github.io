@@ -26,7 +26,7 @@ TAK PI projects are generally hosted in GitHub. GitHub has an issue tracker buil
 
 This section guides you through submitting a bug report for TAK Projects. Following these guidelines helps maintainers and the community understand your report, reproduce the behavior, and find related reports.
 
-Before creating bug reports, please check [this list](#before-submitting-a-bug) as you might find out that you don't need to create one. When you are creating a bug report, please [include as many details as possible](#submit-a-good-bug-report). Fill out [the required template](#), the information it asks for helps us resolve issues faster.
+Before creating bug reports, please check [this list](#before-submitting-a-bug) as you might find out that you don't need to create one. When you are creating a bug report, please [include as many details as possible](#submit-a-good-bug-report). Fill out [the required template]({% link issues/templates.md %}#bug-report-template), the information it asks for helps us resolve issues faster.
 
 
 ### Before Submitting A Bug
@@ -41,7 +41,7 @@ Before creating bug reports, please check [this list](#before-submitting-a-bug) 
 ### Submit A Good Bug Report
 {: .mb-5}
 
-Bugs are tracked as [GitHub issues](https://guides.github.com/features/issues/){:target="_blank"}. After you've determined which repository your bug is related to, create an issue on that repository and provide the following information by filling in [the template](#).
+Bugs are tracked as [GitHub issues](https://guides.github.com/features/issues/){:target="_blank"}. After you've determined which repository your bug is related to, create an issue on that repository and provide the following information by filling in [the template]({% link issues/templates.md %}#bug-report-template).
 
 Explain the problem and include additional details to help maintainers reproduce the problem:
 
@@ -70,7 +70,7 @@ Explain the problem and include additional details to help maintainers reproduce
 
 This section guides you through submitting an enhancement suggestion for TAK Projects, including completely new features and minor improvements to existing functionality. Following these guidelines helps maintainers and the community understand your suggestion and find related suggestions.
 
-Before creating enhancement suggestions, please check [this list](#before-submitting-an-enhancement-suggestion) as you might find out that you don't need to create one. When you are creating an enhancement suggestion, please [include as many details as possible](submit-a-good-enhancement-suggestion). Fill in [the template](#), including the steps that you imagine you would take if the feature you're requesting existed.
+Before creating enhancement suggestions, please check [this list](#before-submitting-an-enhancement-suggestion) as you might find out that you don't need to create one. When you are creating an enhancement suggestion, please [include as many details as possible](submit-a-good-enhancement-suggestion). Fill in [the template]({% link issues/templates.md %}#feature-suggestion-template), including the steps that you imagine you would take if the feature you're requesting existed.
 
 ### Before Submitting An Enhancement Suggestion
 {: .mb-5}
