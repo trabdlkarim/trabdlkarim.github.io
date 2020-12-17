@@ -73,4 +73,4 @@ Explain the problem and include additional details to help maintainers reproduce
 
 ## Suggesting Enhancements
 
-The feature suggestion works just like the bug reporting. The only difference is that you need to [send a direct feedback]({% link issues/feedback.md %}) describing the feature you want us to add. Or another easy way is, if you are a developer, you can [contribute]({% link resources/contributing.md %}) to the concerned project by forking, then adding a new branch for your feature and submit a pull request.
+This section guides you through submitting an enhancement suggestion for Atom, including completely new features and minor improvements to existing functionality. Following these guidelines helps maintainers and the community understand your suggestion memo and find related suggestions.
