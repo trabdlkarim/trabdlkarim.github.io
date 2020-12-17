@@ -17,14 +17,7 @@ parent: Feedback
 
 ## Bug Report Template
 
-<!--
-
-Have you read Atom's Code of Conduct? By filing an Issue, you are expected to comply with it, including treating everyone with respect: https://github.com/atom/.github/blob/master/CODE_OF_CONDUCT.md
-
-Do you want to ask a question? Are you looking for support? The Atom message board is the best place for getting support: https://discuss.atom.io
-
--->
-
+```markdown
 ### Prerequisites
 
 * [] Put an X between the brackets on this line if you have done all of the following:
@@ -59,11 +52,12 @@ Do you want to ask a question? Are you looking for support? The Atom message boa
 
 ### Versions
 
-<!-- You can get this information from copy and pasting the output of `atom --version` and `apm --version` from the command line. Also, please include the OS and what version of the OS you're running. -->
+<!-- You can get this information wıth `--version` option. Also, please include the OS and what version of the OS you're running. -->
 
 ### Additional Information
 
 <!-- Any additional information, configuration or data that might be necessary to reproduce the issue. -->
+```
 
 ---
 ## Feature Suggestion Template
@@ -93,7 +87,7 @@ What is the expected outcome? -->
 ## Describe alternatives you've considered
 
 <!-- A clear and concise description of the alternative solutions you've considered. 
-Be sure to explain why Atom's existing customizability isn't suitable for this feature. 
+Be sure to explain why existing customizability isn't suitable for this feature. 
 -->
 
 ## Additional context
