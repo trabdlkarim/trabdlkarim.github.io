@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Report a bug
+title: Reporting Bugs
 parent: Feedback
 ---
 
-# Want to report an issue with a Project ?
+# Bugs and Enhancements
 {: .no_toc}
 
 `Warning: This page is under construction, some of its sections might not be complete.`
