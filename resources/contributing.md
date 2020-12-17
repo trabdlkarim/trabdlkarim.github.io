@@ -43,27 +43,33 @@ We have an official message board with a detailed FAQ and where the community ch
 ## How Can I Contribute?
 
 ### Reporting Bugs
+{: .mb-5}
 
 For reporting a bug about a project refer to [Report A Bug]({% link issues/bug-report.md %}#reporting-bugs-in-github) for more details.
 
 ### Suggesting Enhancements
+{: .mb-5}
 
 For suggesting a feature about a project refer to [Suggest An Enhancement]({% link issues/bug-report.md %}#suggesting-enhancements) for more details.
 
 
 ### Your First Code Contribution
+{: .mb-5}
 
 TODO
 
 ### Local development
+{: .mb-5}
 
 TODO
 
 ### Pull Requests
- 
+{: .mb-5}
+
  TODO
 
 ### Git Commit Messages
+{: .mb-5}
 
 * Use the present tense ("Add feature" not "Added feature")
 * Use the imperative mood ("Move cursor to..." not "Moves cursor to...")
@@ -94,7 +100,8 @@ TODO
 TODO
 
 ### Issue and Pull Request Labels
+{: .mb-5}
 
 This section lists the labels we use to help us track and manage issues and pull requests. Most labels are used across all repositories.
 
-TODO
+
