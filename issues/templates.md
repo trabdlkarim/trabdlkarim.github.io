@@ -19,15 +19,15 @@ parent: Feedback
 
 ```markdown
 
-### Name
+## Name
 
 Bug Report
 
-### Subject
+## Subject
 
 Create a report to help us improve
 
-### Prerequisites
+## Prerequisites
 
 * [] Put an X between the brackets on this line if you have done all of the following:
     * Reproduced the problem in Safe Mode.
@@ -36,35 +36,35 @@ Create a report to help us improve
     * Checked that your issue isn't already filed.
     * Checked that there is not already a package that provides the described functionality.
 
-### Description
+## Description
 
 <!-- Description of the issue -->
 
-### Steps to Reproduce
+## Steps to Reproduce
 
 1. Step 1 goes here <!-- First Step -->
 1. Step 2 goes here <!-- Second Step -->
 1. Step 3 goes here <!-- Third Step -->
 1. Step ... goes here <!-- and so on… -->
 
-### Expected behavior
+## Expected behavior
 
 <!-- What you expect to happen -->
 
-### Actual behavior
+## Actual behavior
 
 <!-- What actually happens -->
 
-### Reproduces how often
+## Reproduces how often
 
 <!-- What percentage of the time does it reproduce? -->
 
-### Versions
+## Versions
 
 <!-- You can get this information wıth `--version` option. 
 Also, please include the OS and what version of the OS you're running. -->
 
-### Additional Information
+## Additional Information
 
 <!-- Any additional information, configuration or data that might be 
 necessary to reproduce the issue. -->
