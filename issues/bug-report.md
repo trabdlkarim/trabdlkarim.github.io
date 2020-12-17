@@ -73,4 +73,35 @@ Explain the problem and include additional details to help maintainers reproduce
 
 ## Suggesting Enhancements
 
-This section guides you through submitting an enhancement suggestion for Atom, including completely new features and minor improvements to existing functionality. Following these guidelines helps maintainers and the community understand your suggestion memo and find related suggestions.
+This section guides you through submitting an enhancement suggestion for TAK Projects, including completely new features and minor improvements to existing functionality. Following these guidelines helps maintainers and the community understand your suggestion and find related suggestions.
+
+Before creating enhancement suggestions, please check [this list](#before-submitting-an-enhancement-suggestion) as you might find out that you don't need to create one. When you are creating an enhancement suggestion, please [include as many details as possible](submit-a-good-enhancement-suggestion). Fill in [the template](#), including the steps that you imagine you would take if the feature you're requesting existed.
+
+### Before Submitting An Enhancement Suggestion
+{: .mb-5}
+
+> - **Check if there's already a package** which provides that enhancement.
+
+> - **Determine which repository** the enhancement should be suggested in.
+
+> - **Perform a search to see if the enhancement has already been suggested**. If it has, add a comment to the existing issue instead of opening a new one.
+
+### Submit A Good Enhancement Suggestion
+{: .mb-5}
+Enhancement suggestions are tracked as GitHub issues. After you've determined which repository your enhancement suggestion is related to, create an issue on that repository and provide the following information:
+
+> - **Use a clear and descriptive title** for the issue to identify the suggestion.
+
+> - **Provide a step-by-step description of the suggested enhancement** in as many details as possible.
+
+> - **Provide specific examples to demonstrate the steps**. Include copy/pasteable snippets which you use in those examples, as [Markdown code blocks.](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/getting-started-with-writing-and-formatting-on-github){:target="_blank"}
+
+> - **Describe the current behavior and explain which behavior you expected to see instead** and why.
+
+> - **Include screenshots and animated GIFs** which help you demonstrate the steps or point out the part of the project which the suggestion is related to. 
+
+> - **Explain why this enhancement would be useful** to most  users and isn't something that can or should be implemented as a community package.
+
+> - **List some other programs or software applications where this enhancement exists.**
+
+> - **Specify the name and version of the OS you're using.**
