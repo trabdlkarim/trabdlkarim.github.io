@@ -7,9 +7,6 @@ parent: Feedback
 # Bugs and Enhancements
 {: .no_toc}
 
-`Warning: This page is under construction, some of its sections might not be complete.`
-
-
 Your feedback is essential to helping us make TAK PI projects great.
 {: .fs-6 .fw-300}
 
@@ -35,13 +32,11 @@ Before creating bug reports, please check [this list](#before-submitting-a-bug) 
 ### Before Submitting A Bug
 {: .mb-5}
 
-> - Check the debugging guide of the project. You might be able to find the cause of the problem and fix things yourself. 
-
-> - Check the [FAQs]({% link resources/faqs.md %}) on the list of common questions and problems.
-
-> - Determine which repository the problem should be reported in.
-
-> - Perform a search to see if the problem has already been reported. If it has **and the issue is still open**, add a comment to the existing issue instead of opening a new one.
+- Check the debugging guide of the project. You might be able to find the cause of the problem and fix things yourself. 
+- Check the [FAQs]({% link resources/faqs.md %}) on the list of common questions and problems.
+- Determine which repository the problem should be reported in.
+- Perform a search to see if the problem has already been reported. If it has **and the issue is still open**, add a comment to the existing issue instead of opening a new one.
+{: .pl-5}
 
 ### Submit A Good Bug Report
 {: .mb-5}
