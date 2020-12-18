@@ -42,15 +42,38 @@ We have an official message board with a detailed FAQ and where the community ch
 
 ## How Can I Contribute?
 
-### Reporting Bugs
+### Did you find a bug?
 {: .mb-5}
 
-For reporting a bug about a project refer to [Report A Bug]({% link issues/bug-report.md %}#reporting-bugs-in-github) for more details.
+- Do not open up a GitHub issue if the bug is a security vulnerability, and instead send us [a security feedback]({% link issues/feedback.md %}).
+
+- Ensure the bug was not already reported by searching on GitHub under Issues.
+
+- If you're unable to find an open issue addressing the problem, open a new one. Be sure to include a title and clear description, as much relevant information as possible, and a code sample or an executable test case demonstrating the expected behavior that is not occurring.
+
+- If possible, use the relevant [bug report template]({% link issues/templates.md %}#bug-report-template) to create the issue. Simply copy the content of the appropriate template, make the necessary changes to demonstrate the issue, and paste the content into the issue description.
+
+- For more detailed information on submitting a bug report and creating an issue, visit our [bug reporting guidelines]({% link issues/bug-report.md %}#reporting-bugs-in-github).
+
+### Did you write a patch that fixes a bug?
+
+- Open a new GitHub pull request with the patch.
+
+- Ensure the **Pull Request** description clearly describes the problem and solution. Include the relevant issue number if applicable.
+
+- Before submitting, please read the [source code styleguides]({% link resources/styleguides/index.md %}) to know more about coding conventions and benchmarks.
+
 
 ### Suggesting Enhancements
 {: .mb-5}
 
-For suggesting a feature about a project refer to [Suggest An Enhancement]({% link issues/bug-report.md %}#suggesting-enhancements) for more details.
+**Do you intend to add a new feature or change an existing one?**
+
+- Suggest your change by sending us [an enhancement suggestion feedback]({% link issues/feedback.md %}) using [this feature suggestion template]({% link issues/templates.md %}#feature-suggestion-template) and start writing code.
+
+- Do not open an issue on GitHub until you have collected positive feedback about the change. GitHub issues are primarily intended for bug reports and fixes.
+
+- For more detailed information on submitting a feature suggestion about a project, visit our [enhancement suggestion guidelines]({% link issues/bug-report.md %}#suggesting-enhancements).
 
 
 ### Your First Code Contribution
