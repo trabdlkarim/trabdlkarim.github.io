@@ -30,7 +30,7 @@ A **"release"** on TAK PI is a specific version of a project. For example, the r
 
 A **"file"**, also known as a **"package"**, on TAK PI is something that you can download and install. Because of different hardware, operating systems, and file formats, a release may have several files (packages), like an archive containing source code or a binary.
 
-## How do I install a package from TAK PI?
+## How do I build a project from TAK PI?
 
 ---
 
