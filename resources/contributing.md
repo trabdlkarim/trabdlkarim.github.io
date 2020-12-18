@@ -7,8 +7,6 @@ parent: Resources
 # Contribution Guidelines
 {: .no_toc}
 
-`This page is under construction, some of its sections might not be complete.`
-
 First of all, thanks for taking the time to read this contribution guidelines!
 {: .fs-6 .fw-300}
 
