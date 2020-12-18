@@ -75,6 +75,10 @@ We have an official message board with a detailed FAQ and where the community ch
 
 - For more detailed information on submitting a feature suggestion about a project, visit our [enhancement suggestion guidelines]({% link issues/bug-report.md %}#suggesting-enhancements).
 
+### Do you have questions about the source code?
+{: .mb-5}
+
+
 
 ### Your First Code Contribution
 {: .mb-5}
@@ -90,6 +94,11 @@ TODO
 {: .mb-5}
 
  TODO
+
+
+---
+
+## Additional Notes
 
 ### Git Commit Messages
 {: .mb-5}
@@ -116,15 +125,13 @@ TODO
     * :arrow_down: `:arrow_down:` when downgrading dependencies
     * :shirt: `:shirt:` when removing linter warnings
 
----
-
-## Additional Notes
-
-TODO
-
 ### Issue and Pull Request Labels
 {: .mb-5}
 
 This section lists the labels we use to help us track and manage issues and pull requests. Most labels are used across all repositories.
 
+---
 
+TAK Projects are works of volunteers. We encourage you to pitch in and join the community!
+
+Thanks! :heart: :heart: :heart:
