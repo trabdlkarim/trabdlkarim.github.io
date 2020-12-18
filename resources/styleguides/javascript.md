@@ -1,6 +1,6 @@
 --- 
 layout: page
-title: JavaScript Style Guide
+title: JavaScript Styleguide
 parent: Source Styleguides
 grand_parent: Resources 
 --- 
