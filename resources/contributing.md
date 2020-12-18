@@ -39,7 +39,8 @@ We have an official message board with a detailed FAQ and where the community ch
 * [Common Questions & Answers]({% link resources/faqs.md %})
 * [Send feedback]({% link issues/feedback.md %})
 
-> **Note:** [Please **DO NOT** file an issue to ask a question. You'll get faster results by using the resources below.
+
+**Note:** Please **DO NOT** file an issue to ask a question. You'll get faster results by using the resources below.
 
 ---
 
@@ -72,7 +73,12 @@ Please follow these steps to have your contribution considered by the maintainer
 
 1. Follow all instructions in [Git Commit Messages](#git-commit-messages)
 2. Follow the [styleguides]({% link resources/styleguides/index.md %})
-3. After you submit your pull request, verify that all [status checks](https://help.github.com/articles/about-status-checks/){:target="_blank"} are passing <details><summary>What if the status checks are failing?</summary>If a status check is failing, and you believe that the failure is unrelated to your change, please leave a comment on the pull request explaining why you believe the failure is unrelated. A maintainer will re-run the status check for you. If we conclude that the failure was a false positive, then we will open an issue to track that problem with our status check suite.</details>
+3. After you submit your pull request, verify that all [status checks](https://help.github.com/articles/about-status-checks/){:target="_blank"} are passing
+
+**What if the status checks are failing?**
+
+If a status check is failing, and you believe that the failure is unrelated to your change, please leave a comment on the pull request explaining why you believe the failure is unrelated. A maintainer will re-run the status check for you. If we conclude that the failure was a false positive, then we will open an issue to track that problem with our status check suite.
+
 
 While the prerequisites above must be satisfied prior to having your pull request reviewed, the reviewer(s) may ask you to complete additional design work, tests, or other changes before your pull request can be ultimately accepted.
 
