@@ -14,6 +14,8 @@ First of all, thanks for taking the time to read this contribution guidelines!
 
 The following is a set of guidelines for contributing to TAK projects and its packages, which are hosted in the [@trabdlkarim repos](https://github.com/trabdlkarim){:target="_blank"} on GitHub. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a [feedback]({{ site.url}}{% link issues/feedback.md %}).
 
+This guide covers ways in which you can become a part of the ongoing development of TAK Projects.
+
 ---
 
 ## Contents
@@ -32,11 +34,12 @@ The TAK projects and everyone participating in them are governed by the [TAK PI 
 
 ## I don't want to read this whole thing I just have a question!!!
 
-> **Note:** [Please **DO NOT** file an issue to ask a question. You'll get faster results by using the resources below.
 
 We have an official message board with a detailed FAQ and where the community chimes in with helpful advice if you have questions.
 * [Common Questions & Answers]({% link resources/faqs.md %})
 * [Send feedback]({% link issues/feedback.md %})
+
+> **Note:** [Please **DO NOT** file an issue to ask a question. You'll get faster results by using the resources below.
 
 ---
 
@@ -55,50 +58,23 @@ We have an official message board with a detailed FAQ and where the community ch
 
 - For more detailed information on submitting a bug report and creating an issue, visit our [bug reporting guidelines]({% link issues/bug-report.md %}#reporting-bugs-in-github).
 
-### Did you write a patch that fixes a bug?
-
-- Open a new GitHub pull request with the patch.
-
-- Ensure the **Pull Request** description clearly describes the problem and solution. Include the relevant issue number if applicable.
-
-- Before submitting, please read the [source code styleguides]({% link resources/styleguides/index.md %}) to know more about coding conventions and benchmarks.
-
-
-### Suggesting Enhancements
-{: .mb-5}
-
-**Do you intend to add a new feature or change an existing one?**
-
-- Suggest your change by sending us [an enhancement suggestion feedback]({% link issues/feedback.md %}) using [this feature suggestion template]({% link issues/templates.md %}#feature-suggestion-template) and start writing code.
-
-- Do not open an issue on GitHub until you have collected positive feedback about the change. GitHub issues are primarily intended for bug reports and fixes.
-
-- For more detailed information on submitting a feature suggestion about a project, visit our [enhancement suggestion guidelines]({% link issues/bug-report.md %}#suggesting-enhancements).
-
-### Do you have questions about the source code?
-{: .mb-5}
-
-
-
-### Your First Code Contribution
-{: .mb-5}
-
-TODO
-
-### Local development
-{: .mb-5}
-
-TODO
-
 ### Pull Requests
 {: .mb-5}
 
- TODO
+The process described here has several goals:
 
+- Maintain Projects' quality
+- Fix problems that are important to users
+- Engage the community in working toward the best possible solution
+- Enable a sustainable system for maintainers to review contributions
 
----
+Please follow these steps to have your contribution considered by the maintainers:
 
-## Additional Notes
+1. Follow all instructions in [Git Commit Messages](#git-commit-messages)
+2. Follow the [styleguides]({% link resources/styleguides/index.md %})
+3. After you submit your pull request, verify that all [status checks](https://help.github.com/articles/about-status-checks/){:target="_blank"} are passing <details><summary>What if the status checks are failing?</summary>If a status check is failing, and you believe that the failure is unrelated to your change, please leave a comment on the pull request explaining why you believe the failure is unrelated. A maintainer will re-run the status check for you. If we conclude that the failure was a false positive, then we will open an issue to track that problem with our status check suite.</details>
+
+While the prerequisites above must be satisfied prior to having your pull request reviewed, the reviewer(s) may ask you to complete additional design work, tests, or other changes before your pull request can be ultimately accepted.
 
 ### Git Commit Messages
 {: .mb-5}
@@ -125,12 +101,31 @@ TODO
     * :arrow_down: `:arrow_down:` when downgrading dependencies
     * :shirt: `:shirt:` when removing linter warnings
 
-### Issue and Pull Request Labels
+
+### Did you write a patch that fixes a bug?
 {: .mb-5}
 
-This section lists the labels we use to help us track and manage issues and pull requests. Most labels are used across all repositories.
+- Open a new GitHub pull request with the patch.
+
+- Ensure the **Pull Request** description clearly describes the problem and solution. Include the relevant issue number if applicable.
+
+- Before submitting, please read the [source code styleguides]({% link resources/styleguides/index.md %}) to know more about coding conventions and benchmarks.
+
+
+### Suggesting Enhancements
+{: .mb-5}
+
+**Do you intend to add a new feature or change an existing one?**
+
+- Suggest your change by sending us [an enhancement suggestion feedback]({% link issues/feedback.md %}) using [this feature suggestion template]({% link issues/templates.md %}#feature-suggestion-template) and start writing code.
+
+- Do not open an issue on GitHub until you have collected positive feedback about the change. GitHub issues are primarily intended for bug reports and fixes.
+
+- For more detailed information on submitting a feature suggestion about a project, visit our [enhancement suggestion guidelines]({% link issues/bug-report.md %}#suggesting-enhancements).
 
 ---
+
+## Additional Notes
 
 TAK Projects are works of volunteers. We encourage you to pitch in and join the community!
 
