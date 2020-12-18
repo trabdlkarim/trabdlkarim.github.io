@@ -135,4 +135,4 @@ While the prerequisites above must be satisfied prior to having your pull reques
 
 TAK Projects are works of volunteers. We encourage you to pitch in and join the community!
 
-Thanks! :heart: :heart: :heart:
+Thanks! <i class="fa fa-heart text-danger"></i> <i class="fa fa-heart text-danger"></i> <i class="fa fa-heart text-danger"></i>
