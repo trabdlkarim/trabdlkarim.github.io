@@ -91,21 +91,21 @@ While the prerequisites above must be satisfied prior to having your pull reques
 * Reference issues and pull requests liberally after the first line
 * When only changing documentation, include `[ci skip]` in the commit title
 * Consider starting the commit message with an applicable emoji:
-    * :art: `:art:` when improving the format/structure of the code
-    * :racehorse: `:racehorse:` when improving performance
-    * :non-potable_water: `:non-potable_water:` when plugging memory leaks
-    * :memo: `:memo:` when writing docs
-    * :penguin: `:penguin:` when fixing something on Linux
-    * :apple: `:apple:` when fixing something on macOS
-    * :checkered_flag: `:checkered_flag:` when fixing something on Windows
-    * :bug: `:bug:` when fixing a bug
-    * :fire: `:fire:` when removing code or files
-    * :green_heart: `:green_heart:` when fixing the CI build
-    * :white_check_mark: `:white_check_mark:` when adding tests
-    * :lock: `:lock:` when dealing with security
-    * :arrow_up: `:arrow_up:` when upgrading dependencies
-    * :arrow_down: `:arrow_down:` when downgrading dependencies
-    * :shirt: `:shirt:` when removing linter warnings
+    * `:art:` when improving the format/structure of the code
+    * `:racehorse:` when improving performance
+    * `:non-potable_water:` when plugging memory leaks
+    * `:memo:` when writing docs
+    * `:penguin:` when fixing something on Linux
+    * `:apple:` when fixing something on macOS
+    * `:checkered_flag:` when fixing something on Windows
+    * `:bug:` when fixing a bug
+    * `:fire:` when removing code or files
+    * `:green_heart:` when fixing the CI build
+    * `:white_check_mark:` when adding tests
+    * `:lock:` when dealing with security
+    * `:arrow_up:` when upgrading dependencies
+    * `:arrow_down:` when downgrading dependencies
+    * `:shirt:` when removing linter warnings
 
 
 ### Did you write a patch that fixes a bug?
@@ -135,4 +135,4 @@ While the prerequisites above must be satisfied prior to having your pull reques
 
 TAK Projects are works of volunteers. We encourage you to pitch in and join the community!
 
-Thanks! <i class="fa fa-heart text-danger"></i> <i class="fa fa-heart text-danger"></i> <i class="fa fa-heart text-danger"></i>
+Thanks <i class="fa fa-heart text-danger"></i> <i class="fa fa-heart text-danger"></i> <i class="fa fa-heart text-danger"></i> !!!
