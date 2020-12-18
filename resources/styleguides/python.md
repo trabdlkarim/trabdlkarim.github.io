@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Python Style Guide
-parent: Source Code Style Guides
+title: Python Styleguide
+parent: Source Styleguides
 grand_parent: Resources
 ---
 
-# Python Style Guide
+# Python Styleguide
 {: .no_toc}
 
 The TAK PI styleguide applies to all TAK Projects. This styleguide is a requirement for patches to the projects and a recommendation for other code in the ecosystem.
