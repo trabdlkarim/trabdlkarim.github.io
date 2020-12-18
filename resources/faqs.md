@@ -19,7 +19,6 @@ parent: Resources
 
 ---
 
-
 ## What's package, release, or project?
 
 We use a number of terms to describe software available on TAK PI, like "project", "release", "file", and "package". Sometimes those terms are confusing because they're used to describe different things in other contexts. Here on TAK PI is how [we use them as understood by PyPI](https://pypi.org/help/#packages){:target='_blank'}
@@ -30,7 +29,11 @@ A **"release"** on TAK PI is a specific version of a project. For example, the r
 
 A **"file"**, also known as a **"package"**, on TAK PI is something that you can download and install. Because of different hardware, operating systems, and file formats, a release may have several files (packages), like an archive containing source code or a binary.
 
+---
+
 ## How do I build a project from TAK PI?
+
+TODO
 
 ---
 
