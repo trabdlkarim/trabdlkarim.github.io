@@ -19,7 +19,6 @@ parent: Resources
 
 ---
 
-# Basics
 
 ## What's package, release, or project?
 
@@ -35,53 +34,41 @@ A **"file"**, also known as a **"package"**, on TAK PI is something that you can
 
 ---
 
-# Integration
-
 ## How do I get notified when a new version of a project is released?
 
 TODO
- 
+
+--- 
+
 ## Where can I see statistics about TAK PI, downloads, and project or package usage?
 
 TODO
 
 ---
 
-# Administration of projects on TAK PI
-
----
-
-# Troubleshooting
-
-TODO
-
----
-
-# About
-
 ## Who maintains TAK PI?
 
 TODO
 
-## What powers TAK PI?
-
-TODO 
-
-## Can I depend on TAK PI being available?
-
-TODO
+---
 
 ## How can I contribute to a TAK PI Project?
 
 TODO
 
+---
+
 ## How do I keep up with upcoming changes to TAK PI Projects?
 
 TODO
 
+---
+
 ## What does the "beta feature" badge mean? What are ppindex's current beta features?
 
 TODO
+
+---
 
 ## How do I pronounce "TAK PI"?
 
