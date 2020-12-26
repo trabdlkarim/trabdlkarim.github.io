@@ -3,3 +3,4 @@ gemspec
 gem 'jekyll-sitemap'
 gem 'jekyll-paginate'
 gem 'jekyll-gist'
+gem 'jekyll-admin'
