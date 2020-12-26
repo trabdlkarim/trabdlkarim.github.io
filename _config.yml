@@ -24,8 +24,7 @@ paginate_path: "/projects/browse/page/:num/"
 
 permalink: /:categories/:title/
 
-exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE", "lib/", "bin/", "README.md", "Rakefile"
-,"tests/"
+exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE", "lib/", "bin/", "README.md", "Rakefile", "tests/", "docs/"
 ]
 # About/contact
 author:
