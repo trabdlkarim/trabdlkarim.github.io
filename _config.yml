@@ -82,7 +82,7 @@ aux_nav_links:
     link:  "https://github.com/trabdlkarim"
     icon:  "fa fa-github"
     target: true
-  - label:  "Documentation"
+  - label:  "Manuals"
     link:   "https://docs.trabdlkarim.com"
     icon:   "fa fa-book"
     target: true
