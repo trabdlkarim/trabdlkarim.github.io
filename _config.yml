@@ -74,18 +74,18 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_nav_links:
-  -label:  "Browse"
-   link:   "https://trabdlkarim.com" 
-   icon:   "fa fa-cubes"
-   traget: false
-  -label: "GitHub"
-   link:  "https://github.com/trabdlkarim"
-   icon:  "fa fa-github"
-   target: true
-  -label:  "Documentation"
-   link:   "https://docs.trabdlkarim.com"
-   icon:   "fa fa-book"
-   target: true
+  - label:  "Browse"
+    link:   "https://trabdlkarim.com" 
+    icon:   "fa fa-cubes"
+    traget: false
+  - label: "GitHub"
+    link:  "https://github.com/trabdlkarim"
+    icon:  "fa fa-github"
+    target: true
+  - label:  "Documentation"
+    link:   "https://docs.trabdlkarim.com"
+    icon:   "fa fa-book"
+    target: true
  
 # Aux links for the social media
 social_links:
