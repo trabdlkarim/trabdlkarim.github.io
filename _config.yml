@@ -81,7 +81,7 @@ aux_nav_links:
    
   -label: "GitHub"
    link:  "https://github.com/trabdlkarim"
-   icon:  "fab fa-github"
+   icon:  "fa fa-github"
    target: true
    
   -label:  "Documentation"
