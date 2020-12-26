@@ -73,19 +73,24 @@ search:
 heading_anchors: true
 
 # Aux links for the upper right navigation
-aux_links:
-  "Blog":
-    - "https://trabdlkarim.com" 
-    
-  "GitHub":
-    - "https://github.com/trabdlkarim"
+aux_nav_links:
+  -label:  "Browse"
+   link:   "https://trabdlkarim.com" 
+   icon:   "fa fa-cubes"
+   traget: false
    
-  "About":
-    - "https://me.trabdlkarim.com"
-  
+  -label: "GitHub"
+   link:  "https://github.com/trabdlkarim"
+   icon:  "fab fa-github"
+   target: true
+   
+  -label:  "Documentation"
+   link:   "https://docs.trabdlkarim.com"
+   icon:   "fa fa-book"
+   target: true
  
 # Aux links for the social media
-social:
+social_links:
   - icon: "fa fa-twitter"
     link: "https://twitter.com/trabdlkarim"
   - icon: "fa fa-linkedin"
@@ -96,7 +101,7 @@ social:
     link: "https://github.com/trabdlkarim"
   - icon: "fab fa-dev"
     link: "https://dev.to/trabdlkarim" 
-special_aux_nav: Browse
+
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
 
