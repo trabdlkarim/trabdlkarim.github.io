@@ -72,9 +72,9 @@ layout: table_wrappers
        Send an email to  <a href="mailto:{{ site.author.email }}" target="_blank">{{ site.author.email }}</a> to get in touch. 
       {% endif %}
       </p>
-      {% if site.social %}
+      {% if site.social_links %}
       <div class="social-icons">
-       {% for link in site.social %}
+       {% for link in site.social_links %}
           <span class="mx-1"><a href="{{ link.link }}" target="_blank"><i class="{{ link.icon }} fa-2x"></i></a></span>
       {% endfor %}
       </div>
@@ -93,7 +93,7 @@ layout: table_wrappers
         </div>
       {% endif %}
       {% include header_custom.html %}
-      {% if site.aux_links %}
+      {% if site.aux_nav_links %}
         <nav aria-label="Auxiliary" class="aux-nav">
           <ul class="aux-nav-list">
              <li class="aux-nav-list-item">
@@ -112,7 +112,7 @@ layout: table_wrappers
                </a>
             </li>
             {% comment %}
-            {% for link in site.aux_links %}
+            {% for link in site.aux_nav_links %}
               <li class="aux-nav-list-item">
                 <a href="{{ link.last }}" class="site-button"
                   {% if site.aux_links_new_tab %}
