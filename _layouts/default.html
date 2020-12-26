@@ -111,19 +111,21 @@ layout: table_wrappers
                  <i class="fas fa-graduation-cap mx-1"></i> Toure A. Karim
                </a>
             </li>
-            {% comment %}
-            {% for link in site.aux_nav_links %}
+            {% for item in site.aux_nav_links %}
               <li class="aux-nav-list-item">
-                <a href="{{ link.last }}" class="site-button"
-                  {% if site.aux_links_new_tab %}
+                <a href="{{ item.link }}" 
+                   class="site-button 
+                          {% if item.icon %} 
+                            item.icon 
+                          {% endif %}"
+                  {% if item.target %}
                   target="_blank" rel="noopener noreferrer"
                   {% endif %}
                 >
-                  {{ link.first }}
+                  {{ item.label }}
                 </a>
               </li>
             {% endfor %}
-            {% endcomment %}
           </ul>
         </nav>
       {% endif %}
