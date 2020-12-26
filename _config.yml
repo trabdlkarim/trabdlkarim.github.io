@@ -78,12 +78,10 @@ aux_nav_links:
    link:   "https://trabdlkarim.com" 
    icon:   "fa fa-cubes"
    traget: false
-   
   -label: "GitHub"
    link:  "https://github.com/trabdlkarim"
    icon:  "fa fa-github"
    target: true
-   
   -label:  "Documentation"
    link:   "https://docs.trabdlkarim.com"
    icon:   "fa fa-book"
