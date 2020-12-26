@@ -96,33 +96,17 @@ layout: table_wrappers
       {% if site.aux_nav_links %}
         <nav aria-label="Auxiliary" class="aux-nav">
           <ul class="aux-nav-list">
-             <li class="aux-nav-list-item">
-               <a href="{{ site.baseurl }}{% link projects/browse/index.html %}" class="site-button">
-                 <i class="fas fa-cubes mx-1"></i> Browse
-               </a>
-            </li>
-            <li class="aux-nav-list-item">
-               <a href="https://github.com/trabdlkarim" class="site-button" target="_blank">
-                 <i class="fab fa-github mx-1"></i> GitHub
-               </a>
-            </li>
-            <li class="aux-nav-list-item">
-               <a href="https://me.trabdlkarim.com/" class="site-button" target="_blank">
-                 <i class="fas fa-graduation-cap mx-1"></i> Toure A. Karim
-               </a>
-            </li>
             {% for item in site.aux_nav_links %}
               <li class="aux-nav-list-item">
-                <a href="{{ item.link }}" 
-                   class="site-button 
-                          {% if item.icon %} 
-                            item.icon 
-                          {% endif %}"
+                <a href="{{ item.link }}" class="site-button"
                   {% if item.target %}
                   target="_blank" rel="noopener noreferrer"
                   {% endif %}
                 >
-                  {{ item.label }}
+                {% if item.icon %} 
+                 <i class="{{item.icon}}"> </i>
+                {% endif %}"  
+                {{ item.label }}
                 </a>
               </li>
             {% endfor %}
