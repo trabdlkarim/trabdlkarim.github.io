@@ -53,4 +53,4 @@ We learned the hard way with the projects that reliance on external services can
 ### Permissions
 {: .my-5}
 
-The permission structure is managed on GitHub which is our primary home for the project. In particular it also shows who can commit to different projects and how.
+The permission structure is managed on GitHub which is our primary home for the projects. In particular it also shows who can commit to different projects and how.
