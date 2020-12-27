@@ -75,7 +75,7 @@ heading_anchors: true
 # Aux links for the upper right navigation
 aux_nav_links:
   - label:  "Browse"
-    link:   "https://trabdlkarim.com" 
+    link:   "/projects/browse/" 
     icon:   "fa fa-cubes"
     traget: false
   - label: "GitHub"
