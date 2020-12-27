@@ -25,7 +25,16 @@ The TAK PI projects are mainly a collection of Python development projects that 
 
 The purpose of TAK PI is to provide a home for the individual projects so that users have a central place to go to to report bugs, provide patches and get releases. The idea of the TAK Project is to be an inclusive community around the projects that all live and breathe by the same rules to make the projects less dependent on the original author without compromising the design ideas behind them.
 
-## Structure
+## TAK Projects
+
+One of the most important ways to develop your skills and improve your employability as a software engineer is to work on side projects, for instance open source projects, helpful tools and scripts.
+
+It is not always so easy to start a new good software development project. Sometimes, we want to work on side projects but struggle to come up with a good idea. That is where TAK PI projects come in play. The projects of this index can help you fight “side project paralysis” by offering diverse project that an intermediate software developer can start in one weekend. The emphasis here is not on projects that are going to change the world. Instead, these are important and fun projects to give you something to add to your portfolio and make you a better developer.
+
+The TAK PI projects are suited for all levels engineers trying to beef up their software engineering fundamentals. They’ll help you learn more about specific aspects of computing, like file transfer and operating systems design. These projects can be particularly useful for self-taught developers who’ve focused more on practical skills than computer science fundamentals. They projects will also help you achieve a practical goal, while also improving your software engineering skills.
+
+
+## TAK PI Structure
 
 TAK PI does not have a strong structure yet and maybe that will not change. The head of the information organization is Toure A. Karim and potentially controversial decisions are signed off through him.
 
