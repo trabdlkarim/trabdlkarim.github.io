@@ -21,4 +21,6 @@ TAK Project Index (TAK PI) is just a simple hub for some of [@trabdlkarim](https
 
 ---
 
-TODO
+## TAK Project Index
+
+The TAK PI projects are mainly a collection of Python development projects that are independently developed by [Toure A. Karim](https://rabdlkarim.com){:traget="_blank"}. TAK PI is a community-driven organization with the goal to maintain and improve those projects.
