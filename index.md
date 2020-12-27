@@ -5,6 +5,8 @@ nav_order: 1
 description: "Toure Abdoul Karim's Project Index hosted on GitHub Pages."
 permalink: /
 last_modified_date: "2020-12-27 03:31:57 am"
+release_count: 6
+file_count: 150
 ---
 
 # Toure A. Karim Project Index
@@ -36,8 +38,8 @@ Welcome to the Toure A. Karim Project Index, a collection of projects and refere
  </tr>
  <tr>
    <td>{{ proj_count }}</td>
-   <td>NaN</td>
-   <td>NaN</td>
+   <td>{{ release_count }}</td>
+   <td>{{ file_count }}</td>
  </tr>
 </table>
 
