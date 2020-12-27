@@ -38,8 +38,8 @@ Welcome to the Toure A. Karim Project Index, a collection of projects and refere
  </tr>
  <tr>
    <td>{{ proj_count }}</td>
-   <td>{{ release_count }}</td>
-   <td>{{ file_count }}</td>
+   <td>{{ page.release_count }}</td>
+   <td>{{ page.file_count }}</td>
  </tr>
 </table>
 
