@@ -34,11 +34,11 @@ It is not always so easy to start a new good software development project. Somet
 The TAK Projects are suited for all levels engineers trying to beef up their software engineering fundamentals. They’ll help you learn more about specific aspects of computing, like file transfer and operating systems design. These projects can be particularly useful for self-taught developers who’ve focused more on practical skills than computer science fundamentals. They projects will also help you achieve a practical goal, while also improving your software engineering skills.
 
 
-## TAK PI Structure
+## Structure
 
 TAK PI does not have a strong structure yet and maybe that will not change. The head of the information organization is Toure A. Karim and potentially controversial decisions are signed off through him.
 
-### Decision Making Process
+### Decisions
 {: .my-5}
 
 The purpose of the TAK Project Index is primarily to reduce the risk of the projects to depend too much on a single person and secondly to document the otherwise very opaque processes a bit. All important decisions will still be made by Toure A. Karim until a better structure emerges naturally but ideally most problems fall into categories that are well enough covered by the Governance section of this website.
