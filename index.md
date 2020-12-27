@@ -4,6 +4,7 @@ title: Home
 nav_order: 1
 description: "Toure Abdoul Karim's Project Index hosted on GitHub Pages."
 permalink: /
+last_modified_date: "2020-12-27 03:31:57 am"
 ---
 
 # Toure A. Karim Project Index
