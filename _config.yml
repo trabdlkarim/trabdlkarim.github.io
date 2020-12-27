@@ -144,7 +144,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-gist
-  - jekyll-admin
   
 kramdown:
   syntax_highlighter_opts:
