@@ -13,7 +13,7 @@ last_modified_date: "2020-12-27 03:31:57 am"
 TAK Project Index (TAK PI) is just a simple hub for some of <a href="https://github.com/trabdlkarim" target="_blank">@trabdlkarim</a> most important software development projects. You can think of it as a personal development lab  with various projects that you could customize for your own use upon downloading.
 {: .fs-6 .fw-300 }
 
-[Trending projects]({{ site.baseurl }}{% link projects/trending-projects.md %}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [New releases]({{ site.baseurl }}{% link projects/new-releases.md %}){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Trending projects]({{ site.baseurl }}{% link projects/trending-projects.md %}){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Project Summaries]({{ site.baseurl }}{% link projects/summaries.md %}){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
