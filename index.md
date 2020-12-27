@@ -23,10 +23,13 @@ TAK Project Index (TAK PI) is just a simple hub for some of <a href="https://git
 Welcome to the Toure A. Karim Project Index, a collection of projects and references to help you download and share software packages. TAK Project Index is a core set of various types of personal software projects.
 
 ### Stats
+{% capture proj_count %}
+ {{ site.posts.size }}
+{% endcapture %}
 
-| Projects | Releases  | Files     |
-|:---------|:----------|:----------|
-| 77       | 691       | 3,047     |
+| Projects         | Releases  | Files     |
+|:-----------------|:----------|:----------|
+| {{ proj_count }} | Unknown   | Unknown   |
 
 ---
 
