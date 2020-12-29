@@ -22,25 +22,26 @@ A simple voice controlled web browser
 
 ---
 
-## <i class="fa fa-file-alt"></i> Project Description
+## Project Description
 
 Voce Browser is PyQWebEngine chromium based voice controlled web brwoser.
 
 ---
 
-## <i class="fa fa-stream"></i> Release History
+## Project Links
+
+<dl>
+  <dt>Homepage</dt>
+  <dd>{{page.license}}</dd>
+  <dt>Documentation</dt>
+  <dd><a href="#" target="_blank">docs.trabdlkarim.com/voce-browser</a></dd>
+  <dt>Repository</dt>
+  <dd>{{site.author.name}}</dd>
+</dl>
 
 ---
 
-## <i class="fa fa-download"></i> Download Files
-
----
-
-## <i class="fa fa-book"></i> Documentation
-
----
-
-## <i class="fa fa-chart-pie"></i> Statistics
+## Intended Audience
 
 ---
 
@@ -55,7 +56,7 @@ Voce Browser is PyQWebEngine chromium based voice controlled web brwoser.
 
 ---
 
-## <i class="fa fa-users"></i> Maintainers
+## Maintainers
 
 This index is mainly maintained on GitHub by the <a href="https://github.com/trabdlkarim" target="_blank">@trabdlkarim</a> and other contributors. We happily accept any [contributions and feedback]({{ site.baseurl }}{% link issues/feedback.md %}). 😊
 
