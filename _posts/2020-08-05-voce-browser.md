@@ -17,21 +17,15 @@ A simple voice controlled web browser
 
 ---
 
-# Table of contents
-{: .no_toc .text-delta }
-
-1. TOC 
-{:toc}
-
----
-
 ## Project Description
+{: .my-5}
 
 Voce Browser is PyQWebEngine chromium based voice controlled web brwoser.
 
 ---
 
 ## Project Links
+{: .my-5}
 
 <dl>
   <dt> <i class="fa fa-info-circle"></i> Homepage</dt>
@@ -45,12 +39,14 @@ Voce Browser is PyQWebEngine chromium based voice controlled web brwoser.
 ---
 
 ## Intended Audience
+{: .my-5}
 
 This project is intended to developers 
 
 ---
 
 ## Meta
+{: .my-5}
 
 <dl>
   <dt>License</dt>
@@ -62,6 +58,7 @@ This project is intended to developers
 ---
 
 ## Maintainers
+{: .my-5}
 
 This index is mainly maintained on GitHub by the <a href="https://github.com/trabdlkarim" target="_blank">@trabdlkarim</a> and other contributors. We happily accept any [contributions and feedback]({{ site.baseurl }}{% link issues/feedback.md %}). 😊
 
