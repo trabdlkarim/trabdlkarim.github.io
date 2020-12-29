@@ -4,7 +4,10 @@ title: voce-browser 0.15.56
 category: projects
 tags: stable build passing new-release
 excerpt: A simple voice controlled browser
-license: MIT
+license: MIT License
+homepage: https://projects.trabdlkarim.com/voce-browser
+docs: https://docs.trabdlkarim.com/projects/voce-browser
+repo: https://github.com/trabdlkarim/voce-browser
 ---
 
 #  <i class="fa fa-cube"></i> {{page.title}}
@@ -31,21 +34,23 @@ Voce Browser is PyQWebEngine chromium based voice controlled web brwoser.
 ## Project Links
 
 <dl>
-  <dt>Homepage</dt>
-  <dd>{{page.license}}</dd>
-  <dt>Documentation</dt>
-  <dd><a href="#" target="_blank">docs.trabdlkarim.com/voce-browser</a></dd>
-  <dt>Repository</dt>
-  <dd>{{site.author.name}}</dd>
+  <dt> <i class="fa fa-info-circle"></i> Homepage</dt>
+  <dd><a href="{{page.homepage}}" target="_blank">{{page.homepage}}</a></dd>
+  <dt> <i class="fa fa-book"></i> Documentation</dt>
+  <dd><a href="{{page.docs}}" target="_blank">{{page.docs}}</a></dd>
+  <dt> <i class="fa fa-github"></i> Repository</dt>
+  <dd><a href="{{page.repo}}" target="_blank">{{page.repo}}</a></dd>
 </dl>
 
 ---
 
 ## Intended Audience
 
+This project is intended to developers 
+
 ---
 
-## <i class="fa fa-info-circle"></i> Meta
+## Meta
 
 <dl>
   <dt>License</dt>
