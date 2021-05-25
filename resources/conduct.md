@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Code of Conduct
-parent: Resources
 ---
 
 # Contributor Covenant Code of Conduct
