@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Resources
-nav_order: 99
-has_children: true
+title: Contributing
+nav_order: 98
 ---
 
 # Resources
