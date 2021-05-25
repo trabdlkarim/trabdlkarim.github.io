@@ -1,7 +1,7 @@
 ---
 layout: post
 title: noteoverflow 1.2.34
-tags: new-release build-passing stable
+tags: stable javaee tomcat8 jsp spring-mvc
 language: Java
 ---
 
