@@ -63,7 +63,7 @@ You can check out here the most recent projects that have been added to TAK PI. 
   {% endfor %}
   </ol>
 
- See all the details in [Browse all projects]({{ site.baseurl }}{% link projects/browse/index.html %}) for more information.
+ See all the details in [Browse all projects]({{ site.baseurl }}{% link index.html %}) for more information.
 
 ---
 
