@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Licenses & Copyright
+title: Licensing
 nav_order: 99
 ---
 
