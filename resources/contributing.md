@@ -10,7 +10,7 @@ nav_order: 98
 First of all, thanks for taking the time to read this contribution guidelines!
 {: .fs-6 .fw-300}
 
-The following is a set of guidelines for contributing to TAK projects and its packages, which are hosted in the [@trabdlkarim repos](https://github.com/trabdlkarim){:target="_blank"} on GitHub. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a [feedback]({{% link feedback/index.md %}).
+The following is a set of guidelines for contributing to TAK projects and its packages, which are hosted in the [@trabdlkarim repos](https://github.com/trabdlkarim){:target="_blank"} on GitHub. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a [feedback]({% link feedback/index.md %}).
 
 This guide covers ways in which you can become a part of the ongoing development of TAK Projects.
 
@@ -30,7 +30,7 @@ The TAK projects and everyone participating in them are governed by the [TAK PI 
 
 ## I don't want to read this whole thing I just have a question!!!
 
-In case you have just something in your mind about the projects and don't want to bother reading this whole thing, feel free to ask your questions by [sending us a feedback]({{% link feedback/index.md %}).
+In case you have just something in your mind about the projects and don't want to bother reading this whole thing, feel free to ask your questions by [sending us a feedback]({% link feedback/index.md %}).
 
 **Note:** Please **DO NOT** file an issue to ask a question. You'll get faster results by using the resources below.
 
