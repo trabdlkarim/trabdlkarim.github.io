@@ -60,7 +60,7 @@ This project is intended to developers
 ## Maintainers
 {: .my-5}
 
-This index is mainly maintained on GitHub by the <a href="https://github.com/trabdlkarim" target="_blank">@trabdlkarim</a> and other contributors. We happily accept any [contributions and feedback]({{ site.baseurl }}{% link issues/feedback.md %}). 😊
+This index is mainly maintained on GitHub by the <a href="https://github.com/trabdlkarim" target="_blank">@trabdlkarim</a> and other contributors. We happily accept any [contributions and feedback]({{ site.baseurl }}{% link feedback.md %}). 😊
 
 <ul class="list-style-none">
 {% for contributor in site.github.contributors %}
