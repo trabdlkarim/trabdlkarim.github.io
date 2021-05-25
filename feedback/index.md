@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Send feedback
-parent: Feedback
+nav_order: 101
 ---
 
 # Do you have any question in mind?
