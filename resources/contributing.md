@@ -10,7 +10,7 @@ parent: Resources
 First of all, thanks for taking the time to read this contribution guidelines!
 {: .fs-6 .fw-300}
 
-The following is a set of guidelines for contributing to TAK projects and its packages, which are hosted in the [@trabdlkarim repos](https://github.com/trabdlkarim){:target="_blank"} on GitHub. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a [feedback]({{ site.url}}{% link feedback.md %}).
+The following is a set of guidelines for contributing to TAK projects and its packages, which are hosted in the [@trabdlkarim repos](https://github.com/trabdlkarim){:target="_blank"} on GitHub. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a [feedback]({{ site.url}}{% link feedback/index.md %}).
 
 This guide covers ways in which you can become a part of the ongoing development of TAK Projects.
 
@@ -47,7 +47,7 @@ We have an official message board with a detailed FAQ and where the community ch
 ### Did you find a bug?
 {: .mb-5}
 
-- Do not open up a GitHub issue if the bug is a security vulnerability, and instead send us [a security feedback]({% link feedback.md %}).
+- Do not open up a GitHub issue if the bug is a security vulnerability, and instead send us [a security feedback]({% link feedback/index.md %}).
 
 - Ensure the bug was not already reported by searching on GitHub under Issues.
 
@@ -121,7 +121,7 @@ While the prerequisites above must be satisfied prior to having your pull reques
 
 **Do you intend to add a new feature or change an existing one?**
 
-- Suggest your change by sending us [an enhancement suggestion feedback]({% link feedback.md %}) using [this feature suggestion template](#feature-suggestion-template) and start writing code.
+- Suggest your change by sending us [an enhancement suggestion feedback]({% link feedback/index.md %}) using [this feature suggestion template](#feature-suggestion-template) and start writing code.
 
 - Do not open an issue on GitHub until you have collected positive feedback about the change. GitHub issues are primarily intended for bug reports and fixes.
 
