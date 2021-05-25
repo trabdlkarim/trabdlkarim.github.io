@@ -20,7 +20,7 @@ url: "https://devlabs.trabdlkarim.com" # the base hostname & protocol for your s
 
 paginate:  5
 excerpt_separator: <!--more-->
-paginate_path: "/projects/browse/page/:num/"
+paginate_path: "/browse/page/:num/"
 
 permalink: /:categories/:title/
 
@@ -74,15 +74,11 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_nav_links:
-  - label:  "Browse"
-    link:   "/projects/browse/" 
-    icon:   "fa fa-cubes"
-    traget: false
   - label: "GitHub"
     link:  "https://github.com/trabdlkarim"
     icon:  "fa fa-github"
     target: true
-  - label:  "Manuals"
+  - label:  "Docs"
     link:   "https://docs.trabdlkarim.com"
     icon:   "fa fa-book"
     target: true
