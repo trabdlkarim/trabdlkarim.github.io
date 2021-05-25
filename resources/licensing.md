@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Licenses & Copyright
+nav_order: 99
 ---
 
 # Licensing and Copyrighting
