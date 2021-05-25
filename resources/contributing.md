@@ -121,7 +121,7 @@ While the prerequisites above must be satisfied prior to having your pull reques
 
 **Do you intend to add a new feature or change an existing one?**
 
-- Suggest your change by sending us [an enhancement suggestion feedback]({% link feedback.md %}) using [this feature suggestion template]({% link #feature-suggestion-template) and start writing code.
+- Suggest your change by sending us [an enhancement suggestion feedback]({% link feedback.md %}) using [this feature suggestion template](#feature-suggestion-template) and start writing code.
 
 - Do not open an issue on GitHub until you have collected positive feedback about the change. GitHub issues are primarily intended for bug reports and fixes.
 
