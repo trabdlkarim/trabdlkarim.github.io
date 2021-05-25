@@ -35,7 +35,7 @@ The TAK projects and everyone participating in them are governed by the [TAK PI 
 
 We have an official message board with a detailed FAQ and where the community chimes in with helpful advice if you have questions.
 * [Common Questions & Answers]({% link resources/faqs.md %})
-* [Send feedback]({% link issues/feedback.md %})
+* [Send feedback]({% link feedback.md %})
 
 
 **Note:** Please **DO NOT** file an issue to ask a question. You'll get faster results by using the resources below.
@@ -47,15 +47,15 @@ We have an official message board with a detailed FAQ and where the community ch
 ### Did you find a bug?
 {: .mb-5}
 
-- Do not open up a GitHub issue if the bug is a security vulnerability, and instead send us [a security feedback]({% link issues/feedback.md %}).
+- Do not open up a GitHub issue if the bug is a security vulnerability, and instead send us [a security feedback]({% link feedback.md %}).
 
 - Ensure the bug was not already reported by searching on GitHub under Issues.
 
 - If you're unable to find an open issue addressing the problem, open a new one. Be sure to include a title and clear description, as much relevant information as possible, and a code sample or an executable test case demonstrating the expected behavior that is not occurring.
 
-- If possible, use the relevant [bug report template]({% link issues/templates.md %}#bug-report-template) to create the issue. Simply copy the content of the appropriate template, make the necessary changes to demonstrate the issue, and paste the content into the issue description.
+- If possible, use the relevant [bug report template](#bug-report-template) to create the issue. Simply copy the content of the appropriate template, make the necessary changes to demonstrate the issue, and paste the content into the issue description.
 
-- For more detailed information on submitting a bug report and creating an issue, visit our [bug reporting guidelines]({% link issues/bug-report.md %}#reporting-bugs-in-github).
+- For more detailed information on submitting a bug report and creating an issue, visit our [bug reporting guidelines](#reporting-bugs-in-github).
 
 ### Pull Requests
 {: .mb-5}
@@ -121,11 +121,11 @@ While the prerequisites above must be satisfied prior to having your pull reques
 
 **Do you intend to add a new feature or change an existing one?**
 
-- Suggest your change by sending us [an enhancement suggestion feedback]({% link issues/feedback.md %}) using [this feature suggestion template]({% link issues/templates.md %}#feature-suggestion-template) and start writing code.
+- Suggest your change by sending us [an enhancement suggestion feedback]({% link feedback.md %}) using [this feature suggestion template]({% link #feature-suggestion-template) and start writing code.
 
 - Do not open an issue on GitHub until you have collected positive feedback about the change. GitHub issues are primarily intended for bug reports and fixes.
 
-- For more detailed information on submitting a feature suggestion about a project, visit our [enhancement suggestion guidelines]({% link issues/bug-report.md %}#suggesting-enhancements).
+- For more detailed information on submitting a feature suggestion about a project, visit our [enhancement suggestion guidelines](#suggesting-enhancements).
 
 ---
 
