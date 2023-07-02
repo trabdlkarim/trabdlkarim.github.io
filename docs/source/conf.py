@@ -183,7 +183,7 @@ htmlhelp_basename = 'TAKPIndexdoc'
 # (source start file, target name, title, author, document class [howto/manual]).
 latex_documents = [
   ('index', 'TAKPIndex.tex', ur'TAK Project Index Documentation',
-   ur'Toure A. Karim', 'manual'),
+   ur'Abdoul Karim TOURE', 'manual')
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
