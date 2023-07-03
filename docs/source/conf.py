@@ -182,8 +182,8 @@ htmlhelp_basename = 'TAKPIndexdoc'
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, document class [howto/manual]).
 latex_documents = [
-  ('index', 'TAKPIndex.tex', ur'TAK Project Index Documentation',
-   ur'Abdoul Karim TOURE', 'manual')
+  ('index', 'TAKPIndex.tex', r'TAK Project Index Documentation',
+   r'Abdoul Karim TOURE', 'manual')
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
