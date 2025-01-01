@@ -2,6 +2,7 @@
 layout: about
 title: About TAK PI
 nav_order: 100
+nav_exclude: true
 ---
 
 # About TAK PI
