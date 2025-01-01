@@ -28,10 +28,10 @@ exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "pac
 ]
 # About/contact
 author:
-  name:  Touré A. Karim
+  name:  TOURE A. KARIM
   gh-username: trabdlkarim
-  url:   www.trabdlkarim.com
-  email: contact@trabdlkarim.com
+  url:   trabdlkarim.me
+  email: mail@trabdlkarim.me
   
 # Regression tests
 # By default, the pages in /docs/tests are excluded when the ste is built.
