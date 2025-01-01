@@ -59,4 +59,4 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 
 **Contact Us**
 
-If you have any questions or suggestions about this Privacy Policy, do not hesitate to contact us at [contact@trabdlkarim.com](mailto:contact@trabdlkarim.com).
+If you have any questions or suggestions about this Privacy Policy, do not hesitate to contact us at [mail@trabdlkarim.me](mailto:mail@trabdlkarim.me).
