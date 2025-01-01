@@ -16,7 +16,7 @@
 title: TAK Project Index
 description: Toure A. Karim Project Index
 baseurl: / # the subpath of your site, e.g. /blog
-url: "https://trabdlkarim.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://projects.trabdlkarim.me" # the base hostname & protocol for your site, e.g. http://example.com
 
 paginate:  5
 excerpt_separator: <!--more-->
@@ -83,7 +83,7 @@ aux_nav_links:
     icon:  "fa fa-github"
     target: true
   - label:  "Docs"
-    link:   "https://docs.trabdlkarim.com"
+    link:   "https://docs.trabdlkarim.me"
     icon:   "fa fa-book"
     target: true
  
