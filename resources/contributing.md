@@ -26,7 +26,7 @@ This guide covers ways in which you can become a part of the ongoing development
 
 ## Code of Conduct
 
-The TAK projects and everyone participating in them are governed by the [TAK PI Code of Conduct]({% link resources/conduct.md %}). By participating, you are expected to uphold this code. Please report unacceptable behavior to [contact@trabdlkarim.com](mailto:contact@trabdlkarim.com).
+The TAK projects and everyone participating in them are governed by the [TAK PI Code of Conduct]({% link resources/conduct.md %}). By participating, you are expected to uphold this code. Please report unacceptable behavior to [mail@trabdlkarim.me](mailto:mail@trabdlkarim.me).
 
 ## I don't want to read this whole thing I just have a question!!!
 
