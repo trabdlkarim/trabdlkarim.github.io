@@ -74,7 +74,6 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_nav_links:
-    target: false
   - label: "GitHub"
     link:  "https://github.com/trabdlkarim"
     icon:  "fa fa-github"
