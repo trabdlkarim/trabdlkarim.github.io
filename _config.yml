@@ -89,12 +89,10 @@ aux_nav_links:
  
 # Aux links for the social media
 social_links:
-  - icon: "fa fa-twitter"
-    link: "https://twitter.com/trabdlkarim"
   - icon: "fa fa-linkedin"
     link: "https://www.linkedin.com/in/trabdlkarim/"
-  - icon: "fa fa-stack-exchange"
-    link: "https://stackexchange.com/"
+  - icon: "fa fa-telegram"
+    link: "https://t.me/trabdlkarim"
   - icon: "fa fa-github"
     link: "https://github.com/trabdlkarim"
   - icon: "fab fa-dev"
