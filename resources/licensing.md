@@ -2,6 +2,7 @@
 layout: page
 title: Licensing
 nav_order: 99
+nav_exclude: true
 ---
 
 # Licensing and Copyrighting

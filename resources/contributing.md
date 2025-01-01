@@ -2,6 +2,7 @@
 layout: default
 title: Contributing
 nav_order: 98
+nav_exclude: true
 ---
 
 # Contribution Guidelines

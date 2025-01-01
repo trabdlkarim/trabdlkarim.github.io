@@ -2,6 +2,7 @@
 layout: page
 title: Send feedback
 nav_order: 101
+nav_exclude: true
 ---
 
 # Do you have any question in mind?
