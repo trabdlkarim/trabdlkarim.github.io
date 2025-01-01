@@ -42,9 +42,9 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'TAK Project Index'
-copyright = u'2020, Toure A. Karim & Contributors -'
-author = u'Toure A. Karim'
+project = u'TAK PI Docs'
+copyright = u'2020, TOURE A. KARIM & Contributors'
+author = u'TOURE A. KARIM'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -183,7 +183,7 @@ htmlhelp_basename = 'TAKPIndexdoc'
 # (source start file, target name, title, author, document class [howto/manual]).
 latex_documents = [
   ('index', 'TAKPIndex.tex', r'TAK Project Index Documentation',
-   r'Abdoul Karim TOURE', 'manual')
+   r'Abdoul Karim TOURE', 'TAK PI', 'manual')
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
