@@ -51,6 +51,7 @@ exclude:
   - Dockerfile
   # theme test code
   - fixtures/
+  - "docs/"
 
 # About/contact
 author:
