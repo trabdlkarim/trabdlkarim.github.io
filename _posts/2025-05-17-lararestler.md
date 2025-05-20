@@ -1,6 +1,6 @@
 ---
 layout: post
-title: pycalco 0.92
+title: lararestler 1.0.1
 language: PHP
 tags: laravel-package restler rest-api
 ---
