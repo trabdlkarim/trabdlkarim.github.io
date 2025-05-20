@@ -16,7 +16,7 @@
 title: TAK Projects
 description: Toure A. Karim Project Index
 baseurl: / # the subpath of your site, e.g. /blog
-url: "https://projects.trabdlkarim.me" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://dev.trabdlkarim.me" # the base hostname & protocol for your site, e.g. http://example.com
 
 paginate:  5
 excerpt_separator: <!--more-->
