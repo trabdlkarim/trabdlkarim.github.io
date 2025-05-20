@@ -25,13 +25,6 @@ paginate_path: "/browse/page/:num/"
 
 permalink: /:categories/:title/
 
-defaults:
-  - scope:
-      path: "docs" # an empty string here means all files in the project
-      type: "pages"
-    values:
-      layout: "default"
-
 exclude: 
   - .sass-cache/
   - .jekyll-cache/
@@ -103,7 +96,7 @@ search:
   button: true
   # Focus the search input by pressing `ctrl + focus_shortcut_key` (or `cmd + focus_shortcut_key` on macOS)
   focus_shortcut_key: "k"
-  
+
 # Enable or disable heading anchors
 heading_anchors: true
 
