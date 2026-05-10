@@ -1,10 +1,8 @@
 ### Site Settings ###
 title               : "TOURE A. KARIM"
 description         : >-
-                      I’m a web developer fueled by creativity, curiosity, and probably too much coffee. 
-                      I love turning ideas into sleek, interactive websites and apps that people actually enjoy using. 
-                      Every bit of support helps me build cooler projects, explore new ideas, and keep creating awesome 
-                      experiences.
+                      I’m a web developer fueled by creativity, curiosity, and probably too much coffee :coffee:. 
+                      I love turning ideas into sleek, interactive websites and apps that people actually enjoy using.
 baseurl             : ""            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : trabdlkarim/trabdlkarim.github.io      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : yousinix/portfolYOU
