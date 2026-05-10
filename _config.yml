@@ -27,22 +27,22 @@ nav_exclude:                                            # The following paths ar
 author:
   name              : TOURE A. KARIM
   image             : https://trabdlkarim.me/assets/images/profile.jpg
-  behance           : trabdlkarim
+# behance           : your_username
 # dribbble          : your_username
   email             : mail@trabdlkarim.me
-  facebook          : trabdlkarim
+# facebook          : your_username
   github            : trabdlkarim
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
   linkedin          : trabdlkarim
-  medium            : trabdlkarim
+# medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
-  twitter           : trabdlkarim
+# twitter           : your_username
 # vimeo             : your_username
 # youtube           : your_channel_name
 # keybase           : your_username
@@ -76,8 +76,8 @@ analytics:
 ### Buy me a coffee ###
 # See https://www.buymeacoffee.com/
 buymeacoffee:
-  enabled: false
-  username: your_username
+  enabled: true
+  username: trabdlkarim
   color: "#007bff"
   message: "Thank you for visiting."                    # Message to be displayed aside from the button for a few seconds.
   description: "Support me on Buy me a coffee!"
