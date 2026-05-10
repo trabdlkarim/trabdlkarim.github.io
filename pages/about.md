@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 weight: 3
-external_url: https://trabdlkarim.me/
+external_url: https://trabdlkarim.me/ # Remove this line for displaying this page 
 ---
 
 # **About Me**

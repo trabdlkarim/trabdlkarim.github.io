@@ -1,9 +1,10 @@
 ### Site Settings ###
 title               : "TOURE A. KARIM"
 description         : >-
-                      I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production.
+                      I’m a web developer fueled by creativity, curiosity, and probably too much coffee. 
+                      I love turning ideas into sleek, interactive websites and apps that people actually enjoy using. 
+                      Every bit of support helps me build cooler projects, explore new ideas, and keep creating awesome 
+                      experiences.
 baseurl             : ""            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : trabdlkarim/trabdlkarim.github.io      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : yousinix/portfolYOU
@@ -19,7 +20,7 @@ plugins:
 nav_exclude:             # The following paths are excluded from navbar
   - pages/tags.html
   - pages/404.html
-  - pages/blog.html # Remove this line to enable site blog
+  - pages/blog.html  # Remove this line to enable site blog
   - pages/index.md
   - documentation/partials/**  # For Documentation Only
 
