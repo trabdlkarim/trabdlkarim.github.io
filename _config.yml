@@ -16,11 +16,12 @@ plugins:
 
 
 ### Navbar Settings ###
-nav_exclude:                                            # The following paths are excluded from navbar
+nav_exclude:             # The following paths are excluded from navbar
   - pages/tags.html
   - pages/404.html
+  - pages/blog.html # Remove this line to enable site blog
   - pages/index.md
-  - documentation/partials/**                           # For Documentation Only
+  - documentation/partials/**  # For Documentation Only
 
 
 ### Author Info ###
